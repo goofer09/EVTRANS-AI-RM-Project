@@ -1,0 +1,186 @@
+{
+  "timestamp": "2025-12-27T03:32:50.363586",
+  "hs_code": "8708.30",
+  "description": "Brake systems",
+  "processing_time": 516.6709458827972,
+  "stages": {
+    "enricher": {
+      "output": [
+        {
+          "name": "Brake Calipers",
+          "function": "Provide the force needed to slow or stop the vehicle's wheels via hydraulic pressure.",
+          "subsystem": "Chassis"
+        },
+        {
+          "name": "Master Cylinder",
+          "function": "Converts and distributes brake pedal pressure into hydraulic pressure to operate all four wheel brakes equally.",
+          "subsystem": "Hydraulics"
+        }
+      ],
+      "status": "SUCCESS"
+    },
+    "classifier": {
+      "output": [
+        {
+          "name": "Brake Calipers",
+          "classification": "SHARED",
+          "similarity_score": 1.0
+        },
+        {
+          "name": "Master Cylinder",
+          "classification": "SHARED",
+          "similarity_score": 0.5
+        }
+      ],
+      "status": "SUCCESS"
+    },
+    "scorer": {
+      "output": [
+        {
+          "name": "Brake Calipers",
+          "tech": 75,
+          "manufacturing": 80,
+          "supply_chain": 65,
+          "demand": 45,
+          "value": 70,
+          "regulatory": 60
+        },
+        {
+          "name": "Master Cylinder",
+          "tech": 70,
+          "manufacturing": 80,
+          "supply_chain": 65,
+          "demand": 30,
+          "value": 45,
+          "regulatory": 85
+        }
+      ],
+      "status": "SUCCESS"
+    },
+    "validator": {
+      "overall_quality": 61.25,
+      "overall_confidence": "MEDIUM",
+      "valid": false,
+      "stages": {
+        "enricher": {
+          "stage": "enricher",
+          "quality_score": 5,
+          "issues": [
+            "Expected 4 components, got 2",
+            "Component 1 missing: cost_share, description",
+            "Component 2 missing: cost_share, description",
+            "Cost shares sum to 0.00, expected ~1.0",
+            "All cost shares identical: 0",
+            "Component 2 has invalid subsystem: Hydraulics",
+            "Component 1 description too short: ",
+            "Component 2 description too short: "
+          ],
+          "confidence": "LOW",
+          "valid": false
+        },
+        "classifier": {
+          "stage": "classifier",
+          "quality_score": 80,
+          "issues": [
+            "All components same classification: SHARED"
+          ],
+          "confidence": "HIGH",
+          "valid": true
+        },
+        "scorer": {
+          "stage": "scorer",
+          "quality_score": 60,
+          "issues": [
+            "Expected 4 scores, got 2",
+            "All components same manufacturing score: 80",
+            "All components same supply_chain score: 65"
+          ],
+          "confidence": "MEDIUM",
+          "valid": false
+        },
+        "integration": {
+          "stage": "integration",
+          "quality_score": 100,
+          "issues": [],
+          "confidence": "HIGH",
+          "valid": true
+        }
+      },
+      "all_issues": [
+        [
+          "enricher",
+          "Expected 4 components, got 2"
+        ],
+        [
+          "enricher",
+          "Component 1 missing: cost_share, description"
+        ],
+        [
+          "enricher",
+          "Component 2 missing: cost_share, description"
+        ],
+        [
+          "enricher",
+          "Cost shares sum to 0.00, expected ~1.0"
+        ],
+        [
+          "enricher",
+          "All cost shares identical: 0"
+        ],
+        [
+          "enricher",
+          "Component 2 has invalid subsystem: Hydraulics"
+        ],
+        [
+          "enricher",
+          "Component 1 description too short: "
+        ],
+        [
+          "enricher",
+          "Component 2 description too short: "
+        ],
+        [
+          "classifier",
+          "All components same classification: SHARED"
+        ],
+        [
+          "scorer",
+          "Expected 4 scores, got 2"
+        ],
+        [
+          "scorer",
+          "All components same manufacturing score: 80"
+        ],
+        [
+          "scorer",
+          "All components same supply_chain score: 65"
+        ]
+      ]
+    }
+  },
+  "overall_quality": 61.25,
+  "overall_confidence": "MEDIUM",
+  "valid": false,
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "total_components": 2,
+    "classifications": {
+      "SHARED": 2,
+      "ICE_ONLY": 0,
+      "EV_ONLY": 0,
+      "UNKNOWN": 0
+    },
+    "avg_similarity": 0.75,
+    "quality_by_stage": {
+      "enricher": 5,
+      "classifier": 80,
+      "scorer": 60,
+      "integration": 100
+    },
+    "issues_found": 12,
+    "errors_found": 0,
+    "timeouts": 0,
+    "status": "INVALID"
+  }
+}
