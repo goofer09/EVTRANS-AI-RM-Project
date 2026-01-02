@@ -1,0 +1,132 @@
+cat > SETUP.md << 'EOF'
+# Setup Instructions
+
+## Prerequisites
+
+- Python 3.8 or higher
+- macOS, Linux, or Windows (WSL)
+- 8GB RAM minimum
+- Git
+- Internet connection
+
+## Installation Steps
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/prompt-engineering-system.git
+cd prompt-engineering-system
+```
+
+### 2. Install Ollama
+
+**macOS:**
+```bash
+brew install ollama
+```
+
+**Linux:**
+```bash
+curl https://ollama.ai/install.sh | sh
+```
+
+**Windows:**
+Download from https://ollama.ai
+
+**Verify:**
+```bash
+ollama --version
+```
+
+### 3. Download Model
+```bash
+# Download Mistral 7B (takes 5-15 minutes)
+ollama pull mistral:7b
+
+# Or try the quantized version (faster, smaller):
+ollama pull mistral:7b-q4_k_m
+
+# Verify model is downloaded:
+ollama list
+```
+
+### 4. Create Python Virtual Environment
+```bash
+# Create virtual environment
+python3 -m venv venv
+
+# Activate it
+# On macOS/Linux:
+source venv/bin/activate
+
+# On Windows:
+venv\Scripts\activate
+```
+
+### 5. Install Python Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 6. Start Ollama Server
+```bash
+# In a NEW terminal window:
+ollama serve
+
+# Should show: Listening on 127.0.0.1:11434
+```
+
+### 7. Run First Test
+```bash
+# In your original terminal (with venv activated):
+python3 core/prompt_enricher_tester.py
+
+# Should complete without errors
+```
+
+## Quick Verification
+```bash
+# Check if everything works:
+python3 << 'PYTHON'
+import requests
+
+response = requests.post(
+    "http://localhost:11434/api/generate",
+    json={
+        "model": "mistral:7b",
+        "prompt": "What is 2+2?",
+        "stream": False
+    },
+    timeout=60
+)
+
+if response.status_code == 200:
+    print("✅ Everything is working!")
+else:
+    print("❌ Something is wrong")
+PYTHON
+```
+
+## Getting Started
+
+After setup is complete:
+
+1. Read: `docs/PROMPT_ENGINEER_FIRST_DAY.md` (2-hour quick start)
+2. Read: `docs/PROMPT_ENGINEER_ROLE_GUIDE.md` (understand your role)
+3. Run: `python3 core/prompt_enricher_tester.py` (run tests)
+
+## Troubleshooting
+
+- **Ollama not found:** Make sure it's installed and in PATH
+- **Connection refused:** Make sure Ollama server is running (step 6)
+- **Model not found:** Run `ollama pull mistral:7b`
+- **Permission denied:** Make sure you have execute permissions
+
+See `docs/OLLAMA_MACOS_SETUP_GUIDE.md` for detailed troubleshooting.
+
+## Next Steps
+
+See `docs/ROADMAP_ONE_PAGE.md` for the complete roadmap.
+EOF
+
+# Verify:
+cat SETUP.md
