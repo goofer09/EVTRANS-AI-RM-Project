@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v1",
+  "hs_code": 870850,
+  "classified_components": [
+    {
+      "component": "Constant Velocity Joint (CVJ)",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "Axle Half Shaft",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "U-Joint (Universal Joint)",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95
+    }
+  ]
+}

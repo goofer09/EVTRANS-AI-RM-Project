@@ -1,0 +1,14 @@
+{
+  "company": "Opel Automobile GmbH",
+  "plant": "Opel Kaiserslautern Plant",
+  "city": "Kaiserslautern",
+  "nuts2_code": "DE71",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 950,
+    "confidence": "high",
+    "basis": "annual_report"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-11"
+}

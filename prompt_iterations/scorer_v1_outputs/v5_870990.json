@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v1",
+  "hs_code": 870990,
+  "scored_components": [
+    {
+      "technical_compatibility": 70,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 65,
+      "demand_stability": 75,
+      "value_added": 90,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "Axle assemblies are essential components in both ICE and EV vehicles. However, minor adjustments may be necessary to accommodate the differences in torque delivery and suspension systems.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can repurpose machinery for producing axle assemblies suitable for electric vehicles with some modifications.",
+        "supply_chain_concentration": "There are a few major suppliers of axle assemblies, but the transition to EVs may provide an opportunity for diversification and growth in the supplier base.",
+        "demand_stability": "The demand for axle assemblies is expected to remain stable during the EV transition due to their universal use in vehicles.",
+        "value_added": "Axle assemblies are a complex mechanical component that requires skilled labor and significant economic value.",
+        "regulatory_exposure": "Axle assemblies are exposed to ICE-related regulations because they are used in both ICE and hybrid vehicles. As the phase-out of ICE vehicles progresses, this exposure will decrease."
+      },
+      "component": "Axle Assembly"
+    },
+    {
+      "technical_compatibility": 60,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 75,
+      "demand_stability": 65,
+      "value_added": 85,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "The differential is a fundamental mechanical component in both ICE and EV vehicles. However, since EVs use fewer gears and drive trains, its application and complexity may be reduced.",
+        "manufacturing_feasibility": "Differentials are commonly manufactured components in the automotive industry. Existing facilities could potentially repurpose their machinery for producing differentials for EVs.",
+        "supply_chain_concentration": "There are several suppliers of differentials globally, which helps to reduce supplier concentration. However, some major OEMs may have a higher reliance on specific suppliers.",
+        "demand_stability": "As the transition to EVs continues, demand for certain components such as differentials may experience fluctuations due to changing vehicle architectures and the decreasing use of internal combustion engines.",
+        "value_added": "Differentials are complex mechanical components that require skilled labor. Additionally, they contribute significantly to a vehicle's performance and safety.",
+        "regulatory_exposure": "ICE-related regulations, such as emissions standards and fuel efficiency requirements, will impact the demand for differentials in ICE vehicles more than EVs. This could lead to increased regulatory exposure for differential manufacturers in the short term."
+      },
+      "component": "Differential"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 40,
+      "demand_stability": 70,
+      "value_added": 50,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Transmission is a critical component in ICE vehicles but less relevant in EVs as they use single-speed transmissions or no transmissions at all.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can be repurposed for other automotive components, but the specific machinery for transmission production may need modifications.",
+        "supply_chain_concentration": "The supply chain for transmissions is relatively concentrated due to a few major manufacturers.",
+        "demand_stability": "Demand for transmissions in EVs is lower compared to ICE vehicles, but there will still be some demand during the transition period.",
+        "value_added": "Transmissions contribute significant economic value by providing gear shifting capabilities and efficient power transfer in ICE vehicles.",
+        "regulatory_exposure": "Transmission manufacturers may face exposure due to regulatory phase-out of ICE vehicles, as EVs require fewer or no transmissions."
+      },
+      "component": "Transmission"
+    },
+    {
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 20,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 50,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "An engine mount is a mechanical component that secures an internal combustion engine (ICE) in place. It has no direct role in the functioning of electric vehicles (EVs).",
+        "manufacturing_feasibility": "Existing manufacturing facilities would require significant modification to produce engine mounts for EVs, as they are designed primarily for ICE vehicle components.",
+        "supply_chain_concentration": "There is a relatively large number of manufacturers producing engine mounts globally, reducing the concentration within the supply chain.",
+        "demand_stability": "Demand for engine mounts will decrease as the transition to EVs progresses and ICE vehicle production decreases.",
+        "value_added": "Engine mounts are a simple component with low skill requirements and economic value contribution compared to other parts of vehicles. However, they do have some complexity due to their role in ensuring proper engine positioning and alignment.",
+        "regulatory_exposure": "With increasing environmental regulations aimed at reducing emissions from ICE vehicles, the demand for engine mounts may decline as manufacturers shift towards EV production."
+      },
+      "component": "Engine Mount"
+    }
+  ]
+}

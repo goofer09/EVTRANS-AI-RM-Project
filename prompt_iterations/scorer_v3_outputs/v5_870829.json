@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870829,
+  "scored_components": [
+    {
+      "component": "Door Assembly",
+      "technical_compatibility": 95,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 70,
+      "demand_stability": 60,
+      "value_added": 75,
+      "regulatory_exposure": 85,
+      "reasoning": {
+        "technical_compatibility": "Door assemblies in EVs share similar design principles with ICE vehicles, requiring minimal modifications to adapt.",
+        "manufacturing_feasibility": "While some changes may be needed for electric door actuators and power supply systems, existing manufacturing processes can often be repurposed or adapted.",
+        "supply_chain_concentration": "There are a few key suppliers dominating the market for doors, which could pose challenges in terms of availability and pricing during the ICE-to-EV transition.",
+        "demand_stability": "The demand for doors is somewhat stable due to ongoing vehicle production, but it may fluctuate as the shift towards EVs accelerates.",
+        "value_added": "Doors represent a significant portion of a vehicle's cost and offer opportunities for improved design and functionality in electric vehicles.",
+        "regulatory_exposure": "Regulations may require changes to door construction materials or safety features, but these changes can typically be managed within the industry."
+      }
+    },
+    {
+      "component": "Fender (Wheelhouse)",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 85,
+      "demand_stability": 80,
+      "value_added": 80,
+      "regulatory_exposure": 70,
+      "reasoning": {
+        "technical_compatibility": "Fenders are a structural component common to both ICE and EV vehicles. They do not require any significant design changes for the transition.",
+        "manufacturing_feasibility": "The manufacturing process for fenders is well-established and can be easily adapted to produce components suitable for electric vehicles, given minimal changes in materials or production processes.",
+        "supply_chain_concentration": "While there are several key players in the global automotive fender market, the supply chain is relatively diversified, which reduces the risk of over-reliance on a single supplier.",
+        "demand_stability": "Demand for fenders may experience some volatility as the market transitions to electric vehicles, but it is expected to remain stable due to the ongoing need for structural components in both ICE and EV vehicles.",
+        "value_added": "Fenders contribute significantly to the vehicle's aesthetics and structural integrity, justifying their relatively high value-addition in the manufacturing process.",
+        "regulatory_exposure": "Regulations may impact fender production through emissions standards for traditional materials like steel or plastic. However, the transition to lightweight materials such as carbon fiber may present challenges due to potential regulatory hurdles."
+      }
+    },
+    {
+      "component": "Bumper",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 85,
+      "demand_stability": 90,
+      "value_added": 70,
+      "regulatory_exposure": 60,
+      "reasoning": {
+        "technical_compatibility": "Bumpers are mechanical components with no direct influence on the powertrain system. As such, they maintain full compatibility during ICE-to-EV transition.",
+        "manufacturing_feasibility": "The manufacturing process for bumpers remains largely unchanged between ICE and EV vehicles. Only minor adjustments may be required due to weight differences or specific design considerations related to aerodynamics.",
+        "supply_chain_concentration": "While the bumper industry has several key players, it is not overly concentrated, providing some degree of flexibility during the transition period.",
+        "demand_stability": "Demand for bumpers in both ICE and EV vehicles remains relatively stable due to safety regulations and general vehicle durability requirements.",
+        "value_added": "The value added by bumpers is moderate. While they play a crucial role in vehicle safety, their production costs are not particularly high compared to other components such as powertrains or batteries.",
+        "regulatory_exposure": "Bumpers may face some regulatory changes related to crash testing and safety standards for EVs, but overall exposure is lower than critical powertrain components."
+      }
+    },
+    {
+      "component": "Hood (Bonnet)",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 75,
+      "demand_stability": 80,
+      "value_added": 90,
+      "regulatory_exposure": 60,
+      "reasoning": {
+        "technical_compatibility": "The hood is a mechanical structure and its function remains unchanged in both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Manufacturing processes for hoods can easily be adapted to accommodate the slightly different requirements of EVs, such as incorporating additional components like sensors or cameras.",
+        "supply_chain_concentration": "While there are numerous suppliers for hoods, a significant portion of the market share is controlled by a few major manufacturers, which may lead to supply chain concentration.",
+        "demand_stability": "Demand for hoods remains relatively stable due to their essential role in vehicle safety and aesthetics, even as the overall shift towards EVs occurs.",
+        "value_added": "Hoods are a vital component of vehicles and contribute significantly to the overall value and quality of the final product.",
+        "regulatory_exposure": "Regulations regarding emissions and safety may have an impact on hood design, but these changes are typically minor compared to components like powertrains or batteries."
+      }
+    }
+  ]
+}

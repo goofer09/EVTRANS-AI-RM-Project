@@ -1,0 +1,45 @@
+{
+  "company": "Daimler AG",
+  "plant": "Mercedes-Benz Sindelfingen",
+  "city": "Sindelfingen",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Body and Chassis",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain (ICE)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electrical Systems (EV)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Interior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Exterior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Suspension and Steering Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Transmission Systems (ICE)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

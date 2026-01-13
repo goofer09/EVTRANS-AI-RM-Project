@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870891,
+  "classified_components": [
+    {
+      "component": "Radiator Core",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The radiator core helps in cooling both ICE and EV systems; while the source of heat (ICE vs electric motor) differs, the need for efficient cooling remains."
+    },
+    {
+      "component": "Radiator Tank",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The Radiator Tank is required for cooling purposes in both ICE and EV vehicles, as they generate heat during operation."
+    },
+    {
+      "component": "Radiator Fan",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Radiator fan is primarily used to cool the engine and its components, which are essential for ICE vehicles but not required in EVs as they do not have internal combustion or a cooling system of the same nature."
+    },
+    {
+      "component": "Radiator Cap",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The radiator cap is a cooling system component required in both internal combustion engine (ICE) and electric vehicles (EV), as EVs also generate heat during operation."
+    }
+  ]
+}

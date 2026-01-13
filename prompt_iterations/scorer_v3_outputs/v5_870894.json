@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870894,
+  "scored_components": [
+    {
+      "component": "Rack and Pinion Steering Gear",
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 90,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 75,
+      "regulatory_exposure": 85,
+      "reasoning": {
+        "technical_compatibility": "While the Rack and Pinion Steering Gear is a common component in ICE vehicles, its electrical counterpart, such as an Electric Power Steering (EPS) system, has already been adopted by most OEMs. However, due to their similar design principles and functions, adapting this component for EVs could be achievable with some modifications.",
+        "manufacturing_feasibility": "The manufacturing process of Rack and Pinion Steering Gear is well-established in the automotive industry, allowing for a relatively smooth transition to EV production. However, assembling electric power steering systems may require additional components and processes.",
+        "supply_chain_concentration": "Although there are several suppliers for Rack and Pinion Steering Gear, the supply chain remains concentrated with few key players, which could potentially pose a risk to continuity during the ICE-to-EV transition.",
+        "demand_stability": "The demand for Rack and Pinion Steering Gear will remain stable in the short term due to the high number of existing ICE vehicles. However, as the market shifts towards EVs, the demand might decrease significantly, depending on how quickly electric power steering systems replace traditional steering components.",
+        "value_added": "The Rack and Pinion Steering Gear holds a moderate value-added potential due to its integral role in vehicle safety and handling. However, as the automotive industry continues to innovate and develop more sophisticated steering systems for EVs, this component's value could decrease over time.",
+        "regulatory_exposure": "Regulations on emissions and fuel efficiency standards favor the transition towards EVs, reducing the demand for ICE components like Rack and Pinion Steering Gear. However, current safety regulations ensure that vehicles must maintain proper steering functions, minimizing immediate regulatory exposure."
+      }
+    },
+    {
+      "component": "Steering Column",
+      "technical_compatibility": 95,
+      "manufacturing_feasibility": 90,
+      "supply_chain_concentration": 80,
+      "demand_stability": 70,
+      "value_added": 60,
+      "regulatory_exposure": 50,
+      "reasoning": {
+        "technical_compatibility": "Steering columns are mechanically similar between ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing processes can be adapted for production of steering columns in both ICE and EV vehicles.",
+        "supply_chain_concentration": "There are a limited number of major suppliers, but the supply chain is not highly concentrated.",
+        "demand_stability": "Demand for steering columns may fluctuate due to overall market demand and shifts towards electric vehicles.",
+        "value_added": "Value-addition potential is relatively low as it's a common component in both ICE and EV vehicles, but opportunities exist for innovation such as electronic power steering systems.",
+        "regulatory_exposure": "Regulations may require changes to the design of steering columns (e.g., pedestrian protection) which could impact costs and complexity."
+      }
+    },
+    {
+      "component": "Tie Rods",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 85,
+      "demand_stability": 90,
+      "value_added": 70,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Tie rods are mechanical components used in both ICE and EV vehicles for steering purposes. As such, their technical compatibility remains unchanged during the transition.",
+        "manufacturing_feasibility": "Given that tie rod manufacturing processes are well-established and do not require significant adjustments for electrified vehicles, their manufacturability is considered high in the transition process.",
+        "supply_chain_concentration": "Although there are several major manufacturers of tie rods, the market is not dominated by a single supplier. However, concentration within the top few suppliers remains relatively high, reducing overall competition and potential for cost savings.",
+        "demand_stability": "Demand for tie rods is stable due to their essential role in both ICE and EV vehicles, ensuring consistent demand during the transition.",
+        "value_added": "Tie rods are a simple mechanical component with minimal technology or intellectual property involved. As a result, value-added potential is relatively low compared to other components in the automotive supply chain.",
+        "regulatory_exposure": "Regulations primarily focus on safety and performance requirements for steering systems, which apply equally to both ICE and EV vehicles. Tie rods are not subject to additional regulations specific to electrification."
+      }
+    },
+    {
+      "component": "Center Link",
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 70,
+      "demand_stability": 65,
+      "value_added": 75,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Center links are essential mechanical components in both ICE and EV vehicles, making the transition relatively straightforward.",
+        "manufacturing_feasibility": "While some modifications may be required for electric drivetrains, existing manufacturing processes can adapt and evolve to meet these demands.",
+        "supply_chain_concentration": "The supply chain for center links is concentrated among a few key manufacturers, which could potentially lead to challenges in meeting increased demand from the EV market.",
+        "demand_stability": "Demand for center links is relatively stable due to their essential role in vehicle structure. However, the shift towards electrification may impact demand slightly as some changes occur in drivetrain design.",
+        "value_added": "Center links are a fundamental component of vehicles and offer significant value in terms of structural integrity and safety.",
+        "regulatory_exposure": "Regulations for vehicle components like center links are generally consistent across markets, minimizing the risk of regulatory-induced disruption during the ICE-to-EV transition."
+      }
+    }
+  ]
+}

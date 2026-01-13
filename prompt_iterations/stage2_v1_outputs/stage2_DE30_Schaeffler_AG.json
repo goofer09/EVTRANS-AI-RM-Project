@@ -1,0 +1,19 @@
+{
+  "company": "Schaeffler AG",
+  "nuts2_code": "DE30",
+  "nuts2_name": "Berlin",
+  "plants": [
+    {
+      "plant_name": "Schaeffler Marienfelde",
+      "city": "Berlin",
+      "primary_function": "Component manufacturing (Automotive and Industrial)"
+    },
+    {
+      "plant_name": "Schaeffler Hanomag",
+      "city": "Spandau",
+      "primary_function": "Assembly plant for automotive chassis components"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

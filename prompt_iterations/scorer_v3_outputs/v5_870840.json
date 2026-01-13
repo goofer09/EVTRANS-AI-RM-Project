@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870840,
+  "scored_components": [
+    {
+      "component": "Gearbox Housing",
+      "technical_compatibility": 70,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 60,
+      "demand_stability": 30,
+      "value_added": 80,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "While the gearbox housing is a key component in Internal Combustion Engine (ICE) vehicles, its direct application in Electric Vehicles (EVs) is limited due to the shift towards e-axles and single-speed transmissions.",
+        "manufacturing_feasibility": "Given the existing manufacturing infrastructure for gearbox housings in the automotive industry, it's feasible to adapt them for lower volume EV production.",
+        "supply_chain_concentration": "There are several established suppliers of gearbox housings, but the market is not overly concentrated, which could present challenges for securing materials or negotiating prices in a shifting industry.",
+        "demand_stability": "The demand for gearbox housings is expected to decrease as EV sales continue to grow, due to the reduced need for traditional transmissions.",
+        "value_added": "Gearbox housings offer a significant amount of value-add during manufacturing and assembly processes.",
+        "regulatory_exposure": "Regulations promoting EV adoption may lead to increased demand for e-axles and single-speed transmissions, potentially impacting the demand for gearbox housings."
+      }
+    },
+    {
+      "component": "Gear Train",
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 85,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Mostly compatible with both ICE and EV. However, efficiency can be improved in EVs by reducing gear numbers or adopting e-axles.",
+        "manufacturing_feasibility": "Well-established manufacturing processes, adaptable for mass production of various vehicle types.",
+        "supply_chain_concentration": "Moderate concentration among key manufacturers. However, there are multiple suppliers offering similar products.",
+        "demand_stability": "Demand is stable but decreasing as electrification progresses, with potential for increased usage in hybrid vehicles.",
+        "value_added": "High value-added component due to its role in power transmission and torque management.",
+        "regulatory_exposure": "Exposed to regulatory changes related to fuel economy and emissions standards, which may impact demand."
+      }
+    },
+    {
+      "component": "Clutch Assembly",
+      "technical_compatibility": 40,
+      "manufacturing_feasibility": 70,
+      "supply_chain_concentration": 85,
+      "demand_stability": 30,
+      "value_added": 20,
+      "regulatory_exposure": 70,
+      "reasoning": {
+        "technical_compatibility": "Clutch assemblies are primarily used in conventional Internal Combustion Engine (ICE) vehicles. For electric vehicles (EVs), the role of clutches is minimized due to the use of single-speed transmissions or no transmissions at all. Therefore, their compatibility decreases.",
+        "manufacturing_feasibility": "Although not a primary component in EVs, clutch assembly manufacturing can be adapted for certain hybrid vehicles. The existing manufacturing processes and technologies may allow for a smooth transition with potential modifications to the design or production lines.",
+        "supply_chain_concentration": "The supply chain for clutch assemblies is concentrated due to the high demand in ICE vehicles. This concentration can potentially be leveraged during the transition phase, enabling easier sourcing and scaling up of production if needed.",
+        "demand_stability": "As the shift towards EVs accelerates, the demand for clutch assemblies will decrease significantly. This instability can lead to challenges in maintaining a stable market and steady demand for the component.",
+        "value_added": "The value-added potential of clutch assemblies is limited due to their role being primarily mechanical and not contributing significantly to advancements or innovation within the automotive industry, particularly in EVs.",
+        "regulatory_exposure": "Regulations aimed at promoting cleaner and more efficient vehicles may increase the demand for EVs and reduce demand for ICE vehicles. This could potentially impact the clutch assembly market, as it is primarily used in ICE vehicles."
+      }
+    },
+    {
+      "component": "Differential",
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 75,
+      "regulatory_exposure": 60,
+      "reasoning": {
+        "technical_compatibility": "Differentials are essential components in both ICE and EV drivetrains, with only minor modifications required for electric motors. However, the increased complexity of an EV drivetrain may lead to some design challenges.",
+        "manufacturing_feasibility": "The manufacturing process for differentials is well-established and adaptable to both ICE and EV drivetrains. The transition should be relatively straightforward with existing infrastructure.",
+        "supply_chain_concentration": "While there are several suppliers of differentials, the industry is somewhat concentrated, which could pose potential issues in terms of cost and supply chain disruptions during the transition.",
+        "demand_stability": "The demand for differentials in both ICE and EV applications is stable due to their essential role in drivetrain functionality. However, there may be fluctuations as the market shifts towards electrification.",
+        "value_added": "Differentials play a crucial role in the drivetrain, making them an important component with significant value added in both ICE and EV applications.",
+        "regulatory_exposure": "The regulatory landscape may impact differential manufacturing due to emissions standards, safety regulations, and any specific rules related to electrification."
+      }
+    }
+  ]
+}

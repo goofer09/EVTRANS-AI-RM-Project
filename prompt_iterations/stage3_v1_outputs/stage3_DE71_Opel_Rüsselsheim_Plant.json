@@ -1,0 +1,35 @@
+{
+  "company": "Opel Automobile GmbH",
+  "plant": "Opel R\u00fcsselsheim Plant",
+  "city": "R\u00fcsselsheim am Main",
+  "nuts2_code": "DE71",
+  "components": [
+    {
+      "category": "Body-in-White",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components (Engines, Transmissions)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electrical Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Battery Systems (for EVs)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electric Drivetrain Components (for EVs)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870891,
+  "classified_components": [
+    {
+      "component": "Radiator Core",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Radiator core cools the engine fluid (coolant) to prevent overheating of the internal combustion engine. Electric vehicles do not have this need due to their power electronics being air-cooled."
+    },
+    {
+      "component": "Radiator Tank",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Radiator tank is used to cool down the engine and related components in ICE vehicles. In EVs, with no internal combustion engine, it's not required."
+    },
+    {
+      "component": "Radiator Fan",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Radiator fan is fundamentally tied to combustion engines for cooling purposes, as EVs rely on electric motors that don't generate heat like internal combustion engines."
+    },
+    {
+      "component": "Radiator Cap",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Radiator cap is fundamentally tied to cooling systems of combustion engines for managing heat generated during the fuel combustion process."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "company": "Schaeffler AG",
+  "plant": "Schaeffler Hanomag",
+  "city": "Spandau",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Bearings (High)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Motors (Medium)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Chassis Components (Low)",
+      "ice_ev_type": "Shared",
+      "confidence": "low"
+    },
+    {
+      "category": "Thermal Management Systems (Medium)",
+      "ice_ev_type": "ICE",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

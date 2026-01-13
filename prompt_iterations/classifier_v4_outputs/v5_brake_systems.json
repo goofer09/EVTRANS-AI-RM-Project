@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": "8708.30",
+  "classified_components": [
+    {
+      "component": "Brake Calipers",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Brake calipers are required for vehicle operation and function the same way in both ICE and EV vehicles to stop or slow down."
+    },
+    {
+      "component": "Master Cylinder",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Master Cylinder is a component directly tied to the hydraulic braking system in ICE vehicles, which is not used in EVs due to their regenerative braking systems."
+    },
+    {
+      "component": "Brake Booster",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Brake Booster is fundamentally tied to hydraulic brake systems, which are common in ICE vehicles but not typically found in EVs due to the different power source."
+    },
+    {
+      "component": "Brake Disc or Drum",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Brake discs and drums are essential components for vehicle stopping, regardless of whether the vehicle is an ICE or EV."
+    }
+  ]
+}

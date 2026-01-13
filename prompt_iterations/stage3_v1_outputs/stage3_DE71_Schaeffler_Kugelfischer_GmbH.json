@@ -1,0 +1,30 @@
+{
+  "company": "Schaeffler Technologies AG & Co. KG",
+  "plant": "Schaeffler Kugelfischer GmbH",
+  "city": "Darmstadt",
+  "nuts2_code": "DE71",
+  "components": [
+    {
+      "category": "Bearings (High)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Precision Ball Joints (High)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Linear Systems (Medium)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "E-Mobility Components (Medium)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

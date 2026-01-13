@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870894,
+  "classified_components": [
+    {
+      "component": "Rack and Pinion Steering Gear",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Rack and Pinion Steering Gear is a mechanical system for converting rotational motion from the steering wheel to the road wheels; it's required in both ICE and EV vehicles."
+    },
+    {
+      "component": "Steering Column",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The steering column is a fundamental mechanical component required for directional control in both internal combustion engine (ICE) and electric vehicles."
+    },
+    {
+      "component": "Tie Rods",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Tie rods are a suspension component that maintains directional stability in both internal combustion engine (ICE) and electric vehicles (EV), as they link the steering system to the wheels."
+    },
+    {
+      "component": "Center Link",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The Center Link is a suspension component that serves the same purpose in both ICE and EV vehicles, connecting and controlling the movement of wheels."
+    }
+  ]
+}

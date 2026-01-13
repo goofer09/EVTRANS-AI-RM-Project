@@ -1,0 +1,14 @@
+{
+  "company": "Daimler AG",
+  "plant": "Berlin-Borsigwalde Plant",
+  "city": "Berlin",
+  "nuts2_code": "DE30",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 1000,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-11"
+}

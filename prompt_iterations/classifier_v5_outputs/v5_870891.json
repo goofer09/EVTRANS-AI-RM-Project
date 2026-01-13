@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870891,
+  "classified_components": [
+    {
+      "component": "Radiator Core",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Radiator core is necessary for cooling purposes regardless of drivetrain type."
+    },
+    {
+      "component": "Radiator Tank",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Radiator tank is essential for cooling systems in both ICE and EV vehicles to manage heat generated during operation."
+    },
+    {
+      "component": "Radiator Fan",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Radiator fan's primary function is to cool the vehicle's engine compartment and auxiliary components, which are also present in electric vehicles (battery pack, power electronics)."
+    },
+    {
+      "component": "Radiator Cap",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Radiator cap is used for cooling the engine (not specific to ICE or EV) and can be found in both internal combustion engines (ICE) and electric vehicles (EVs)."
+    }
+  ]
+}

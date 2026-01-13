@@ -1,0 +1,35 @@
+{
+  "company": "Volkswagen AG",
+  "plant": "Volkswagen e-Mobility GmbH",
+  "city": "Berlin-Spandau",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Electric Motors",
+      "ice_ev_type": "EV | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Battery Systems",
+      "ice_ev_type": "EV | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Power Electronics",
+      "ice_ev_type": "EV | Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Charging Infrastructure Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Thermal Management Systems",
+      "ice_ev_type": "EV | Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

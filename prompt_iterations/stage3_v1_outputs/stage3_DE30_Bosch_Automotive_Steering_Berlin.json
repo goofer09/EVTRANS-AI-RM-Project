@@ -1,0 +1,35 @@
+{
+  "company": "Bosch GmbH",
+  "plant": "Bosch Automotive Steering Berlin",
+  "city": "Berlin",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Steering Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Steering Systems",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Hydraulic Components",
+      "ice_ev_type": "ICE | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric/Electronic Components",
+      "ice_ev_type": "EV | Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Sensors (Steering Angle, Torque etc.)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

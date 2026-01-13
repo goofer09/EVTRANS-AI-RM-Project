@@ -1,0 +1,35 @@
+{
+  "company": "Continental AG",
+  "plant": "Continental Berlin-Mahlsdorf",
+  "city": "Berlin",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Tires",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electronic Control Units (ECUs)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Chassis and Suspension Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Brake Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Power Electronics for Hybrid and Electric Vehicles",
+      "ice_ev_type": "EV",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

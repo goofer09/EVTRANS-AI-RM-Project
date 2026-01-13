@@ -1,0 +1,45 @@
+{
+  "company": "Magna International Inc.",
+  "plant": "Magna Steyr Fahrzeugtechnik GmbH",
+  "city": "Spandau",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Chassis and Suspension Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body-in-White (BIW) and Structural Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Exterior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components (ICE)",
+      "ice_ev_type": "ICE",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electric Powertrain Components (EV)",
+      "ice_ev_type": "EV",
+      "confidence": "high"
+    },
+    {
+      "category": "Infotainment and Electronic Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

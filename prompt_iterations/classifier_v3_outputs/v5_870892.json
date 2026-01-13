@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870892,
+  "classified_components": [
+    {
+      "component": "Muffler",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0,
+      "reasoning": "Muffler is a component of the exhaust system, which is specifically designed to mitigate noise from ICE vehicles."
+    },
+    {
+      "component": "Catalytic Converter",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Catalytic converter is a part of the exhaust system, responsible for reducing harmful emissions from combustion engines; it's not utilized in EVs as they do not produce exhaust gases."
+    },
+    {
+      "component": "Exhaust Manifold",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Exhaust Manifold directs exhaust gases from cylinders to a single pipe in internal combustion engines."
+    },
+    {
+      "component": "Tailpipe",
+      "classification": "ICE_ONLY",
+      "confidence": 1,
+      "reasoning": "Tailpipes are designed to expel exhaust gases from combustion engines."
+    }
+  ]
+}

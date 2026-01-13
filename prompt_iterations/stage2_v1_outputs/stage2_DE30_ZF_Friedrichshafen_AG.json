@@ -1,0 +1,14 @@
+{
+  "company": "ZF Friedrichshafen AG",
+  "nuts2_code": "DE30",
+  "nuts2_name": "Berlin",
+  "plants": [
+    {
+      "plant_name": "ZF Berlin-Marienfelde GmbH",
+      "city": "Berlin",
+      "primary_function": "Powertrain"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

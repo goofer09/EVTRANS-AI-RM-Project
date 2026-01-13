@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870829,
+  "hs_description": "Vehicle Body Parts",
+  "components": [
+    {
+      "name": "Door Assembly",
+      "function": "Encloses passenger compartment and provides access to vehicle",
+      "subsystem": "Body Structure"
+    },
+    {
+      "name": "Fender (Wheelhouse)",
+      "function": "Covers wheels and suspension components, protects from road debris",
+      "subsystem": "Body Exterior"
+    },
+    {
+      "name": "Bumper",
+      "function": "Absorbs impact energy during collisions, protects front and rear ends",
+      "subsystem": "Safety Systems"
+    },
+    {
+      "name": "Hood (Bonnet)",
+      "function": "Covers engine compartment, provides access to engine for maintenance",
+      "subsystem": "Powertrain"
+    }
+  ]
+}

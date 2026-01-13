@@ -1,0 +1,14 @@
+{
+  "company": "Mercedes-Benz Trucks GmbH",
+  "plant": "Mercedes-Benz Stuttgart-Untert\u00fcrkheim Plant",
+  "city": "Stuttgart",
+  "nuts2_code": "DE11",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 4000,
+    "confidence": "high",
+    "basis": "annual_report"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-12"
+}

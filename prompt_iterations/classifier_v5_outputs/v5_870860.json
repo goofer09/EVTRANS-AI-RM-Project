@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870860,
+  "classified_components": [
+    {
+      "component": "Constant Velocity Joint (CV Joint)",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The Constant Velocity Joint (CV Joint) is a critical component in both Internal Combustion Engine (ICE) and Electric Vehicle (EV) drivetrains as it ensures the constant velocity of rotation from the transaxle to the wheels, which remains necessary for smooth operation regardless of the type of powertrain."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a mechanical component used for power distribution and torque management in both internal combustion engine (ICE) and electric vehicle (EV) drivetrains."
+    },
+    {
+      "component": "Axle Halfshaft",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The axle halfshaft is a mechanical component responsible for transmitting torque to the wheels and providing lateral stability. Its function is not fundamentally tied to internal combustion processes or electric drivetrain architecture."
+    },
+    {
+      "component": "Universal Joint (U-joint)",
+      "classification": "SHARED",
+      "confidence": 0.85,
+      "reasoning": "Universal joint is a mechanical component used for connecting two rotating shafts at different angles and absorbing angular misalignment. It's essential in both ICE and EV drivetrains to transfer power from the transmission to the differential or drive axle."
+    }
+  ]
+}

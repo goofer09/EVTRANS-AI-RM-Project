@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v2",
+  "hs_code": "8708.30",
+  "classified_components": [
+    {
+      "component": "Brake Calipers",
+      "classification": "SHARED",
+      "confidence": 1.0
+    },
+    {
+      "component": "Master Cylinder",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Brake Booster",
+      "classification": "SHARED",
+      "confidence": 0.8
+    },
+    {
+      "component": "Brake Disc or Drum",
+      "classification": "SHARED",
+      "confidence": 1.0
+    }
+  ]
+}

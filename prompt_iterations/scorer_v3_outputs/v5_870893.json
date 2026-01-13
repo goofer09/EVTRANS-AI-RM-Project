@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870893,
+  "scored_components": [
+    {
+      "component": "Single Mass Flywheel",
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 95,
+      "demand_stability": 20,
+      "value_added": 30,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Not applicable in EVs due to the lack of internal combustion engines.",
+        "manufacturing_feasibility": "Manufacturing processes are well-established and scalable for high volumes.",
+        "supply_chain_concentration": "The supply chain is relatively concentrated, with a few major manufacturers dominating the market.",
+        "demand_stability": "Demand is significantly reduced due to decreasing use in modern vehicles.",
+        "value_added": "Value-add in EV applications is limited as it provides no significant benefit over other energy storage solutions.",
+        "regulatory_exposure": "Potential regulatory changes could impact the demand for internal combustion engines, affecting the market."
+      }
+    },
+    {
+      "component": "Multi-plate Clutch",
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 75,
+      "regulatory_exposure": 65,
+      "reasoning": {
+        "technical_compatibility": "Multi-plate clutches are commonly used in conventional automatic transmissions and can be adapted for hybrid and electric vehicles. However, their use is limited in fully electric vehicles with single-speed transmissions.",
+        "manufacturing_feasibility": "Existing manufacturing processes can be utilized with minimal modifications to produce multi-plate clutches for both ICE and EV applications.",
+        "supply_chain_concentration": "The supply chain is moderately concentrated due to the presence of a few key manufacturers, but there are enough alternatives to ensure continued production.",
+        "demand_stability": "Demand remains stable for multi-plate clutches in ICE vehicles and they will continue to be needed for hybrid vehicles. However, demand may decrease as fully electric vehicles become more prevalent.",
+        "value_added": "Multi-plate clutches offer value by facilitating smooth gear changes and improving overall vehicle performance, which may lead to a competitive advantage in the marketplace.",
+        "regulatory_exposure": "Regulations related to emissions and fuel efficiency may have an impact on demand for multi-plate clutches, as more stringent standards could accelerate the shift towards electric vehicles."
+      }
+    },
+    {
+      "component": "Clutch Pedal Assembly",
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 85,
+      "demand_stability": 20,
+      "value_added": 20,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Not applicable in EVs as they utilize single-speed transmissions and do not require a clutch pedal assembly.",
+        "manufacturing_feasibility": "The manufacturing process is well understood and can be easily adapted for other components within the vehicle.",
+        "supply_chain_concentration": "While there are several suppliers, many of them are concentrated in certain regions, which could lead to potential disruptions in supply.",
+        "demand_stability": "Demand is expected to decline significantly due to the transition to EVs and their reliance on single-speed transmissions.",
+        "value_added": "The clutch pedal assembly does not add significant value to the overall vehicle or its electrification.",
+        "regulatory_exposure": "Regulations for emissions reductions and fuel efficiency may affect the demand for ICE vehicles, potentially impacting the need for this component."
+      }
+    },
+    {
+      "component": "Release Bearing",
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 70,
+      "demand_stability": 60,
+      "value_added": 75,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "Release bearings are used in both ICE and EVs for their role in transmission systems, making them generally compatible with the transition.",
+        "manufacturing_feasibility": "Existing manufacturing processes can be adapted to produce release bearings suitable for EV applications.",
+        "supply_chain_concentration": "While there are a few dominant manufacturers in this sector, alternative suppliers can be developed or existing ones can expand their product offerings.",
+        "demand_stability": "The demand for release bearings may fluctuate with changes in the overall vehicle market, leading to some instability.",
+        "value_added": "Release bearings contribute significantly to the functionality and performance of transmission systems, providing value across both ICE and EV platforms.",
+        "regulatory_exposure": "Regulations for release bearings are generally less stringent compared to components directly related to emissions or energy efficiency, making them potentially more vulnerable to regulatory changes."
+      }
+    }
+  ]
+}

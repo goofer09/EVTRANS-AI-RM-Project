@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870990,
+  "scored_components": [
+    {
+      "component": "Axle Assembly",
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 70,
+      "demand_stability": 60,
+      "value_added": 80,
+      "regulatory_exposure": 75,
+      "reasoning": {
+        "technical_compatibility": "Axle assemblies are essential components in both ICE and EV vehicles, with minor adaptations for electric powertrains.",
+        "manufacturing_feasibility": "Existing manufacturing processes can be adapted to produce axles for electric vehicles, though there may be some investment required for specialized machinery.",
+        "supply_chain_concentration": "While there are a few key suppliers of axle assemblies, the market is not excessively concentrated, allowing for flexibility in sourcing components.",
+        "demand_stability": "Demand for axles may see some fluctuation due to shifting trends towards electrification, but overall demand will remain steady as long as vehicles continue to be produced.",
+        "value_added": "Axle assemblies are essential components and contribute significantly to the vehicle's functionality and performance.",
+        "regulatory_exposure": "Regulations may impact materials used in axle assembly production, such as those related to emission standards or safety requirements."
+      }
+    },
+    {
+      "component": "Differential",
+      "technical_compatibility": 75,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 80,
+      "regulatory_exposure": 50,
+      "reasoning": {
+        "technical_compatibility": "While differentials are a crucial part of traditional ICE vehicles, they can still be adapted for EVs by replacing the mechanical components with electric ones. This reduces their overall efficiency due to added weight and energy loss but remains a viable solution.",
+        "manufacturing_feasibility": "The manufacturing process for differentials is well-established and proven in the automotive industry, making it feasible to adapt them for EVs using existing infrastructure with minimal investment.",
+        "supply_chain_concentration": "There are a few key players dominating the differential market, which can lead to supply chain issues when attempting to meet the increased demand from the transition to EVs.",
+        "demand_stability": "Differentials continue to be in high demand due to their use in both ICE and EV vehicles, providing some stability for manufacturers despite the shift towards electrification.",
+        "value_added": "Differentials play a significant role in vehicle performance and handling, adding value in terms of safety and driving experience, even within an EV context.",
+        "regulatory_exposure": "As regulations around emissions and energy efficiency continue to tighten, differentials may face increased scrutiny due to their contribution to weight and energy loss."
+      }
+    },
+    {
+      "component": "Transmission",
+      "technical_compatibility": 50,
+      "manufacturing_feasibility": 70,
+      "supply_chain_concentration": 80,
+      "demand_stability": 30,
+      "value_added": 40,
+      "regulatory_exposure": 60,
+      "reasoning": {
+        "technical_compatibility": "Transmissions are essential in Internal Combustion Engine (ICE) vehicles, but their need is significantly reduced in EVs due to the direct drive system. This reduces their technical compatibility.",
+        "manufacturing_feasibility": "Many transmission manufacturers are already involved in developing and manufacturing electric drivetrains for EVs. Therefore, the transition may be feasible with existing infrastructure and knowledge.",
+        "supply_chain_concentration": "The majority of transmission manufacturers are large global companies with established supply chains. This makes the transition less disruptive, as these companies can adapt their production lines to meet new demand.",
+        "demand_stability": "Demand for transmissions is expected to decrease significantly as more EVs are produced and sold. This instability arises from the reduced need for transmissions in EVs and increasing adoption of EV technology.",
+        "value_added": "Transmissions contribute to vehicle efficiency, performance, and cost. However, with the direct drive system of EVs, their value-add is significantly lower compared to ICE vehicles.",
+        "regulatory_exposure": "Regulations aimed at reducing emissions and promoting sustainability will likely accelerate the shift from ICE to EV technology. This could expose transmission manufacturers to potential regulatory risks if they do not adapt."
+      }
+    },
+    {
+      "component": "Engine Mount",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 80,
+      "demand_stability": 50,
+      "value_added": 70,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Engine mounts are universally used in both ICE and EV vehicles to secure the engine or electric motor, thus maintaining full compatibility.",
+        "manufacturing_feasibility": "The manufacturing process for engine mounts remains unchanged during the transition from ICE to EV.",
+        "supply_chain_concentration": "While there are numerous suppliers of engine mounts, the market may be concentrated due to a smaller number of tier-1 automotive manufacturers.",
+        "demand_stability": "Demand for engine mounts in EVs is less stable compared to ICE vehicles as electric powertrains require fewer moving parts and thus fewer components like engine mounts.",
+        "value_added": "Engine mounts contribute significantly to vehicle safety, vibration isolation, and NVH (Noise, Vibration, Harshness) performance, thus providing value added in both ICE and EV applications.",
+        "regulatory_exposure": "Regulations governing engine mounts are less stringent compared to powertrain components, reducing the exposure of this component to regulatory changes during the transition."
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870860,
+  "hs_description": "Non-driving Axles",
+  "components": [
+    {
+      "name": "Constant Velocity Joint (CV Joint)",
+      "function": "Transmit power to drive wheels while accommodating angular motion",
+      "subsystem": "Drive Axle"
+    },
+    {
+      "name": "Differential",
+      "function": "Distributes torque between two output shafts at different speeds",
+      "subsystem": "Drive Axle"
+    },
+    {
+      "name": "Axle Halfshaft",
+      "function": "Transmits power from differential to wheels and provides suspension movement",
+      "subsystem": "Drive Axle"
+    },
+    {
+      "name": "Universal Joint (U-joint)",
+      "function": "Enables connection between shafts at different angles while transmitting torque",
+      "subsystem": "Drive Axle"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "company": "Bosch Automotive Steering Germany GmbH",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [
+    {
+      "plant_name": "Bosch Automotive Steering Stuttgart-Feuerbach",
+      "city": "Stuttgart",
+      "primary_function": "Assembly of steering systems"
+    },
+    {
+      "plant_name": "Bosch Automotive Steering Gerlingen",
+      "city": "Gerlingen",
+      "primary_function": "Component manufacturing (steering gears)"
+    },
+    {
+      "plant_name": "Bosch Automotive Stuttgart-Vaihingen",
+      "city": "Stuttgart",
+      "primary_function": "Powertrain and battery development and production"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

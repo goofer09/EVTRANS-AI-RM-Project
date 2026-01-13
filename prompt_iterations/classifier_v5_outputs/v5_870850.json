@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870850,
+  "classified_components": [
+    {
+      "component": "Constant Velocity Joint (CVJ)",
+      "classification": "SHARED",
+      "confidence": 0.85,
+      "reasoning": "Constant Velocity Joint (CVJ) is a mechanical component that connects the transmission to the wheel axle and facilitates smooth power transfer. This function is independent of the type of drivetrain, making it essential in both ICE and EV vehicles."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential component is required for transmitting torque and managing power between two or more driving wheels in both ICE and EV vehicles."
+    },
+    {
+      "component": "Axle Half Shaft",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The axle half shaft is a mechanical component connecting the transmission to the wheel, serving as a primary load path for torque transfer. It's required in both ICE and EV vehicles for drivetrain functionality."
+    },
+    {
+      "component": "U-Joint (Universal Joint)",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Universal joint (U-joint) is a mechanical component used for connecting two rotating shafts at varying angles. In both ICE and EV vehicles, power transmission from the drivetrain to the wheels involves rotating shafts, hence the need for U-joints persists."
+    }
+  ]
+}

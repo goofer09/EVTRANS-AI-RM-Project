@@ -1,0 +1,40 @@
+{
+  "company": "Porsche AG",
+  "plant": "Weissach",
+  "city": "Weissach im Tal",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Chassis and Suspension Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components (Engines, Transmissions)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Propulsion Systems (Motors, Inverters)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Body and Exterior Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electrical Systems and Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

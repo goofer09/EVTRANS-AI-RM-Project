@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870891,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 35,
+      "supply_chain_concentration": 70,
+      "demand_stability": 40,
+      "value_added": 60,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Radiator cores are ICE-specific cooling components and not directly applicable in EVs, as they do not require air-cooled radiators.",
+        "manufacturing_feasibility": "While some manufacturing equipment can be repurposed, the specific processes for creating radiator cores may require significant modifications or additional investments to adapt to EV production.",
+        "supply_chain_concentration": "The supply chain for radiator cores is concentrated, with a few specialized manufacturers dominating the market.",
+        "demand_stability": "Demand for radiator cores may see some stability during the early stages of the EV transition due to the slow phase-out of ICE vehicles, but will ultimately decline as new cooling technologies and designs are adopted in EVs.",
+        "value_added": "Radiator core production involves moderate complexity and provides a decent amount of economic value, though it is not considered high-tech or cutting-edge within the automotive industry.",
+        "regulatory_exposure": "Radiator cores are exposed to ICE phase-out regulations, as they are directly tied to the internal combustion engine technology and will become less relevant in an all-EV market."
+      },
+      "component": "Radiator Core"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "The radiator tank is ICE-specific and has no direct application in EVs as they don't have cooling systems based on liquid cooling.",
+        "manufacturing_feasibility": "While existing manufacturing equipment can potentially be repurposed for making EV components, adapting the production process for radiator tanks might be difficult due to their specific design and materials.",
+        "supply_chain_concentration": "The supply chain is concentrated as there are only a few major players in radiator tank manufacturing.",
+        "demand_stability": "Demand stability for radiator tanks will likely decrease with the shift towards EVs, given that they are not necessary in electric vehicles.",
+        "value_added": "Radiator tank production involves relatively high skill and complexity, but the economic value is lower compared to other critical automotive components due to commoditization.",
+        "regulatory_exposure": "Radiator tanks are exposed to ICE phase-out regulations as they are an essential component of internal combustion engine vehicles."
+      },
+      "component": "Radiator Tank"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 35,
+      "supply_chain_concentration": 70,
+      "demand_stability": 20,
+      "value_added": 60,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Radiator fan is ICE-specific as it cools the engine and electric vehicles do not have this need",
+        "manufacturing_feasibility": "Existing manufacturing equipment might be partially repurposed but significant changes would be required",
+        "supply_chain_concentration": "Few specialized suppliers dominate radiator fan market, making the transition difficult",
+        "demand_stability": "Demand for radiator fans will significantly decrease with EV adoption",
+        "value_added": "Radiator fan production requires moderate skill and value-added compared to other ICE components",
+        "regulatory_exposure": "Radiator fan is exposed to ICE phase-out regulations as it is an essential ICE component"
+      },
+      "component": "Radiator Fan"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 30,
+      "supply_chain_concentration": 50,
+      "demand_stability": 60,
+      "value_added": 40,
+      "regulatory_exposure": 70,
+      "reasoning": {
+        "technical_compatibility": "The Radiator Cap is ICE-specific as it cools the engine coolant which is not required in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment might be able to repurpose for other cooling systems, but not directly for EV Radiator Caps due to design differences.",
+        "supply_chain_concentration": "There are multiple suppliers for Radiator Caps, reducing concentration.",
+        "demand_stability": "Demand for Radiator Caps will likely remain stable during the short-term EV transition due to continued ICE vehicle production and maintenance.",
+        "value_added": "Radiator Caps have moderate complexity and economic value, but they are not a high-tech component compared to EV-specific components.",
+        "regulatory_exposure": "Radiator Caps are exposed to ICE phase-out regulations as their usage decreases with the increase in EV adoption."
+      },
+      "component": "Radiator Cap"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870840,
+  "classified_components": [
+    {
+      "component": "Gearbox Housing",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The gearbox housing is a mechanical component that facilitates the transmission of power from the engine to the wheels, regardless of whether it's an internal combustion engine (ICE) or an electric motor in an EV."
+    },
+    {
+      "component": "Gear Train",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Gear train is a mechanical component used for transmitting torque and changing the speed and direction of rotation in both ICE and EV drivetrains."
+    },
+    {
+      "component": "Clutch Assembly",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Clutch assembly is primarily used for mechanical power transmission and shifting gears, a common requirement in both ICE and EV vehicles."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a mechanical component that distributes engine torque to the wheels and manages power transfer between them. While it's primarily used in ICE vehicles, it serves similar functions in EVs by receiving torque from the electric motor and maintaining traction control."
+    }
+  ]
+}

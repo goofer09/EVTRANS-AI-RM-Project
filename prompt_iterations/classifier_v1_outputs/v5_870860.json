@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v1",
+  "hs_code": 870860,
+  "classified_components": [
+    {
+      "component": "Constant Velocity Joint (CV Joint)",
+      "classification": "SHARED",
+      "confidence": 1.0
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "Axle Halfshaft",
+      "classification": "SHARED",
+      "confidence": 1.0
+    },
+    {
+      "component": "Universal Joint (U-joint)",
+      "classification": "SHARED",
+      "confidence": 0.95
+    }
+  ]
+}

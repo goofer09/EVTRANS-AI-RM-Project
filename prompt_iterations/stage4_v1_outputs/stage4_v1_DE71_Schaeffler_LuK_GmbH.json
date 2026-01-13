@@ -1,0 +1,14 @@
+{
+  "company": "Schaeffler Technologies AG & Co. KG",
+  "plant": "Schaeffler LuK GmbH",
+  "city": "Weiterstadt",
+  "nuts2_code": "DE71",
+  "employment": {
+    "size_class": "Uncertain",
+    "estimate": null,
+    "confidence": "low",
+    "basis": "inference"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,35 @@
+{
+  "company": "Continental AG",
+  "plant": "ContiTech Technology Center Main",
+  "city": "Darmstadt",
+  "nuts2_code": "DE71",
+  "components": [
+    {
+      "category": "Rubber and Plastic Components (Chassis, Powertrain, Electronics)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Vibration Control Systems (ICEngines and Electric Motors)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Fluid Conveyance Systems (Hydraulic, Air, Coolant)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Elastomer and Polymer Technologies",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Functional Materials (Coatings, Adhesives)",
+      "ice_ev_type": "Shared",
+      "confidence": "low"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

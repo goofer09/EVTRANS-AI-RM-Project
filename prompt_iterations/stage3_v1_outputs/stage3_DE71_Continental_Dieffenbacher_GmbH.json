@@ -1,0 +1,35 @@
+{
+  "company": "Continental AG",
+  "plant": "Continental Dieffenbacher GmbH",
+  "city": "Dieffenbach",
+  "nuts2_code": "DE71",
+  "components": [
+    {
+      "category": "Chassis & Suspension Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE | Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electrical Systems",
+      "ice_ev_type": "EV",
+      "confidence": "high"
+    },
+    {
+      "category": "Active Safety Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

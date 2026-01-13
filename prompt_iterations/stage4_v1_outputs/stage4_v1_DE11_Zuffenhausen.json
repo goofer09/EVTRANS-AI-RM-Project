@@ -1,0 +1,14 @@
+{
+  "company": "Porsche AG",
+  "plant": "Zuffenhausen",
+  "city": "Zuffenhausen",
+  "nuts2_code": "DE11",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 1500,
+    "confidence": "high",
+    "basis": "annual_report"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-11"
+}

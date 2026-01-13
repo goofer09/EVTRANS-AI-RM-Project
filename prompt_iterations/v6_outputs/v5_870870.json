@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870870,
+  "hs_description": "Road Vehicle Parts",
+  "components": [
+    {
+      "name": "Axle Assembly",
+      "function": "Transmits power from the differential to the wheels, provides steering control",
+      "subsystem": "Suspension and Steering"
+    },
+    {
+      "name": "Engine Mount",
+      "function": "Secures engine and absorbs vibrations",
+      "subsystem": "Powertrain"
+    },
+    {
+      "name": "Transmission Assembly",
+      "function": "Shifts gears to match engine speed with vehicle speed",
+      "subsystem": "Powertrain"
+    },
+    {
+      "name": "Differential Assembly",
+      "function": "Distributes power between the driven wheels, allowing for different speeds during turns",
+      "subsystem": "Drive Train"
+    }
+  ]
+}

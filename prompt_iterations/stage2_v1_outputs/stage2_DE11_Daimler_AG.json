@@ -1,0 +1,34 @@
+{
+  "company": "Daimler AG",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [
+    {
+      "plant_name": "Mercedes-Benz Sindelfingen",
+      "city": "Sindelfingen",
+      "primary_function": "Passenger car assembly"
+    },
+    {
+      "plant_name": "Mercedes-Benz Untert\u00fcrkheim",
+      "city": "Stuttgart",
+      "primary_function": "Components (engine and transmission)"
+    },
+    {
+      "plant_name": "Mercedes-Benz Rastatt",
+      "city": "Rastatt",
+      "primary_function": "Vehicle production"
+    },
+    {
+      "plant_name": "Daimler Buses Gaggenau",
+      "city": "Gaggenau",
+      "primary_function": "Bus manufacturing"
+    },
+    {
+      "plant_name": "Mercedes-Benz Kamenz",
+      "city": "Kamenz",
+      "primary_function": "Components (vehicle body)"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

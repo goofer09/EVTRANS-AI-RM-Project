@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870892,
+  "hs_description": "Exhaust Parts",
+  "components": [
+    {
+      "name": "Muffler",
+      "function": "Sound attenuation",
+      "subsystem": "Exhaust System"
+    },
+    {
+      "name": "Catalytic Converter",
+      "function": "Emission treatment and control",
+      "subsystem": "Exhaust System"
+    },
+    {
+      "name": "Exhaust Manifold",
+      "function": "Combine exhaust gases from multiple cylinders",
+      "subsystem": "Engine System"
+    },
+    {
+      "name": "Tailpipe",
+      "function": "Channel exhaust gas to the rear of vehicle",
+      "subsystem": "Exhaust System"
+    }
+  ]
+}

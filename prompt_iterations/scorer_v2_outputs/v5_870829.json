@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870829,
+  "scored_components": [
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 75,
+      "supply_chain_concentration": 60,
+      "demand_stability": 80,
+      "value_added": 60,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Door assemblies are universal components in both ICE and EV vehicles, making them highly compatible with EV architectures.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for producing EV door assemblies, reducing the need for costly investments in new infrastructure.",
+        "supply_chain_concentration": "Although there are specialized suppliers, a considerable number of manufacturers produce door assemblies, demonstrating less concentration in the supplier base.",
+        "demand_stability": "The demand for door assemblies is expected to remain stable during the EV transition due to the ongoing need for durable and safe components in vehicles.",
+        "value_added": "Door assembly production requires skill and complexity, but it remains a commoditized component compared to other vehicle parts such as electric motors or batteries.",
+        "regulatory_exposure": "Door assemblies are not directly affected by ICE phase-out regulations, reducing the risk of disruption in their supply chain during the EV transition."
+      },
+      "component": "Door Assembly"
+    },
+    {
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 60,
+      "demand_stability": 80,
+      "value_added": 40,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Fenders are a structural component common to both ICE and EV vehicles, with no technical barriers for use in EV architectures.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for EV components due to similarities between ICE and EV wheelhouses.",
+        "supply_chain_concentration": "While there are several suppliers of fenders, the supply chain may become concentrated as manufacturers consolidate to cope with increased EV demand.",
+        "demand_stability": "Demand for fenders is expected to remain stable during the transition to EVs due to the need for structural components in both ICE and EV vehicles.",
+        "value_added": "Fender production involves relatively low skill, complexity, and economic value as it is a commoditized component in the automotive industry.",
+        "regulatory_exposure": "Fenders are largely unaffected by ICE phase-out regulations since they are not directly related to combustion engines."
+      },
+      "component": "Fender (Wheelhouse)"
+    },
+    {
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 90,
+      "supply_chain_concentration": 40,
+      "demand_stability": 80,
+      "value_added": 50,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Bumpers are essential safety components in both ICE and EV vehicles, ensuring no change is needed for the component during the transition.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be easily repurposed for producing bumpers for both ICE and EV vehicles due to similar material requirements and construction methods.",
+        "supply_chain_concentration": "The supply chain for bumpers consists of many manufacturers, reducing the risk of relying on few specialized suppliers during the transition.",
+        "demand_stability": "Demand for safety components like bumpers will remain stable even after EV transition due to their importance in ensuring vehicle integrity and occupant protection.",
+        "value_added": "Producing a bumper requires moderate skill, complexity, and economic value. However, as it is a common component, its production process remains commoditized during the EV transition.",
+        "regulatory_exposure": "Bumpers are not directly impacted by ICE phase-out regulations, ensuring they remain relevant and in demand during the transition."
+      },
+      "component": "Bumper"
+    },
+    {
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 45,
+      "demand_stability": 60,
+      "value_added": 20,
+      "regulatory_exposure": 10,
+      "reasoning": {
+        "technical_compatibility": "The hood is a structural component shared between ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed to produce the hood for both ICE and EV variants of a vehicle.",
+        "supply_chain_concentration": "There are multiple suppliers of hoods, but some specialization may exist in high-end or luxury vehicles.",
+        "demand_stability": "Demand for hoods will remain stable as long as vehicles continue to have them during the EV transition.",
+        "value_added": "The production process of hoods is relatively simple and commoditized, with low skill requirements.",
+        "regulatory_exposure": "The hood is not directly affected by ICE phase-out regulations."
+      },
+      "component": "Hood (Bonnet)"
+    }
+  ]
+}

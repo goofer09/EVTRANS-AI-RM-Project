@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": "8708.30",
+  "hs_description": "Brake systems",
+  "components": [
+    {
+      "name": "Brake Calipers",
+      "function": "Apply braking force to wheels",
+      "subsystem": "Wheel Brake System"
+    },
+    {
+      "name": "Master Cylinder",
+      "function": "Regulate hydraulic pressure for brake application",
+      "subsystem": "Wheel Brake System"
+    },
+    {
+      "name": "Brake Booster",
+      "function": "Amplify brake pedal force",
+      "subsystem": "Wheel Brake System"
+    },
+    {
+      "name": "Brake Disc or Drum",
+      "function": "Convert kinetic energy into heat during braking",
+      "subsystem": "Wheel Brake System"
+    }
+  ]
+}

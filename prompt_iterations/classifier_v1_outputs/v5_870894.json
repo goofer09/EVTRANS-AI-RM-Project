@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v1",
+  "hs_code": 870894,
+  "classified_components": [
+    {
+      "component": "Rack and Pinion Steering Gear",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "Steering Column",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "Tie Rods",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "Center Link",
+      "classification": "SHARED",
+      "confidence": 0.9
+    }
+  ]
+}

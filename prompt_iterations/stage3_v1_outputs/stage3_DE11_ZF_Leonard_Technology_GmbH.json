@@ -1,0 +1,35 @@
+{
+  "company": "ZF Friedrichshafen AG",
+  "plant": "ZF Leonard Technology GmbH",
+  "city": "Kornwestheim",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Electric Drive Components",
+      "ice_ev_type": "EV",
+      "confidence": "high"
+    },
+    {
+      "category": "Transmission Components",
+      "ice_ev_type": "ICE | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Power Steering Systems",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Safety Electronic Controls",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Chassis Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

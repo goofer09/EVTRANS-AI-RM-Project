@@ -1,0 +1,58 @@
+{
+  "nuts2_code": "DE30",
+  "nuts2_name": "Berlin",
+  "companies": [
+    {
+      "name": "BMW Group",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Daimler AG",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Volkswagen AG",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Tesla, Inc.",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Audi AG",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "ZF Friedrichshafen AG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "Bosch GmbH",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "Continental AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "Schaeffler AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "Magna International Inc.",
+      "type": "Tier-2",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1",
+  "date": "2026-01-11"
+}

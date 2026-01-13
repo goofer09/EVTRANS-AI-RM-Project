@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870840,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "The gearbox housing is specific to ICE vehicles and is not directly applicable in EV architectures due to the absence of gears.",
+        "manufacturing_feasibility": "Existing manufacturing equipment may be partially repurposed for EV components, but significant modifications will be required.",
+        "supply_chain_concentration": "The gearbox housing market is concentrated with a few specialized suppliers, making it difficult to switch production to EV components.",
+        "demand_stability": "Demand for gearbox housings will likely collapse during the transition from ICE vehicles to EVs due to the reduced need for gears in EV drivetrains.",
+        "value_added": "Gearbox housings require a moderate level of skill and complexity, but their production is not highly economically valuable compared to other components.",
+        "regulatory_exposure": "Gearbox housings are exposed to ICE phase-out regulations as they are an integral part of traditional powertrain systems."
+      },
+      "component": "Gearbox Housing"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 50,
+      "reasoning": {
+        "technical_compatibility": "Gear trains are essential in ICE vehicles but have limited use in EVs as their primary function is to transmit power from the engine, which is removed in electric drivetrains.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed with some modifications for producing certain components of EV gear trains, such as reducers and differentials, but significant changes are necessary for a full transition.",
+        "supply_chain_concentration": "The gear train supplier base is concentrated due to the long-standing dominance of ICE vehicles.",
+        "demand_stability": "Demand for gear trains will decline as EVs become more prevalent, especially with advancements in direct drive and single-speed transmissions.",
+        "value_added": "The production of gear trains involves a moderate level of skill and complexity but may not offer high economic value in the EV transition due to decreasing demand.",
+        "regulatory_exposure": "Gear train manufacturers will experience some regulatory exposure as ICE phase-out regulations encourage the adoption of more efficient drivetrain systems."
+      },
+      "component": "Gear Train"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 10,
+      "reasoning": {
+        "technical_compatibility": "Clutch assembly is ICE-specific and not applicable in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for some components but the clutch assembly requires significant modification.",
+        "supply_chain_concentration": "The supply chain for clutch assemblies is concentrated due to the high dependence on fewer specialized suppliers.",
+        "demand_stability": "Demand for clutch assemblies will likely collapse during the EV transition as electric vehicles do not use this component.",
+        "value_added": "Production of clutch assemblies involves complex engineering and offers high economic value, but it's expected to decrease due to ICE phase-out.",
+        "regulatory_exposure": "Clutch assemblies are not directly targeted by ICE phase-out regulations."
+      },
+      "component": "Clutch Assembly"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 70,
+      "supply_chain_concentration": 50,
+      "demand_stability": 60,
+      "value_added": 80,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "The differential component is essential in both ICE and EV architectures, demonstrating high compatibility during the EV transition.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed to produce differentials for both ICE and EV applications, making it relatively easy to adapt.",
+        "supply_chain_concentration": "The differential supplier base is not highly concentrated but consists of various manufacturers that may also produce components for other vehicle systems.",
+        "demand_stability": "Differential demand remains stable during the EV transition due to its importance in both powertrain types.",
+        "value_added": "Producing differentials requires skilled labor and complex manufacturing processes, thus adding high value to vehicle production.",
+        "regulatory_exposure": "The differential is affected by ICE phase-out regulations since it is a crucial component of traditional powertrains, making the transition to EVs potentially more challenging."
+      },
+      "component": "Differential"
+    }
+  ]
+}

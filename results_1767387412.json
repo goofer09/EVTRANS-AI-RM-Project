@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-01-02T21:56:52.110521",
+  "type": "enricher",
+  "model": "mistral:7b-q4_k_m",
+  "test_cases": 4,
+  "tests": [
+    {
+      "hs_code": "8708.30",
+      "success": false,
+      "error": "HTTP 404",
+      "time": 0.08636903762817383,
+      "valid": false
+    },
+    {
+      "hs_code": "8708.40",
+      "success": false,
+      "error": "HTTP 404",
+      "time": 0.0033762454986572266,
+      "valid": false
+    },
+    {
+      "hs_code": "8708.50",
+      "success": false,
+      "error": "HTTP 404",
+      "time": 0.002244234085083008,
+      "valid": false
+    },
+    {
+      "hs_code": "8501.52",
+      "success": false,
+      "error": "HTTP 404",
+      "time": 0.001775979995727539,
+      "valid": false
+    }
+  ],
+  "summary": {
+    "total_tests": 4,
+    "valid_tests": 0,
+    "success_rate": 0.0,
+    "avg_time_sec": 0.0234413743019104
+  }
+}

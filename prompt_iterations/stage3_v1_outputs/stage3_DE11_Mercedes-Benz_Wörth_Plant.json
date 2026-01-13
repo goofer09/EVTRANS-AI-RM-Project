@@ -1,0 +1,40 @@
+{
+  "company": "Mercedes-Benz Trucks GmbH",
+  "plant": "Mercedes-Benz W\u00f6rth Plant",
+  "city": "W\u00f6rth am Rhein",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Chassis and Structural Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components (Diesel and Gasoline Engines, Transmissions)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Motor and Power Electronics",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Battery Systems",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Truck Cabin and Interior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Axles, Suspensions, and Brakes",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

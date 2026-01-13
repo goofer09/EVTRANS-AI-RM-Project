@@ -1,0 +1,14 @@
+{
+  "company": "Mercedes-Benz Vans",
+  "plant": "Mercedes-Benz Vans W\u00f6rth",
+  "city": "W\u00f6rth am Rhein",
+  "nuts2_code": "DE71",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 3500,
+    "confidence": "high",
+    "basis": "annual_report"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-11"
+}

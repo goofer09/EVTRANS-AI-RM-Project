@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": "8708.30",
+  "classified_components": [
+    {
+      "component": "Brake Calipers",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Brake calipers are essential for deceleration in both ICE and EV vehicles, as they convert the kinetic energy of the vehicle into thermal energy through friction."
+    },
+    {
+      "component": "Master Cylinder",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The master cylinder is a hydraulic component in braking systems which does not depend on internal combustion processes or electric drivetrain architecture for its operation."
+    },
+    {
+      "component": "Brake Booster",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Brake booster operates based on hydraulics and pressure, independent of the powertrain type."
+    },
+    {
+      "component": "Brake Disc or Drum",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Brake disc or drum is a fundamental safety component for vehicle stopping and does not rely on internal combustion processes or electric drivetrain architecture."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870810,
+  "classified_components": [
+    {
+      "component": "Front Bumper Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Front bumper assembly is required for vehicle protection in both ICE and EV configurations as they are exposed to the same environmental hazards."
+    },
+    {
+      "component": "Rear Bumper Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Rear bumper assembly is necessary for vehicle safety and protection in all types of vehicles."
+    },
+    {
+      "component": "Bumper Support Bracket",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Bumper support bracket is a structural component that maintains the position and integrity of vehicle bumpers, which are necessary for both ICE and EV vehicles to ensure safety in collisions."
+    },
+    {
+      "component": "Bumper Beam",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Bumper Beam is a structural component that protects the vehicle during collisions, and its function remains essential for both ICE and EV vehicles."
+    }
+  ]
+}

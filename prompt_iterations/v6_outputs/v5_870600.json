@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870600,
+  "hs_description": "Engine-Fitted Chassis",
+  "components": [
+    {
+      "name": "Engine",
+      "function": "Power generation",
+      "subsystem": "Powertrain"
+    },
+    {
+      "name": "Transmission",
+      "function": "Power transfer and modulation",
+      "subsystem": "Powertrain"
+    },
+    {
+      "name": "Suspension System",
+      "function": "Vehicle ride quality, handling, and stability",
+      "subsystem": "Chassis"
+    },
+    {
+      "name": "Steering System",
+      "function": "Direction control",
+      "subsystem": "Chassis"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870810,
+  "scored_components": [
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 70,
+      "supply_chain_concentration": 50,
+      "demand_stability": 80,
+      "value_added": 40,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Front Bumper Assembly is fundamentally the same in both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for producing bumpers with minor adjustments.",
+        "supply_chain_concentration": "Although the market may have some concentration, there are still multiple suppliers in the industry.",
+        "demand_stability": "During the EV transition, demand for vehicle components like the bumper remains consistent due to safety regulations.",
+        "value_added": "The production process of Front Bumper Assembly involves standard manufacturing steps with limited specialized skill requirements.",
+        "regulatory_exposure": "Front Bumper Assembly is not directly affected by ICE phase-out regulations as it is a critical safety component."
+      },
+      "component": "Front Bumper Assembly"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 50,
+      "demand_stability": 70,
+      "value_added": 40,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Rear Bumper Assembly is universally applicable to both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed with minor adjustments for producing EV components.",
+        "supply_chain_concentration": "There are multiple suppliers for rear bumper assemblies, although there may be some specialization in the industry.",
+        "demand_stability": "Demand is expected to remain stable due to safety regulations and universal application of bumpers in vehicle designs.",
+        "value_added": "The production process for rear bumper assemblies involves relatively low skill, complexity, and economic value compared to other vehicle components.",
+        "regulatory_exposure": "Rear Bumper Assembly is a safety-critical component that may not be directly affected by ICE phase-out regulations."
+      },
+      "component": "Rear Bumper Assembly"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 50,
+      "demand_stability": 60,
+      "value_added": 40,
+      "regulatory_exposure": 10,
+      "reasoning": {
+        "technical_compatibility": "Bumper support brackets are structural components that serve the same purpose in both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for producing bumper support brackets, given minimal design changes.",
+        "supply_chain_concentration": "The supply chain has a reasonable number of suppliers; however, the EV transition may lead to consolidation among specialized manufacturers.",
+        "demand_stability": "Demand for bumper support brackets is likely to remain stable during the EV transition as they are essential safety components.",
+        "value_added": "The production of bumper support brackets involves standard manufacturing processes, making it a commoditized product with low value-added.",
+        "regulatory_exposure": "Bumper support brackets are not directly impacted by ICE phase-out regulations as they are crucial for vehicle safety regardless of propulsion system."
+      },
+      "component": "Bumper Support Bracket"
+    },
+    {
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 90,
+      "supply_chain_concentration": 50,
+      "demand_stability": 80,
+      "value_added": 40,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "The bumper beam is a structural component common in both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for producing bumpers suitable for EVs.",
+        "supply_chain_concentration": "While there are specialized suppliers, multiple options exist due to the high demand from ICE vehicles.",
+        "demand_stability": "The demand for safety-related components like bumpers is expected to remain stable after EV transition.",
+        "value_added": "Bumper production involves assembly and design work but not highly complex or economically valuable manufacturing processes.",
+        "regulatory_exposure": "ICE phase-out regulations primarily target powertrains, leaving the demand for bumpers relatively unaffected."
+      },
+      "component": "Bumper Beam"
+    }
+  ]
+}

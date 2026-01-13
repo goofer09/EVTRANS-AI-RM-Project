@@ -1,0 +1,35 @@
+{
+  "company": "Tesla, Inc.",
+  "plant": "Gigafactory Berlin Brandenburg",
+  "city": "Gr\u00fcnheide",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Electric Vehicle Batteries",
+      "ice_ev_type": "EV | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Motor & Drive Units",
+      "ice_ev_type": "EV | Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Chassis & Body Structures",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electrical Systems & Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Autonomous Driving Sensors",
+      "ice_ev_type": "Shared",
+      "confidence": "low"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

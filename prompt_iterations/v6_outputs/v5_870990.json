@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870990,
+  "hs_description": "Vehicle Parts",
+  "components": [
+    {
+      "name": "Axle Assembly",
+      "function": "Transfers torque from the differential to the wheels",
+      "subsystem": "Suspension"
+    },
+    {
+      "name": "Differential",
+      "function": "Allows each wheel to rotate at different speeds and directions during turns",
+      "subsystem": "Drive Train"
+    },
+    {
+      "name": "Transmission",
+      "function": "Changes the gear ratio between the engine and the drive wheels",
+      "subsystem": "Powertrain"
+    },
+    {
+      "name": "Engine Mount",
+      "function": "Secures the engine to the vehicle frame, reducing vibrations",
+      "subsystem": "Powertrain"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870870,
+  "scored_components": [
+    {
+      "technical_compatibility": 60,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 30,
+      "demand_stability": 70,
+      "value_added": 50,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "Axle assemblies are fundamental components of vehicles and share common requirements between ICE and EVs, making them generally compatible with the EV transition.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be adapted to produce axle assemblies for EVs, as their design principles remain similar.",
+        "supply_chain_concentration": "The supply base of axle assemblies may be less diverse due to the high level of engineering and development involved, but still offers multiple suppliers.",
+        "demand_stability": "Demand for axle assemblies is expected to remain stable during the EV transition, given their necessity across all vehicle types.",
+        "value_added": "Production of axle assemblies involves a moderate level of skill and complexity, but their commoditized nature keeps economic value relatively low.",
+        "regulatory_exposure": "ICE phase-out regulations may have limited impact on the demand for axle assemblies, as they are essential components in both ICE and EV vehicles."
+      },
+      "component": "Axle Assembly"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 60,
+      "demand_stability": 20,
+      "value_added": 80,
+      "regulatory_exposure": 0,
+      "reasoning": {
+        "technical_compatibility": "Engine mounts are ICE-specific and do not technically exist in EV architectures",
+        "manufacturing_feasibility": "Existing manufacturing equipment can potentially be repurposed for EV components with some modifications",
+        "supply_chain_concentration": "The engine mount supplier base is concentrated due to the dominance of ICE vehicles",
+        "demand_stability": "Demand stability for engine mounts is expected to collapse as the transition to EVs progresses",
+        "value_added": "Engine mount production involves high skill and complexity, with significant economic value",
+        "regulatory_exposure": ""
+      },
+      "component": "Engine Mount"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 30,
+      "supply_chain_concentration": 60,
+      "demand_stability": 40,
+      "value_added": 70,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "The transmission assembly in ICE vehicles is highly specific and not directly compatible with EVs due to its role in managing torque from internal combustion.",
+        "manufacturing_feasibility": "While some parts of the transmission can be repurposed for certain components of EV drivetrains, significant modifications would be required to adapt it fully for electric power management.",
+        "supply_chain_concentration": "There are many suppliers for automotive transmissions, providing some resilience during the transition but still reliant on specialized companies that may struggle with the change.",
+        "demand_stability": "Demand for transmission assemblies will decrease in EVs due to their simpler powertrains, causing instability after the EV transition.",
+        "value_added": "Transmission assembly involves high skill and complexity, providing significant economic value. However, this value may diminish during the EV transition as simpler drivetrains are used.",
+        "regulatory_exposure": "The transmission assembly is exposed to ICE phase-out regulations due to its reliance on combustion engines for operation."
+      },
+      "component": "Transmission Assembly"
+    },
+    {
+      "technical_compatibility": 40,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 70,
+      "demand_stability": 50,
+      "value_added": 50,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "The differential assembly in EVs still serves a similar function in transmitting power to the wheels, but it may need modifications for torque vectoring or multi-speed configurations.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed with some adjustments to accommodate different materials and specifications used in EVs.",
+        "supply_chain_concentration": "The differential assembly has a relatively concentrated supplier base due to its importance in vehicle functionality, but there are multiple players globally.",
+        "demand_stability": "Demand for differential assemblies may experience volatility during the EV transition due to changes in vehicle architectures and demand shifts towards EVs.",
+        "value_added": "The skill and complexity required to produce a differential assembly are high, but the component is not overly differentiated in the automotive market.",
+        "regulatory_exposure": "Differential assemblies are typically ICE-specific components, making them vulnerable to phase-out regulations promoting EV adoption"
+      },
+      "component": "Differential Assembly"
+    }
+  ]
+}

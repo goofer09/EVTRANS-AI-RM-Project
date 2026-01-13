@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v2",
+  "hs_code": 870892,
+  "classified_components": [
+    {
+      "component": "Muffler",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Catalytic Converter",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Exhaust Manifold",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Tailpipe",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    }
+  ]
+}

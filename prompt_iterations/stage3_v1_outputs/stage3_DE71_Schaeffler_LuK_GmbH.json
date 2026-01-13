@@ -1,0 +1,35 @@
+{
+  "company": "Schaeffler Technologies AG & Co. KG",
+  "plant": "Schaeffler LuK GmbH",
+  "city": "Weiterstadt",
+  "nuts2_code": "DE71",
+  "components": [
+    {
+      "category": "Automatic Transmission Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Clutch Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Chassis Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electric Drive Components (e.g., electric motors)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Hybrid System Components",
+      "ice_ev_type": "Shared",
+      "confidence": "low"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

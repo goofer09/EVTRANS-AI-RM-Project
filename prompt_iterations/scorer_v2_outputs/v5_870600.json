@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870600,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 30,
+      "supply_chain_concentration": 70,
+      "demand_stability": 20,
+      "value_added": 60,
+      "regulatory_exposure": 10,
+      "reasoning": {
+        "technical_compatibility": "The engine is ICE-specific and has no direct counterpart in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be partially repurposed but significant adjustments are required for EV components.",
+        "supply_chain_concentration": "Few specialized engine manufacturers dominate the market, making it highly concentrated.",
+        "demand_stability": "Demand for engines will significantly decrease with the shift towards electric vehicles.",
+        "value_added": "Engine production requires a high level of skill and complexity, contributing to its economic value.",
+        "regulatory_exposure": "Engines are heavily used in ICE vehicles, making them at risk as regulations push for EV adoption."
+      },
+      "component": "Engine"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 60,
+      "demand_stability": 20,
+      "value_added": 50,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "The transmission component is ICE-specific and currently not compatible with EV architectures.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be partially repurposed for some EV components but significant modifications are needed for transmissions.",
+        "supply_chain_concentration": "The supply chain is moderately concentrated due to the presence of a few specialized transmission suppliers.",
+        "demand_stability": "Demand for transmissions in ICE vehicles will likely collapse during the EV transition.",
+        "value_added": "Production of transmissions involves considerable skill and complexity, but the economic value is not as high as other components due to commoditization.",
+        "regulatory_exposure": "Transmissions are highly exposed to ICE phase-out regulations as they are integral to traditional combustion engines."
+      },
+      "component": "Transmission"
+    },
+    {
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 75,
+      "supply_chain_concentration": 40,
+      "demand_stability": 60,
+      "value_added": 50,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Suspension systems can be adapted to EV architectures by adjusting the design to accommodate the different weight distribution and torque characteristics.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed with minimal modifications, as most components are based on mechanical principles rather than ICE-specific technologies.",
+        "supply_chain_concentration": "Although there are some specialized suppliers, a large number of companies manufacture suspension components, ensuring a diverse supplier base during the EV transition.",
+        "demand_stability": "Demand for suspension systems is expected to remain stable due to their critical role in vehicle safety and ride comfort, regardless of powertrain type.",
+        "value_added": "Production of suspension systems involves skilled labor and a moderate level of complexity, resulting in a moderate economic value compared to other components such as electric motors or batteries.",
+        "regulatory_exposure": "Suspension systems are not directly regulated in relation to the ICE phase-out, making them largely unaffected by regulatory changes."
+      },
+      "component": "Suspension System"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 50,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Steering systems have a high technical compatibility with EVs as they operate based on mechanical or electrical principles that are common to both ICE and electric vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for producing steering components due to the similarities between ICE and EV steering systems.",
+        "supply_chain_concentration": "There are multiple suppliers of steering components, but some specialization may exist within the electric power steering system segment.",
+        "demand_stability": "The demand for steering systems will remain stable during the EV transition due to the necessity of steering in all vehicles.",
+        "value_added": "The production of steering components involves some skill and complexity, but it is not highly commoditized compared to other automotive parts.",
+        "regulatory_exposure": "Steering systems have a low regulatory exposure as they are not specific targets for ICE phase-out regulations."
+      },
+      "component": "Steering System"
+    }
+  ]
+}

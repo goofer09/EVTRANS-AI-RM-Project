@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870829,
+  "classified_components": [
+    {
+      "component": "Door Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Door Assembly is a mechanical component required for vehicle occupant access and safety, independent of the drivetrain type."
+    },
+    {
+      "component": "Fender (Wheelhouse)",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Fenders are structural components supporting the wheel and protecting vehicle bodywork from road debris, their necessity is not tied to internal combustion or electric drivetrain architecture."
+    },
+    {
+      "component": "Bumper",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Bumper is a structural component that protects the vehicle from impacts and collisions, which applies to both ICE and EV vehicles."
+    },
+    {
+      "component": "Hood (Bonnet)",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The hood (bonnet) provides access to engine components in ICE vehicles but is also necessary for EVs to house battery and auxiliary components."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v1",
+  "hs_code": 870899,
+  "classified_components": [
+    {
+      "component": "Wheel Hub Assembly",
+      "classification": "SHARED",
+      "confidence": 1.0
+    },
+    {
+      "component": "Brake Drum or Disc",
+      "classification": "SHARED",
+      "confidence": 1.0
+    },
+    {
+      "component": "Axle Assembly",
+      "classification": "SHARED",
+      "confidence": 0.9
+    },
+    {
+      "component": "Steering Knuckle",
+      "classification": "SHARED",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870860,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 60,
+      "demand_stability": 30,
+      "value_added": 50,
+      "regulatory_exposure": 70,
+      "reasoning": {
+        "technical_compatibility": "Constant Velocity Joints are primarily ICE-specific components and have no direct replacement in EVs.",
+        "manufacturing_feasibility": "While manufacturing equipment can be repurposed to some extent, the process may require substantial modification for producing EV components.",
+        "supply_chain_concentration": "The supply chain is moderately concentrated due to the widespread use in ICE vehicles, but it includes multiple suppliers.",
+        "demand_stability": "Demand for CV Joints will likely collapse as the transition to electric vehicles progresses.",
+        "value_added": "CV Joint production requires a higher level of skill and complexity but is not considered a high-value component in the automotive industry.",
+        "regulatory_exposure": "The phase-out of ICE vehicles may significantly impact the demand for CV Joints, exposing them to regulatory risk."
+      },
+      "component": "Constant Velocity Joint (CV Joint)"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 40,
+      "demand_stability": 50,
+      "value_added": 70,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "The differential is a fundamental mechanical component in both ICE and EV drivetrains, ensuring high compatibility with EV architectures.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for EV components, but there may be some adjustments required to accommodate EV-specific materials or manufacturing processes.",
+        "supply_chain_concentration": "The supply base for differentials is moderately concentrated, with several manufacturers offering the component. However, the transition to EVs may lead to changes in supplier strategies and potential consolidation.",
+        "demand_stability": "Demand for differentials will remain stable during the EV transition due to their essential role in both ICE and EV drivetrains.",
+        "value_added": "The production of differentials involves a high degree of skill, complexity, and economic value, making it a high-value-added component that is unlikely to become commoditized.",
+        "regulatory_exposure": "Differentials are components vulnerable to ICE phase-out regulation as they are essential parts of ICE drivetrains, which may lead to a decrease in demand for these components over time."
+      },
+      "component": "Differential"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 70,
+      "demand_stability": 40,
+      "value_added": 50,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Axle halfshaft is primarily ICE-specific due to its role in transmitting torque through a driveshaft to the differential. In EVs, the lack of a transmission makes this component obsolete.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be partially repurposed for EV components as axle halfshaft manufacturing shares some similarities with the production of EV drivetrain components like drive shafts and differentials.",
+        "supply_chain_concentration": "The supply base for axle halfshafts is relatively concentrated, which may create issues during the EV transition as specialized suppliers may struggle to adapt to new technology demands.",
+        "demand_stability": "Demand for axle halfshafts will experience a significant decline during the EV transition as ICE vehicles phase out and are replaced by electric drivetrains that require fewer mechanical components.",
+        "value_added": "Axle halfshaft production involves skilled labor and moderate complexity, but its value-added is lower compared to other high-tech EV components like batteries or power electronics.",
+        "regulatory_exposure": "Axle halfshaft manufacturers are exposed to ICE phase-out regulations as the decline in demand for their product is a direct result of these regulations."
+      },
+      "component": "Axle Halfshaft"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 70,
+      "demand_stability": 40,
+      "value_added": 30,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Universal Joints are ICE-specific and not directly applicable in EVs due to the absence of a mechanical drive shaft",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for some EV components, but U-joints have different requirements due to their ICE application",
+        "supply_chain_concentration": "The supply chain for U-joints is relatively concentrated because of the limited number of major manufacturers",
+        "demand_stability": "Demand for U-joints may decrease with the increased adoption of EVs and reduction in mechanical drive shaft usage",
+        "value_added": "U-joint production has low skill, complexity, and economic value due to their commoditized nature",
+        "regulatory_exposure": "Universal Joints are at risk during ICE phase-out because of the decreased demand for components related to mechanical drive shafts in EVs"
+      },
+      "component": "Universal Joint (U-joint)"
+    }
+  ]
+}

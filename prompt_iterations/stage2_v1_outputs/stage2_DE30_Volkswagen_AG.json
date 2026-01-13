@@ -1,0 +1,19 @@
+{
+  "company": "Volkswagen AG",
+  "nuts2_code": "DE30",
+  "nuts2_name": "Berlin",
+  "plants": [
+    {
+      "plant_name": "Volkswagen Berlin plant",
+      "city": "Bernau bei Berlin",
+      "primary_function": "Assembly plant"
+    },
+    {
+      "plant_name": "Volkswagen e-Mobility GmbH",
+      "city": "Berlin-Spandau",
+      "primary_function": "Battery production"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

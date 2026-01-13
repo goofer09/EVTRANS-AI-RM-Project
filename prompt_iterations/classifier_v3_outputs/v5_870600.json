@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870600,
+  "classified_components": [
+    {
+      "component": "Engine",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "The engine is a critical component tied to combustion engines for generating mechanical power."
+    },
+    {
+      "component": "Transmission",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Transmission serves to manage power delivery in both internal combustion engine (ICE) and electric vehicles (EV), albeit EV transmissions primarily function as motor-speed reducers."
+    },
+    {
+      "component": "Suspension System",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The Suspension System is required in both ICE and EV vehicles for maintaining vehicle stability, ride comfort, and handling."
+    },
+    {
+      "component": "Steering System",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Steering systems are mechanical components required in both ICE and EV vehicles for direction control."
+    }
+  ]
+}

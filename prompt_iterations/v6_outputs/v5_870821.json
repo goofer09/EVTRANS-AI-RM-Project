@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870821,
+  "hs_description": "Safety Seat Belts",
+  "components": [
+    {
+      "name": "Lap Belt",
+      "function": "Restrains the occupant laterally",
+      "subsystem": "Seatbelts and Restraint Systems"
+    },
+    {
+      "name": "Shoulder Belt",
+      "function": "Restrains the occupant vertically",
+      "subsystem": "Seatbelts and Restraint Systems"
+    },
+    {
+      "name": "Retractor",
+      "function": "Controls the length of the belt during impact",
+      "subsystem": "Seatbelts and Restraint Systems"
+    },
+    {
+      "name": "Pretensioner",
+      "function": "Precipitously retracts the belt to reduce slack in a crash",
+      "subsystem": "Seatbelts and Restraint Systems"
+    }
+  ]
+}

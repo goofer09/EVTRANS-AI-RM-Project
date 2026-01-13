@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870850,
+  "classified_components": [
+    {
+      "component": "Constant Velocity Joint (CVJ)",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "CVJ is a mechanical component that transfers power from the transmission to the wheels in both conventional ICE and electric vehicles."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a key component that distributes power to the wheels in both internal combustion engine (ICE) and electric vehicles (EV), ensuring proper torque distribution regardless of drivetrain type."
+    },
+    {
+      "component": "Axle Half Shaft",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Axle half shaft is a mechanical component for transmitting torque between the differential and the wheel; required in both ICE and EV vehicles."
+    },
+    {
+      "component": "U-Joint (Universal Joint)",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Universal Joint (U-Joint) is a common mechanical component used in both conventional ICE vehicles and electric vehicles for transmitting power from the drivetrain to the wheels."
+    }
+  ]
+}

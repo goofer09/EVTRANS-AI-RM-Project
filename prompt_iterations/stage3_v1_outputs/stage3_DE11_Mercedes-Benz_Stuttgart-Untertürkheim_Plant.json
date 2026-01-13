@@ -1,0 +1,45 @@
+{
+  "company": "Mercedes-Benz Trucks GmbH",
+  "plant": "Mercedes-Benz Stuttgart-Untert\u00fcrkheim Plant",
+  "city": "Stuttgart",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Chassis and Frame",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Drivetrain Components (Engine, Transmission)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electrical Systems and Batteries (for Electric Trucks)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Axles, Suspension and Brakes",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body and Cabin Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Parts (Dashboard, Seats, etc.)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Truck Electronics and Control Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

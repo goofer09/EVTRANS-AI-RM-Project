@@ -1,0 +1,19 @@
+{
+  "company": "Continental AG",
+  "nuts2_code": "DE30",
+  "nuts2_name": "Berlin",
+  "plants": [
+    {
+      "plant_name": "Continental Berlin-Mahlsdorf",
+      "city": "Berlin",
+      "primary_function": "Tire Production"
+    },
+    {
+      "plant_name": "Continental Berlin-Spandau",
+      "city": "Berlin",
+      "primary_function": "Component Manufacturing (Automotive electronics)"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

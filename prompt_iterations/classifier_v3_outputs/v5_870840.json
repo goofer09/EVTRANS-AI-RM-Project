@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870840,
+  "classified_components": [
+    {
+      "component": "Gearbox Housing",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Gearbox housing is a structural component that facilitates power transmission in both ICE and EV vehicles."
+    },
+    {
+      "component": "Gear Train",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Gear trains are required in both internal combustion engine (ICE) and electric vehicles (EV) to convert rotational motion from the power source to the wheels."
+    },
+    {
+      "component": "Clutch Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Clutch assembly is used in both manual transmission ICE vehicles and some hybrid EVs for managing power transfer during gear changes."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a mechanical component used in both internal combustion engine (ICE) and electric vehicles (EV) to distribute engine torque or motor torque to the wheels."
+    }
+  ]
+}

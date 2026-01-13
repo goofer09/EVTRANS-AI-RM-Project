@@ -1,0 +1,40 @@
+{
+  "company": "Mercedes-Benz Vans",
+  "plant": "Mercedes-Benz Vans W\u00f6rth",
+  "city": "W\u00f6rth am Rhein",
+  "nuts2_code": "DE71",
+  "components": [
+    {
+      "category": "Chassis and Bodies",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrains (Engines, Transmissions)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electrical Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electric Drivetrains",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Interior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Exterior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,16 @@
+{
+  "company": "Opel Automobile GmbH",
+  "plant": "Opel Kaiserslautern Plant",
+  "city": "Kaiserslautern",
+  "nuts2_code": "DE71",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Vehicle Assembly",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v2",
+  "date": "2026-01-11"
+}

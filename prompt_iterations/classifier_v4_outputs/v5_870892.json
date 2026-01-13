@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870892,
+  "classified_components": [
+    {
+      "component": "Muffler",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Muffler is a component designed to reduce exhaust noise in internal combustion engine vehicles. Electric vehicles do not produce exhaust noises, so mufflers are not necessary."
+    },
+    {
+      "component": "Catalytic Converter",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Catalytic converter is fundamentally tied to combustion engines as it converts harmful exhaust gases from the internal combustion engine into less toxic emissions."
+    },
+    {
+      "component": "Exhaust Manifold",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Exhaust Manifold is fundamentally tied to combustion engines for directing exhaust gases from multiple cylinders to a single pipe before entering the exhaust system."
+    },
+    {
+      "component": "Tailpipe",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0,
+      "reasoning": "A tailpipe is an integral part of vehicles powered by internal combustion engines (ICE) for the expulsion of exhaust gases."
+    }
+  ]
+}

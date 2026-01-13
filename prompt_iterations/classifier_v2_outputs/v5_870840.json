@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v2",
+  "hs_code": 870840,
+  "classified_components": [
+    {
+      "component": "Gearbox Housing",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Gear Train",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Clutch Assembly",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.8
+    }
+  ]
+}

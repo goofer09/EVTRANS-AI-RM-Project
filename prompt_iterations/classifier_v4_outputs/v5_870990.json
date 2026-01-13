@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870990,
+  "classified_components": [
+    {
+      "component": "Axle Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "An axle assembly is a mechanical component used for transmitting torque and absorbing shocks in both internal combustion engine (ICE) and electric vehicles (EV). While the power source differs between ICE and EVs, the physical requirement for torque transmission remains constant."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a mechanical component that distributes engine torque to the wheels. While electric vehicles (EVs) don't have an internal combustion engine (ICE), they do have an electric motor that produces torque, which requires distribution via a drivetrain. In EVs, this role is fulfilled by the differential."
+    },
+    {
+      "component": "Transmission",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Transmissions in Internal Combustion Engine (ICE) vehicles are fundamentally tied to the mechanics of engine speed management and torque conversion, which are not applicable to electric drivetrains."
+    },
+    {
+      "component": "Engine Mount",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Engine mount is a mechanical component that secures the internal combustion engine to the vehicle chassis. In electric vehicles, the powertrain lacks a physical engine, making this component unnecessary."
+    }
+  ]
+}

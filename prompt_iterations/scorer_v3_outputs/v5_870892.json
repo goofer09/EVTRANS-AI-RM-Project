@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870892,
+  "scored_components": [
+    {
+      "component": "Muffler",
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 95,
+      "demand_stability": 30,
+      "value_added": 0,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Not applicable in EVs as they do not require a muffler for internal combustion engine noise reduction.",
+        "manufacturing_feasibility": "Mufflers can be easily re-purposed or modified to work with alternative powertrains such as hybrid systems that still rely on an ICE.",
+        "supply_chain_concentration": "Dominated by a few key players in the market, ensuring a relatively stable supply chain.",
+        "demand_stability": "Demand for mufflers will likely decrease with the increase of EV adoption and stricter noise regulations.",
+        "value_added": "No significant value-addition as it primarily serves to reduce noise emissions which may not be an issue in electric vehicles.",
+        "regulatory_exposure": "Potential exposure due to tighter noise emission regulations for EVs, but existing technology and manufacturing methods could still meet these standards."
+      }
+    },
+    {
+      "component": "Catalytic Converter",
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 95,
+      "demand_stability": 60,
+      "value_added": 70,
+      "regulatory_exposure": 25,
+      "reasoning": {
+        "technical_compatibility": "Low due to the non-requirement in electric vehicles and potential reduction of usage with increased fuel efficiency.",
+        "manufacturing_feasibility": "High as catalytic converter manufacturing process is well established and adaptable for small adjustments, such as material changes.",
+        "supply_chain_concentration": "High due to the limited number of suppliers worldwide, making it easier to manage during a transition.",
+        "demand_stability": "Medium as some demand may still exist for hybrid vehicles and certain market segments.",
+        "value_added": "High due to the importance of reducing harmful emissions in internal combustion engines.",
+        "regulatory_exposure": "Low due to potential reductions or eliminations in future regulations related to conventional vehicles."
+      }
+    },
+    {
+      "component": "Exhaust Manifold",
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 0,
+      "supply_chain_concentration": 100,
+      "demand_stability": 0,
+      "value_added": 0,
+      "regulatory_exposure": 100,
+      "reasoning": {
+        "technical_compatibility": "Not applicable in EVs as they do not have an internal combustion engine",
+        "manufacturing_feasibility": "No longer necessary in the manufacturing process of electric vehicles",
+        "supply_chain_concentration": "High due to its widespread use in ICE vehicles",
+        "demand_stability": "Decreases significantly with the transition to EVs",
+        "value_added": "Minimal as it is a simple component in the overall vehicle system",
+        "regulatory_exposure": "High due to potential environmental regulations related to exhaust emissions"
+      }
+    },
+    {
+      "component": "Tailpipe",
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 0,
+      "supply_chain_concentration": 100,
+      "demand_stability": 0,
+      "value_added": 0,
+      "regulatory_exposure": 0,
+      "reasoning": {
+        "technical_compatibility": "Not applicable in EVs as they do not emit exhaust gases.",
+        "manufacturing_feasibility": "Manufacturing tailpipes is not relevant for EVs.",
+        "supply_chain_concentration": "Many suppliers have expertise in producing tailpipes, which can potentially transition to other automotive components.",
+        "demand_stability": "Demand for tailpipes will decrease significantly with the shift to electric vehicles.",
+        "value_added": "No value added as this component is not used in EVs.",
+        "regulatory_exposure": "Regulations related to emissions and pollution control do not apply to electric vehicles, thus reducing exposure."
+      }
+    }
+  ]
+}

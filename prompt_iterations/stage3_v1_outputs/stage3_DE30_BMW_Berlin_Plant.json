@@ -1,0 +1,35 @@
+{
+  "company": "BMW Group",
+  "plant": "BMW Berlin Plant",
+  "city": "Marienfelde",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Internal Combustion Engine Components",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Automobile Bodies",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Vehicle Battery Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Powertrain Components (ICE and EV)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electrical Systems Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

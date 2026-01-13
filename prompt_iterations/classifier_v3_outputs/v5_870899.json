@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870899,
+  "classified_components": [
+    {
+      "component": "Wheel Hub Assembly",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Wheel hub assemblies are crucial for mounting and connecting wheels to the vehicle's chassis, regardless of whether it's an ICE or EV."
+    },
+    {
+      "component": "Brake Drum or Disc",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Brake Drum or Disc is a fundamental safety feature in both ICE and EV vehicles, as it stops the vehicle regardless of the power source."
+    },
+    {
+      "component": "Axle Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The Axle Assembly is a mechanical component for transmitting torque to the wheels and maintaining vehicle stability, which is required in both ICE and EV vehicles."
+    },
+    {
+      "component": "Steering Knuckle",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Steering knuckle is a suspension component that provides pivotal motion for the steered wheel and remains essential in both ICE and EV vehicles."
+    }
+  ]
+}

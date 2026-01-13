@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v2",
+  "hs_code": 870893,
+  "classified_components": [
+    {
+      "component": "Single Mass Flywheel",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Multi-plate Clutch",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Clutch Pedal Assembly",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Release Bearing",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    }
+  ]
+}

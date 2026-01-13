@@ -1,0 +1,24 @@
+{
+  "company": "Schaeffler Technologies AG & Co. KG",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [
+    {
+      "plant_name": "Schw\u00e4bisch Hall Plant",
+      "city": "Schw\u00e4bisch Hall",
+      "primary_function": "Component manufacturing (Automotive and Industrial)"
+    },
+    {
+      "plant_name": "Herrenberg Plant",
+      "city": "Herrenberg",
+      "primary_function": "Powertrain Production"
+    },
+    {
+      "plant_name": "B\u00fchl Plant",
+      "city": "B\u00fchl",
+      "primary_function": "Component manufacturing (Automotive and Industrial)"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

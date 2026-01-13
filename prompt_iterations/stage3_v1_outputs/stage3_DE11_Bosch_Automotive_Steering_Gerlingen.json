@@ -1,0 +1,35 @@
+{
+  "company": "Bosch Automotive Steering Germany GmbH",
+  "plant": "Bosch Automotive Steering Gerlingen",
+  "city": "Gerlingen",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Steering Systems (Rack-and-Pinion, Power Steering)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Power Steering (EPS) Components",
+      "ice_ev_type": "EV | Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Steering Angle Sensors",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electronic Steering Control Units",
+      "ice_ev_type": "EV | Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Steering Columns",
+      "ice_ev_type": "Shared",
+      "confidence": "low"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

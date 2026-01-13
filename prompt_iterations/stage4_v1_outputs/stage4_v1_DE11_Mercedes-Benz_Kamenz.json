@@ -1,0 +1,14 @@
+{
+  "company": "Daimler AG",
+  "plant": "Mercedes-Benz Kamenz",
+  "city": "Kamenz",
+  "nuts2_code": "DE11",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 800,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870850,
+  "classified_components": [
+    {
+      "component": "Constant Velocity Joint (CVJ)",
+      "classification": "ICE_ONLY",
+      "confidence": 0.9,
+      "reasoning": "Constant Velocity Joints (CVJs) are primarily used to transmit power from the transverse shaft to the drive axle in a front-wheel-drive vehicle, which is a configuration common in ICE vehicles but less common in EVs."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a mechanical component used to allow wheels rotating at different speeds to drive a common axle. It is necessary for both ICE and EV vehicles to distribute torque effectively between the driven wheels."
+    },
+    {
+      "component": "Axle Half Shaft",
+      "classification": "ICE_ONLY",
+      "confidence": 0.9,
+      "reasoning": "Axle half shafts are primarily used for transmitting power from the engine to the wheels via drivetrain components like differentials and joints. In an EV, motor-driven axles have eliminated the need for traditional half shafts."
+    },
+    {
+      "component": "U-Joint (Universal Joint)",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Universal joints are primarily used to connect and transmit power from the drivetrain components in ICE vehicles (e.g., driveshaft). Electric vehicles generally do not require a drivetrain with multiple moving parts connected by universal joints due to their direct-drive systems."
+    }
+  ]
+}

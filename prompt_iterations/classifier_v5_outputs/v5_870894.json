@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870894,
+  "classified_components": [
+    {
+      "component": "Rack and Pinion Steering Gear",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Rack and Pinion Steering Gear is a fundamental mechanical part for controlling vehicle direction, independent of the powertrain type."
+    },
+    {
+      "component": "Steering Column",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The steering column is a traditional and essential mechanical component for directional control of vehicles, irrespective of drivetrain type."
+    },
+    {
+      "component": "Tie Rods",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Tie rods are suspension components that maintain the steering geometry and provide lateral forces to the wheels during turning. They are not fundamentally tied to internal combustion engines or electric drivetrains."
+    },
+    {
+      "component": "Center Link",
+      "classification": "SHARED",
+      "confidence": 0.85,
+      "reasoning": "The center link is a suspension component that connects the upper and lower control arms in a vehicle's suspension system. This connection is not directly tied to internal combustion engines or electric drivetrain architecture, making it necessary for vehicle operation regardless of the drivetrain type."
+    }
+  ]
+}

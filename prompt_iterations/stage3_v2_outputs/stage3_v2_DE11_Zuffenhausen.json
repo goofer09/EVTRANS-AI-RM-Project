@@ -1,0 +1,36 @@
+{
+  "company": "Porsche AG",
+  "plant": "Zuffenhausen",
+  "city": "Zuffenhausen",
+  "nuts2_code": "DE11",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Vehicle Assembly",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Powertrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v2",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870840,
+  "classified_components": [
+    {
+      "component": "Gearbox Housing",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Gearbox housing is fundamentally tied to mechanical power transmission of combustion engines."
+    },
+    {
+      "component": "Gear Train",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Gear train is primarily used for transmitting mechanical power in internal combustion engine vehicles to smoothly transition between gears. Electric drivetrains typically do not require mechanical gear shifting."
+    },
+    {
+      "component": "Clutch Assembly",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Clutch assembly is a mechanical component for transmitting power from the engine to the transmission, which is not needed in electric vehicles as they do not have conventional internal combustion engines."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a key component in distributing power to the wheels and ensuring proper torque distribution between them, which is required for both ICE and EV vehicles."
+    }
+  ]
+}

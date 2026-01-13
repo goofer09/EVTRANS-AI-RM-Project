@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870880,
+  "scored_components": [
+    {
+      "component": "Piston Rod",
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 80,
+      "demand_stability": 50,
+      "value_added": 20,
+      "regulatory_exposure": 70,
+      "reasoning": {
+        "technical_compatibility": "Piston rods are essential components in Internal Combustion Engines (ICE), and have no direct application in Electric Vehicles (EV).",
+        "manufacturing_feasibility": "The manufacturing process of piston rods is well-established, and the transition to EV production could potentially involve repurposing existing machinery.",
+        "supply_chain_concentration": "There are a significant number of suppliers for piston rods, which reduces the risk of supply chain disruption during the ICE-to-EV transition.",
+        "demand_stability": "The demand for piston rods in the ICE market is declining as more EV models are introduced, causing demand instability.",
+        "value_added": "Piston rods have a low value-add due to their simple design and mass production process.",
+        "regulatory_exposure": "Regulations promoting EV adoption could lead to increased pressure on the ICE industry, potentially affecting piston rod manufacturers."
+      }
+    },
+    {
+      "component": "Shock Piston",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 85,
+      "demand_stability": 90,
+      "value_added": 80,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Shock pistons are a mechanical component common to both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing processes can be adapted for the production of shock pistons in electric vehicles.",
+        "supply_chain_concentration": "While there is a concentration of supply among major manufacturers, there are also many smaller suppliers offering alternatives.",
+        "demand_stability": "Demand for shock pistons remains relatively stable due to their essential role in vehicle suspension systems.",
+        "value_added": "The value added by shock pistons is moderate as they are a critical but commoditized component.",
+        "regulatory_exposure": "Regulations may impact the materials used in shock piston production, such as restrictions on certain metals for environmental reasons."
+      }
+    },
+    {
+      "component": "Damper Tube",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 80,
+      "demand_stability": 70,
+      "value_added": 60,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Damper tubes are crucial components in both ICE and EV vehicles for suspension systems.",
+        "manufacturing_feasibility": "The manufacturing process for damper tubes can be adapted to work with lightweight materials suitable for EVs, such as aluminum and carbon fiber.",
+        "supply_chain_concentration": "While there are a limited number of major suppliers, the overall supply chain is not excessively concentrated, allowing for potential diversification.",
+        "demand_stability": "Demand may fluctuate due to changes in vehicle types produced by manufacturers, but overall demand for suspension components remains relatively stable.",
+        "value_added": "The value added from damper tubes is moderate as they are a necessary component but do not represent a significant percentage of the total vehicle cost.",
+        "regulatory_exposure": "Regulations primarily focus on emissions and energy efficiency, which have minimal impact on damper tube design or materials."
+      }
+    },
+    {
+      "component": "Mounting Bracket",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 75,
+      "demand_stability": 85,
+      "value_added": 90,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "Universal design allows for seamless integration in both ICE and EV platforms.",
+        "manufacturing_feasibility": "No significant changes required to manufacturing processes for this component as it applies to both ICE and EV platforms.",
+        "supply_chain_concentration": "While there are multiple suppliers globally, a few key players dominate the market which may lead to concentration risks.",
+        "demand_stability": "Demand remains relatively stable due to its essential role in vehicle assembly and durability.",
+        "value_added": "The mounting bracket serves as a fundamental component that directly contributes to the vehicle's structural integrity and overall performance.",
+        "regulatory_exposure": "Regulations may not directly target this component, but changes in emission standards or safety regulations could impact its design requirements."
+      }
+    }
+  ]
+}

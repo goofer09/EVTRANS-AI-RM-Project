@@ -1,0 +1,19 @@
+{
+  "company": "Continental AG",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [
+    {
+      "plant_name": "Kornwestheim Plant",
+      "city": "Kornwestheim",
+      "primary_function": "Chassis & Safety, Powertrain"
+    },
+    {
+      "plant_name": "Hockenheim Plant",
+      "city": "Hockenheim",
+      "primary_function": "Automotive Electronics"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

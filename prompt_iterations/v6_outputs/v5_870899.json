@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870899,
+  "hs_description": "Vehicle Parts & Accessories",
+  "components": [
+    {
+      "name": "Wheel Hub Assembly",
+      "function": "Connects the wheel to the vehicle's drive train",
+      "subsystem": "Suspension and Steering"
+    },
+    {
+      "name": "Brake Drum or Disc",
+      "function": "Slows or stops the vehicle by applying friction to the rotating wheel",
+      "subsystem": "Braking System"
+    },
+    {
+      "name": "Axle Assembly",
+      "function": "Transmits torque from the differential to the wheels",
+      "subsystem": "Drive Train"
+    },
+    {
+      "name": "Steering Knuckle",
+      "function": "Connects the wheel assembly, suspension, and steering system components",
+      "subsystem": "Suspension and Steering"
+    }
+  ]
+}
