@@ -1,0 +1,30 @@
+{
+  "company": "Bosch Automotive Steering GmbH",
+  "plant": "Bosch Automotive Steering Darmstadt",
+  "city": "Darmstadt",
+  "nuts2_code": "DE71",
+  "components": [
+    {
+      "category": "Steering Systems (Rack & Pinion, Power Steering)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Power Steering Components (Motors, Controllers)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Steering Columns and Airbag Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Steering System Software",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

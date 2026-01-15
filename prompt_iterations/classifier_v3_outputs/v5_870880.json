@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870880,
+  "classified_components": [
+    {
+      "component": "Piston Rod",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Piston rod is a critical component in the reciprocating engine of ICE vehicles and does not have an equivalent function in electric vehicles."
+    },
+    {
+      "component": "Shock Piston",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Shock Piston is a fundamental component of suspension systems and remains essential in both Internal Combustion Engine (ICE) and Electric Vehicle (EV) vehicles."
+    },
+    {
+      "component": "Damper Tube",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Damper tubes are used in both ICE and EV vehicles for suspension system functionality, which remains unchanged during the transition."
+    },
+    {
+      "component": "Mounting Bracket",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Mounting brackets are used to secure various vehicle components, many of which remain in both ICE and EV vehicles."
+    }
+  ]
+}

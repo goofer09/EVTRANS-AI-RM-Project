@@ -1,0 +1,30 @@
+{
+  "company": "Bosch GmbH",
+  "plant": "Bosch Diesel Systems Berlin-Marzahn",
+  "city": "Berlin",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Fuel Injection Systems",
+      "ice_ev_type": "ICE | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Exhaust Gas Treatment Systems",
+      "ice_ev_type": "ICE",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electric Motor Control Units",
+      "ice_ev_type": "EV",
+      "confidence": "low"
+    },
+    {
+      "category": "Electronic Braking Systems (ABS)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": "8708.30",
+  "scored_components": [
+    {
+      "component": "Brake Calipers",
+      "technical_compatibility": 95,
+      "manufacturing_feasibility": 90,
+      "supply_chain_concentration": 80,
+      "demand_stability": 70,
+      "value_added": 60,
+      "regulatory_exposure": 65,
+      "reasoning": {
+        "technical_compatibility": "Brake calipers are essential components in both ICE and EV vehicles. The basic design remains largely unchanged during the transition.",
+        "manufacturing_feasibility": "The manufacturing process for brake calipers can be adapted to handle both ICE and EV components, although some modifications may be required due to differences in braking systems.",
+        "supply_chain_concentration": "There are several major manufacturers of brake calipers, but the industry is not excessively concentrated. This provides a good balance between competition and supply reliability during the transition.",
+        "demand_stability": "The demand for brakes remains consistent across both ICE and EV vehicles, though there may be slight fluctuations as the market shifts towards EVs.",
+        "value_added": "The value-added aspect of brake calipers is moderate. While they are essential components, their cost in relation to the overall vehicle cost is not particularly high.",
+        "regulatory_exposure": "Regulations related to braking systems are relatively stable and consistent across regions. However, there may be some regional differences or emerging regulations that could impact the industry."
+      }
+    },
+    {
+      "component": "Master Cylinder",
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 85,
+      "demand_stability": 70,
+      "value_added": 40,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Not applicable in electric vehicles as they do not use hydraulic brakes",
+        "manufacturing_feasibility": "Manufacturing process remains the same for conventional and electric vehicles",
+        "supply_chain_concentration": "Master cylinder market share is concentrated among a few major players",
+        "demand_stability": "Demand for master cylinders in ICE vehicles may decline with the transition to EVs",
+        "value_added": "Minimal value-addition as it is a simple mechanical component",
+        "regulatory_exposure": "Regulations aiming at reducing emissions and promoting electric vehicles could potentially impact demand"
+      }
+    },
+    {
+      "component": "Brake Booster",
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 40,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Brake boosters are still needed in hybrid and mild-hybrid vehicles, but their significance decreases in full electric vehicles as regenerative braking takes over. However, for safety reasons, some form of mechanical braking system will likely remain.",
+        "manufacturing_feasibility": "Manufacturing processes for brake boosters are well established and can be easily adapted to meet the requirements of both ICE and EV vehicles, with only minor modifications.",
+        "supply_chain_concentration": "The supply chain for brake boosters is concentrated among a few major players. As the shift towards electrification continues, diversifying the supply chain will be crucial to ensure continuity and reduce potential bottlenecks.",
+        "demand_stability": "Demand for brake boosters in ICE vehicles will gradually decrease as the EV market share increases. However, the demand for safety-related components like brakes is likely to remain stable overall, just with a shift towards EV applications.",
+        "value_added": "Value added by brake boosters in an EV system is limited compared to an ICE vehicle due to the reduced need for mechanical force amplification. However, their importance for safety and potential for integration with regenerative braking systems could increase their value-added over time.",
+        "regulatory_exposure": "Regulations may require backup braking systems in EVs, potentially increasing demand for components like brake boosters. On the other hand, efforts towards reducing vehicle weight and improving efficiency might lead to pressure on manufacturers to reduce component size or find alternatives."
+      }
+    },
+    {
+      "component": "Brake Disc or Drum",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 85,
+      "demand_stability": 70,
+      "value_added": 80,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Brake discs and drums are mechanically compatible with both ICE and EV systems, requiring minimal changes for adaptation.",
+        "manufacturing_feasibility": "The production processes for brake discs and drums are well-established and have been used in the automotive industry for decades, ensuring feasibility for continued production.",
+        "supply_chain_concentration": "While there is a dominant market share of suppliers in this sector, diversity exists, with some manufacturers offering both ICE and EV-specific components.",
+        "demand_stability": "Demand for brake discs and drums may experience fluctuations due to the transition to EVs, as braking systems in EVs are different from those in ICE vehicles, potentially impacting demand for traditional components.",
+        "value_added": "The value-added aspect lies in the high wear rate of brake components, ensuring continued need for replacements even during the EV transition.",
+        "regulatory_exposure": "Regulations regarding braking systems have been relatively stable, with minimal changes expected to impact the component's production or design."
+      }
+    }
+  ]
+}

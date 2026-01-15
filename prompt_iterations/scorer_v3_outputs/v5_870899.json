@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870899,
+  "scored_components": [
+    {
+      "component": "Wheel Hub Assembly",
+      "technical_compatibility": 95,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 60,
+      "demand_stability": 75,
+      "value_added": 80,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "Wheel hub assemblies are used in both ICE and EV vehicles. The main difference lies in the type of wheel that is used (steel vs. alloy for EVs), but this does not significantly impact the wheel hub assembly.",
+        "manufacturing_feasibility": "Although some modifications may be necessary to accommodate electric motors, the manufacturing process for wheel hub assemblies is generally feasible in both ICE and EV production.",
+        "supply_chain_concentration": "There are a few major suppliers of wheel hub assemblies. However, with increasing demand for EVs, diversification within the supply chain may be necessary to ensure adequate production capacity.",
+        "demand_stability": "Demand for wheel hub assemblies is relatively stable, given their essential role in both ICE and EV vehicles.",
+        "value_added": "Wheel hub assemblies offer a good level of value added, as they are a necessary component for both drivetrain systems.",
+        "regulatory_exposure": "Regulations regarding wheel hub assemblies are relatively minimal compared to other components such as batteries or motors. However, changes in regulations related to vehicle safety and performance may impact the design and manufacturing process."
+      }
+    },
+    {
+      "component": "Brake Drum or Disc",
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 60,
+      "demand_stability": 40,
+      "value_added": 70,
+      "regulatory_exposure": 85,
+      "reasoning": {
+        "technical_compatibility": "The drum and disc brakes used in ICE vehicles can be adapted for use in EVs with minimal modifications.",
+        "manufacturing_feasibility": "Both drum and disc brake manufacturing processes can be easily transitioned to produce components suitable for electric vehicles.",
+        "supply_chain_concentration": "The supply chain is moderately concentrated due to a few major manufacturers, but this could lead to potential supply issues during the ICE-to-EV transition.",
+        "demand_stability": "Demand for drum and disc brakes in ICE vehicles is decreasing as more EVs are produced, leading to instability in demand.",
+        "value_added": "Brake components offer a significant level of value addition, making them an attractive component to maintain or improve during the transition.",
+        "regulatory_exposure": "The component may be subject to regulatory changes related to EV safety standards and performance requirements."
+      }
+    },
+    {
+      "component": "Axle Assembly",
+      "technical_compatibility": 95,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 70,
+      "demand_stability": 60,
+      "value_added": 85,
+      "regulatory_exposure": 75,
+      "reasoning": {
+        "technical_compatibility": "Axles in both ICE and EV vehicles share similar principles, thus making them highly compatible during the transition.",
+        "manufacturing_feasibility": "While some adjustments may be required for electric axle designs (e.g., incorporating electric motors instead of driveshafts), the manufacturing process is generally feasible due to existing infrastructure and technologies.",
+        "supply_chain_concentration": "There are multiple suppliers for axles in both ICE and EV vehicles, but there might be some concentration in key markets, which could pose challenges during the transition.",
+        "demand_stability": "Demand for axle components might fluctuate due to market shifts toward electric vehicles. However, the overall demand stability is expected to remain moderate during the transition period.",
+        "value_added": "Axles are critical components in both ICE and EV vehicles, providing significant value-add throughout the manufacturing process and during vehicle operation.",
+        "regulatory_exposure": "Regulations related to emissions and safety apply equally to both ICE and EV axle components, but evolving standards for electric drivetrains might introduce additional considerations."
+      }
+    },
+    {
+      "component": "Steering Knuckle",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 70,
+      "demand_stability": 85,
+      "value_added": 80,
+      "regulatory_exposure": 60,
+      "reasoning": {
+        "technical_compatibility": "Steering knuckle plays a crucial role in both ICE and EV vehicles, requiring no significant modifications during the transition.",
+        "manufacturing_feasibility": "Modifications to manufacturing processes for steering knuckles may be required to accommodate potential differences between ICE and EV suspension systems, but these changes are achievable with relative ease.",
+        "supply_chain_concentration": "The supply chain for steering knuckles is relatively concentrated, but multiple suppliers offer the component globally.",
+        "demand_stability": "Demand for steering knuckles remains stable as it's a fundamental component in both ICE and EV vehicles.",
+        "value_added": "Steering knuckles contribute significantly to vehicle safety and control, making them an essential and valuable component in both ICE and EV vehicles.",
+        "regulatory_exposure": "Regulations on steering components vary by region. However, potential changes in emission standards or safety requirements could impact the design of steering knuckles."
+      }
+    }
+  ]
+}

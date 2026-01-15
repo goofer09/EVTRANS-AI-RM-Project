@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870810,
+  "classified_components": [
+    {
+      "component": "Front Bumper Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Front bumper assembly is a structural component that serves to protect the vehicle's front end in collisions and does not rely on internal combustion or electric drivetrain processes."
+    },
+    {
+      "component": "Rear Bumper Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Rear Bumper Assembly serves as a structural element and protective barrier in all vehicles, independent of their drivetrain type."
+    },
+    {
+      "component": "Bumper Support Bracket",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The bumper support bracket is a structural component that maintains the integrity of the vehicle's front end, independent of drivetrain type."
+    },
+    {
+      "component": "Bumper Beam",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The bumper beam is a structural component for vehicle safety, not directly tied to the internal combustion engine (ICE) or electric drivetrain architecture."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company": "BMW Group",
+  "plant": "BMW Leipzig Plant",
+  "city": "Leipzig",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Chassis and Suspension Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body-in-White (BIW) Assembly",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Drive Systems",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Batteries",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electrical Systems and Wiring Harnesses",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Exterior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

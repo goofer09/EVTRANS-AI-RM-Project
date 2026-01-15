@@ -1,0 +1,19 @@
+{
+  "company": "Mercedes-Benz Trucks GmbH",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [
+    {
+      "plant_name": "Mercedes-Benz W\u00f6rth Plant",
+      "city": "W\u00f6rth am Rhein",
+      "primary_function": "Truck, Bus and Van Manufacturing"
+    },
+    {
+      "plant_name": "Mercedes-Benz Stuttgart-Untert\u00fcrkheim Plant",
+      "city": "Stuttgart",
+      "primary_function": "Engine, Transmission, and Axle Production"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

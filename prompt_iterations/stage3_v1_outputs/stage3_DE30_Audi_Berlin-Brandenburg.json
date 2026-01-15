@@ -1,0 +1,40 @@
+{
+  "company": "Audi AG",
+  "plant": "Audi Berlin-Brandenburg",
+  "city": "Neumarkt",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Internal Combustion Engine Components",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Motor and Power Electronics",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Chassis & Suspension Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Interior Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Transmission Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Battery Components (for electric vehicles)",
+      "ice_ev_type": "EV",
+      "confidence": "low"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

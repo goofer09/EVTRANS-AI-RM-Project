@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870893,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 45,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Single Mass Flywheels are ICE-specific and do not have a direct equivalent in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed to some extent for production of other drivetrain components, but not for Single Mass Flywheels.",
+        "supply_chain_concentration": "The supplier base is concentrated due to the limited application in ICE vehicles.",
+        "demand_stability": "Demand for Single Mass Flywheels will significantly decrease with the transition to EVs, causing instability in demand.",
+        "value_added": "Production of Single Mass Flywheels requires a certain level of skill and complexity, but it is not considered high-value compared to other components.",
+        "regulatory_exposure": "Single Mass Flywheels are directly exposed to ICE phase-out regulations as they are exclusively used in ICE vehicles."
+      },
+      "component": "Single Mass Flywheel"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 50,
+      "regulatory_exposure": 60,
+      "reasoning": {
+        "technical_compatibility": "Multi-plate clutch is ICE-specific and has no direct application in EV architectures",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be partially repurposed for EV components but significant changes are required",
+        "supply_chain_concentration": "Supply base is concentrated due to specialized manufacturers producing multi-plate clutches primarily for ICE vehicles",
+        "demand_stability": "Demand for multi-plate clutches will likely decline during the EV transition",
+        "value_added": "Production of multi-plate clutches involves moderate skill and complexity, but the overall economic value is expected to decrease as ICE vehicles become less common",
+        "regulatory_exposure": "Multi-plate clutch manufacturers will be exposed to ICE phase-out regulations that could lead to reduced demand"
+      },
+      "component": "Multi-plate Clutch"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 10,
+      "reasoning": {
+        "technical_compatibility": "The Clutch Pedal Assembly is ICE-specific and not compatible with EV architectures due to the absence of a mechanical clutch.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be partially repurposed for related components, but significant modifications are required for producing EV Clutch Pedal Assemblies.",
+        "supply_chain_concentration": "The supply chain for the Clutch Pedal Assembly is concentrated due to its ICE-specific nature and limited use in future EVs.",
+        "demand_stability": "Demand for this component is expected to collapse with the phase-out of internal combustion engines as electric vehicles become more prevalent.",
+        "value_added": "The production process requires skilled labor and is complex, but as demand decreases, its economic value will also decrease.",
+        "regulatory_exposure": "This component faces low regulatory exposure as it's an ICE-specific part and not targeted by current EV phase-out regulations"
+      },
+      "component": "Clutch Pedal Assembly"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Release bearings are specific to ICE vehicles and have limited relevance in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment may be adaptable for some aspects of release bearing production, but significant changes will likely be required for full compatibility with EV components.",
+        "supply_chain_concentration": "The supply base for release bearings is relatively concentrated due to the limited number of key manufacturers in this market.",
+        "demand_stability": "As the demand for ICE vehicles decreases during the EV transition, the demand for release bearings will also decline.",
+        "value_added": "Release bearings have a moderate level of skill, complexity, and economic value due to their role in the powertrain system, but they are not as critical or valuable as some other components.",
+        "regulatory_exposure": "Release bearings are exposed to ICE phase-out regulation as they are specific to these vehicles and may become less necessary with the rise of EVs."
+      },
+      "component": "Release Bearing"
+    }
+  ]
+}

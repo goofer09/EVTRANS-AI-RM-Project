@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870860,
+  "classified_components": [
+    {
+      "component": "Constant Velocity Joint (CV Joint)",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The Constant Velocity Joint (CV Joint) is used in both ICE and EV vehicles for transmitting power from the transaxle to the wheels, maintaining consistent angular velocity despite changes in direction."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a mechanical component common in both ICE and EV vehicles, used to distribute power from the drivetrain to each wheel."
+    },
+    {
+      "component": "Axle Halfshaft",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Axle halfshaft is a mechanical component supporting vehicle's suspension and transmission system, which is common to both ICE and EV vehicles."
+    },
+    {
+      "component": "Universal Joint (U-joint)",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Universal joints are a common mechanical component in both conventional Internal Combustion Engine (ICE) and Electric Vehicle (EV) drivetrains for transmitting power."
+    }
+  ]
+}

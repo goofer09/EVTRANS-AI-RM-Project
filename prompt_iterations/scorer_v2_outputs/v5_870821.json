@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870821,
+  "scored_components": [
+    {
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 80,
+      "demand_stability": 60,
+      "value_added": 30,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Lap belts are a standard safety feature in both ICE and EV vehicles, ensuring compatibility.",
+        "manufacturing_feasibility": "Existing seat manufacturing equipment can be repurposed to produce lap belts for both ICE and EV models.",
+        "supply_chain_concentration": "Although there are few specialized manufacturers for automotive seat components, the demand is high enough to support multiple suppliers.",
+        "demand_stability": "The demand for safety features like lap belts will remain stable during the EV transition due to increasing focus on vehicle safety.",
+        "value_added": "Lap belt manufacturing involves relatively low skill and complexity compared to other automotive components, resulting in commoditized production.",
+        "regulatory_exposure": "Lap belts are not directly affected by ICE phase-out regulations as they serve a critical safety function."
+      },
+      "component": "Lap Belt"
+    },
+    {
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 40,
+      "demand_stability": 70,
+      "value_added": 50,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Shoulder belts are a universal safety feature in both ICE and EV vehicles, ensuring high compatibility during the EV transition.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed to produce shoulder belts for EVs with minor adjustments.",
+        "supply_chain_concentration": "The supply chain for shoulder belts is diverse, but there may be specialized suppliers that could face challenges adapting to the EV market.",
+        "demand_stability": "Demand for safety features like shoulder belts is expected to remain stable during the EV transition as they are essential for occupant protection.",
+        "value_added": "Production of shoulder belts involves moderate complexity and skill, but they are not considered a high-value added component in the automotive industry.",
+        "regulatory_exposure": "Shoulder belts are not directly affected by ICE phase-out regulations as they serve a critical safety function regardless of the powertrain."
+      },
+      "component": "Shoulder Belt"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 50,
+      "supply_chain_concentration": 60,
+      "demand_stability": 30,
+      "value_added": 40,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "The Retractor component is primarily ICE-specific as it relates to seatbelts and airbag deployment.",
+        "manufacturing_feasibility": "Existing manufacturing equipment for the Retractor can likely be repurposed due to its simplicity.",
+        "supply_chain_concentration": "The supply chain is moderately concentrated with multiple manufacturers, but there are specialized suppliers for this component.",
+        "demand_stability": "Demand for Retractors may decline as autonomous driving technologies decrease the need for seatbelts and airbags.",
+        "value_added": "The production of Retractors has a moderate skill level and economic value, but it is not highly complex or valuable compared to other vehicle components.",
+        "regulatory_exposure": "Retractor manufacturers are at risk due to increased safety standards for EVs during the ICE phase-out, which may require redesign of their products."
+      },
+      "component": "Retractor"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 70,
+      "supply_chain_concentration": 30,
+      "demand_stability": 50,
+      "value_added": 60,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Pretensioners play a role in both ICE and EV safety systems, making them highly adaptable during the transition.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can likely be repurposed for producing pretensioners, as they are standard components across vehicle types.",
+        "supply_chain_concentration": "The supply chain for pretensioners is relatively diverse due to their widespread use in vehicles, reducing dependence on a few specialized suppliers.",
+        "demand_stability": "Demand for safety components like pretensioners is expected to remain stable or grow during the EV transition, as safety regulations will continue to prioritize occupant protection.",
+        "value_added": "Pretensioners have a moderately high value-added due to their importance in vehicle safety and complex mechanical functionality.",
+        "regulatory_exposure": "Pretensioners are not directly affected by ICE phase-out regulations, as they are primarily focused on vehicle safety rather than powertrain."
+      },
+      "component": "Pretensioner"
+    }
+  ]
+}

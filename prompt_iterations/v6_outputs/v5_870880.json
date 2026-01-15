@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870880,
+  "hs_description": "Shock Absorber Parts",
+  "components": [
+    {
+      "name": "Piston Rod",
+      "function": "Transmits the suspension motion to the shock absorber piston",
+      "subsystem": "Suspension System"
+    },
+    {
+      "name": "Shock Piston",
+      "function": "Controls the movement and damping of the shock absorber",
+      "subsystem": "Suspension System"
+    },
+    {
+      "name": "Damper Tube",
+      "function": "Houses the shock absorber fluid, allowing controlled compression and extension",
+      "subsystem": "Suspension System"
+    },
+    {
+      "name": "Mounting Bracket",
+      "function": "Secures the shock absorber to the vehicle chassis or suspension components",
+      "subsystem": "Chassis and Body Structure"
+    }
+  ]
+}

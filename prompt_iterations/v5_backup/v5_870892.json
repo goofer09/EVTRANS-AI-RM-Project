@@ -1,0 +1,31 @@
+{
+    "version": "v5_iteration",
+    "date": "2026-01-04",
+    "hs_code": 870892,
+    "hs_description": "Exhaust Parts",
+    "model": "mistral:7b",
+    "temperature": 0.2,
+    "prompt": "You are an automotive engineering expert.\nFor HS Code 870892 (Exhaust Parts), identify the TOP 4 most critical **physical sub-components** of the braking system. Exclude driver interface components (pedal assembly), sensors, or any non-essential parts. Focus only on parts directly responsible for stopping the vehicle.\n\nUse **consistent component terminology** across all outputs (e.g., always 'Brake Pads', never 'Brake Pads/Shoes'). Ensure **subsystems are clearly labeled** and distinct (Wheel Brake System vs Hydraulic Brake System).\n\nExamples of critical sub-components: brake pads, brake calipers, brake master cylinder, brake booster, brake discs.\n\nReturn ONLY valid JSON (no markdown, no explanations):\n[\n  {\"name\": \"Component 1\", \"function\": \"Primary function\", \"subsystem\": \"Subsystem\"},\n  {\"name\": \"Component 2\", \"function\": \"Primary function\", \"subsystem\": \"Subsystem\"},\n  {\"name\": \"Component 3\", \"function\": \"Primary function\", \"subsystem\": \"Subsystem\"},\n  {\"name\": \"Component 4\", \"function\": \"Primary function\", \"subsystem\": \"Subsystem\"}\n]\n\nRequirements:\n- Exactly 4 components\n- Use precise engineering terms\n- Focus on **combustion-engine vehicles**\n- Avoid any parts that are not essential for brake operation\n- Functions must be concise and clear",
+    "output": [
+        {
+            "name": "Catalytic Converter",
+            "function": "Reduces exhaust gas pollutants by converting harmful substances into less harmful ones",
+            "subsystem": "Exhaust Gas Treatment System"
+        },
+        {
+            "name": "Muffler",
+            "function": "Reduces exhaust noise from the engine",
+            "subsystem": "Exhaust System"
+        },
+        {
+            "name": "Exhaust Manifold",
+            "function": "Collects exhaust gases from multiple cylinders and directs them into the exhaust pipe",
+            "subsystem": "Engine Exhaust System"
+        },
+        {
+            "name": "Tailpipe",
+            "function": "Vents exhaust gases from the vehicle's rear",
+            "subsystem": "Exhaust System"
+        }
+    ]
+}

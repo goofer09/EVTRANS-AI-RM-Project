@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870850,
+  "scored_components": [
+    {
+      "component": "Constant Velocity Joint (CVJ)",
+      "technical_compatibility": 70,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 85,
+      "demand_stability": 60,
+      "value_added": 65,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "CVJs are currently used in hybrid and some electric vehicles for the power distribution from the transmission to the wheels. However, their efficiency could be improved with custom designs or alternative solutions like torque vectoring systems in fully electric vehicles.",
+        "manufacturing_feasibility": "Manufacturing of CVJs is a well-established process and can be easily adapted for electric vehicle production due to similarities between internal combustion engines (ICE) and early hybrid powertrains.",
+        "supply_chain_concentration": "The supply chain for CVJs consists of a moderate number of manufacturers, which could create some potential challenges during the transition but is generally manageable as suppliers adapt to electrification demands.",
+        "demand_stability": "Demand for CVJs might fluctuate due to changes in overall vehicle demand and market preferences towards electric vehicles. However, their use will likely persist for the foreseeable future in certain applications such as hybrid and mild-hybrid vehicles.",
+        "value_added": "CVJs play a crucial role in powertrain systems but may not provide significant added value in fully electric vehicles compared to internal combustion engine systems due to potential differences in design and power distribution.",
+        "regulatory_exposure": "Government regulations and market trends are pushing towards electrification, which could negatively impact the demand for CVJs in favor of alternative solutions or modifications."
+      }
+    },
+    {
+      "component": "Differential",
+      "technical_compatibility": 70,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 60,
+      "demand_stability": 75,
+      "value_added": 80,
+      "regulatory_exposure": 65,
+      "reasoning": {
+        "technical_compatibility": "Although differentials are a fundamental component in both ICE and EV systems, the shift to EVs requires modifications for electric torque vectoring and power electronics integration.",
+        "manufacturing_feasibility": "Existing manufacturing processes can be adapted for EV differentials. However, increased demand for torque vectoring and higher efficiency might necessitate improvements in production methods.",
+        "supply_chain_concentration": "The differential market is concentrated with a few major players, which could pose challenges in adapting to the growing EV market demands.",
+        "demand_stability": "Demand for differentials remains stable due to their essential role in both ICE and EV powertrains.",
+        "value_added": "Differentials play a crucial role in the overall vehicle performance, offering high value-addition in terms of safety and driving dynamics.",
+        "regulatory_exposure": "Regulations for emissions and fuel economy may push automakers to explore alternative solutions like independent motors that could potentially replace traditional differentials."
+      }
+    },
+    {
+      "component": "Axle Half Shaft",
+      "technical_compatibility": 95,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 75,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Axle half shafts play a crucial role in both ICE and EV vehicles, with minimal changes required for EV adaptation.",
+        "manufacturing_feasibility": "Given the current production infrastructure and processes in place for traditional automotive manufacturing, converting to EV-compatible axle half shafts is feasible.",
+        "supply_chain_concentration": "While there are multiple suppliers of axle half shafts globally, concentration among key players may pose challenges during the transition to EV.",
+        "demand_stability": "As both ICE and EV vehicles require axle half shafts, demand stability is relatively high as the market transitions towards electrification.",
+        "value_added": "The axle half shaft contributes significantly to the vehicle's functionality and thus offers a high value-added potential during manufacturing processes.",
+        "regulatory_exposure": "Stricter regulations on emissions and fuel efficiency may encourage the replacement of internal combustion engines with electric alternatives, potentially affecting the demand for axle half shafts in ICE vehicles."
+      }
+    },
+    {
+      "component": "U-Joint (Universal Joint)",
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 70,
+      "demand_stability": 60,
+      "value_added": 30,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "Universal joints are still required for many mechanical drive systems in both ICE and EV applications, especially for complex drivetrain configurations such as four-wheel drive and all-wheel drive.",
+        "manufacturing_feasibility": "The manufacturing process of universal joints is well established and adaptable to both traditional and modern production methods. However, the demand may shift towards more lightweight alternatives in the future.",
+        "supply_chain_concentration": "There are several key players in the supply chain for universal joints, but their concentration could pose a risk if there are disruptions due to various factors such as geopolitical tensions or natural disasters.",
+        "demand_stability": "Demand for universal joints may be affected by the increasing popularity of EVs, as they may require less complex drivetrains and fewer mechanical joints. However, the demand in other sectors like agriculture, construction, and off-road vehicles is relatively stable.",
+        "value_added": "Universal joints are a commodity component with low value added, as they primarily serve to transmit power and motion between components rather than providing innovative technology or advanced features.",
+        "regulatory_exposure": "Regulations related to emissions and fuel efficiency may not have a significant impact on universal joint usage in the near term. However, safety standards for EV drivetrains could potentially affect their application."
+      }
+    }
+  ]
+}

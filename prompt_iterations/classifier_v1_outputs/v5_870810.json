@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v1",
+  "hs_code": 870810,
+  "classified_components": [
+    {
+      "component": "Front Bumper Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "Rear Bumper Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "Bumper Support Bracket",
+      "classification": "SHARED",
+      "confidence": 0.85
+    },
+    {
+      "component": "Bumper Beam",
+      "classification": "SHARED",
+      "confidence": 0.9
+    }
+  ]
+}

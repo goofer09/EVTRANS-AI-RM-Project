@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v1",
+  "hs_code": 870829,
+  "classified_components": [
+    {
+      "component": "Door Assembly",
+      "classification": "UNKNOWN",
+      "confidence": 0.0
+    },
+    {
+      "component": "Fender (Wheelhouse)",
+      "classification": "SHARED",
+      "confidence": 0.95
+    },
+    {
+      "component": "Bumper",
+      "classification": "SHARED",
+      "confidence": 0.9
+    },
+    {
+      "component": "Hood (Bonnet)",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    }
+  ]
+}

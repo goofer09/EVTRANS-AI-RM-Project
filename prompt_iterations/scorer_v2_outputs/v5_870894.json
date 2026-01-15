@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870894,
+  "scored_components": [
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 30,
+      "demand_stability": 60,
+      "value_added": 40,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Rack and Pinion Steering Gear is a standard mechanical component common to both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for producing steering gear components due to their similarities between ICE and EV applications.",
+        "supply_chain_concentration": "The supply chain for steering gear components is diversified, with numerous suppliers worldwide.",
+        "demand_stability": "While the transition to EVs may affect overall demand, steady demand for replacement parts in the aftermarket and fleet vehicles may persist.",
+        "value_added": "The production of steering gear components involves some skill and complexity but is not highly specialized or economically valuable compared to other vehicle components.",
+        "regulatory_exposure": "Rack and Pinion Steering Gear are not directly affected by ICE phase-out regulations, as they serve a crucial safety function regardless of the powertrain."
+      },
+      "component": "Rack and Pinion Steering Gear"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 40,
+      "demand_stability": 70,
+      "value_added": 60,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Steering column is a mechanical component common in both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for EV components with minor modifications.",
+        "supply_chain_concentration": "There are several suppliers of steering columns, but the market may become more specialized in the transition to EVs.",
+        "demand_stability": "Demand for steering columns will remain stable during the EV transition due to their essential role in vehicle operation.",
+        "value_added": "Steering column production requires a certain level of skill and complexity, but it is not considered highly valued economically compared to other EV components.",
+        "regulatory_exposure": "The steering column may face increased regulation as ICE phase-out advances and safety standards for EVs are established."
+      },
+      "component": "Steering Column"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 75,
+      "supply_chain_concentration": 60,
+      "demand_stability": 80,
+      "value_added": 40,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Tie rods are a suspension component common in both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed to produce tie rods for both types of vehicles.",
+        "supply_chain_concentration": "The supply base for tie rods is relatively diverse, but there may be a few specialized suppliers.",
+        "demand_stability": "Demand for tie rods is expected to remain stable during the EV transition as they are essential components in both ICE and EV suspension systems.",
+        "value_added": "Tie rod production is relatively simple compared to other vehicle components, with a lower economic value.",
+        "regulatory_exposure": "Tie rods are not directly affected by ICE phase-out regulations as they are a fundamental component of both ICE and EV vehicles."
+      },
+      "component": "Tie Rods"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 75,
+      "supply_chain_concentration": 80,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "The Center Link is ICE-specific, not directly compatible with EV architectures.",
+        "manufacturing_feasibility": "Existing manufacturing equipment may be repurposed for some aspects of Center Link production, given its mechanical nature.",
+        "supply_chain_concentration": "The supply base is concentrated due to the high demand for Center Links in ICE vehicles and potential limited adaptation for EV applications.",
+        "demand_stability": "Demand for Center Links may collapse as EV adoption increases, due to reduced need for mechanical components in EV drivetrains.",
+        "value_added": "Center Link production requires skilled labor and some level of complexity, making it slightly more economically valuable than commoditized parts.",
+        "regulatory_exposure": "The Center Link is exposed to ICE phase-out regulation due to its essential role in ICE drivetrains."
+      },
+      "component": "Center Link"
+    }
+  ]
+}

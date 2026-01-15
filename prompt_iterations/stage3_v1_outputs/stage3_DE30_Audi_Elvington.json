@@ -1,0 +1,50 @@
+{
+  "company": "Audi AG",
+  "plant": "Audi Elvington",
+  "city": "Elvington",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Internal Combustion Engine (ICE)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Transmission System",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Chassis and Suspension Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electrical Systems (Including Lighting, Wiring, etc.)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Interior Components (Dashboard, Seats, Controls)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Exterior Body Panels and Trim",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Battery Systems (for Electric Vehicles)",
+      "ice_ev_type": "EV",
+      "confidence": "low"
+    },
+    {
+      "category": "Electric Motors and Drivetrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "low"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870870,
+  "classified_components": [
+    {
+      "component": "Axle Assembly",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The axle assembly serves as the mechanical connection between wheels and the power source, and is required in both internal combustion engine (ICE) and electric vehicles (EV)."
+    },
+    {
+      "component": "Engine Mount",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Engine mount is a structural component used in both ICE and EV vehicles to secure the engine or motor within the vehicle chassis."
+    },
+    {
+      "component": "Transmission Assembly",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Transmission Assembly is required in both Internal Combustion Engine (ICE) and Electric Vehicles (EVs) to manage the power output of the engine or motor."
+    },
+    {
+      "component": "Differential Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential assembly is a key component in both ICE and EV vehicles, as it distributes engine torque or electric motor torque to the wheels."
+    }
+  ]
+}

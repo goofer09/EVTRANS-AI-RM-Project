@@ -1,0 +1,30 @@
+{
+  "company": "Bosch Automotive Steering Germany GmbH",
+  "plant": "Bosch Automotive Steering Stuttgart-Feuerbach",
+  "city": "Stuttgart",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Steering Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Power Steering (EPS) Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Steering Columns",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Steering Racks",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

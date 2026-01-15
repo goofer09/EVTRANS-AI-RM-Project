@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870892,
+  "classified_components": [
+    {
+      "component": "Muffler",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The muffler is a sound reduction component and its primary function is to dampen engine noise, regardless of drivetrain type."
+    },
+    {
+      "component": "Catalytic Converter",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Catalytic converter reduces toxic emissions from exhaust gases, applicable to both ICE and EV vehicles through their respective exhaust systems."
+    },
+    {
+      "component": "Exhaust Manifold",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Exhaust Manifold is fundamentally required for the routing of exhaust gases from multiple cylinders in an internal combustion engine."
+    },
+    {
+      "component": "Tailpipe",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The tailpipe is a common exhaust emission point for both ICE and EV vehicles."
+    }
+  ]
+}

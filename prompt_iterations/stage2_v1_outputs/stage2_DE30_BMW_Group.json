@@ -1,0 +1,19 @@
+{
+  "company": "BMW Group",
+  "nuts2_code": "DE30",
+  "nuts2_name": "Berlin",
+  "plants": [
+    {
+      "plant_name": "BMW Berlin Plant",
+      "city": "Marienfelde",
+      "primary_function": "Mini Cooper, Mini Countryman production"
+    },
+    {
+      "plant_name": "BMW Leipzig Plant",
+      "city": "Leipzig",
+      "primary_function": "X1, X3, X4, X5, X6, and X7 vehicle production"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

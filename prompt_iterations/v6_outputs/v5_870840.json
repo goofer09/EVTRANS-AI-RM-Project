@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870840,
+  "hs_description": "Gearbox Parts",
+  "components": [
+    {
+      "name": "Gearbox Housing",
+      "function": "Provides structure and support for geartrain components",
+      "subsystem": "Transmission"
+    },
+    {
+      "name": "Gear Train",
+      "function": "Transmits rotational power at various speeds",
+      "subsystem": "Transmission"
+    },
+    {
+      "name": "Clutch Assembly",
+      "function": "Engages and disengages the gearbox with the engine",
+      "subsystem": "Transmission"
+    },
+    {
+      "name": "Differential",
+      "function": "Enables wheels to rotate at different speeds during turns",
+      "subsystem": "Drivetrain"
+    }
+  ]
+}

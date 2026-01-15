@@ -1,0 +1,40 @@
+{
+  "company": "Daimler AG",
+  "plant": "Berlin-Marienfelde Plant",
+  "city": "Berlin",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Chassis and Suspension Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components (Engine, Transmission)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Powertrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Body and Interior Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electrical Components (Lighting, Wiring)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Advanced Driver Assistance Systems (ADAS)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

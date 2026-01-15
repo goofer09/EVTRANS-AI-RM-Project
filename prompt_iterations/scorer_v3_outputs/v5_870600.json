@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870600,
+  "scored_components": [
+    {
+      "component": "Engine",
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 0,
+      "supply_chain_concentration": 98,
+      "demand_stability": 20,
+      "value_added": 30,
+      "regulatory_exposure": 100,
+      "reasoning": {
+        "technical_compatibility": "An internal combustion engine (ICE) is technically incompatible with EVs as it provides the power for propulsion and heat generation. In an electric vehicle, these functions are served by the electric motor and battery respectively.",
+        "manufacturing_feasibility": "Manufacturing engines is a highly specialized process that requires significant resources and infrastructure. As the shift towards electrification continues, it becomes increasingly challenging to justify the continued production of ICEs.",
+        "supply_chain_concentration": "The supply chain for ICE components is dominated by a small number of major suppliers, which could potentially lead to concentration risks. However, this concentration may also facilitate the transition to electric powertrains as these suppliers adapt their manufacturing processes.",
+        "demand_stability": "Demand for engines has been decreasing due to the increasing popularity of EVs and stricter emissions regulations. This instability in demand makes it difficult for manufacturers to plan and invest in engine production.",
+        "value_added": "Engine manufacturing contributes some value to the automotive industry but not as much as other components like electric motors or batteries that are specifically designed for EVs.",
+        "regulatory_exposure": "The engine industry is highly exposed to regulatory risks, particularly related to emissions standards. As these standards become more stringent and focused on reducing CO2 emissions, engines will likely face increased pressure."
+      }
+    },
+    {
+      "component": "Transmission",
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 95,
+      "demand_stability": 40,
+      "value_added": 10,
+      "regulatory_exposure": 70,
+      "reasoning": {
+        "technical_compatibility": "ICE transmissions are designed to handle power fluctuations from internal combustion engines and aren't well-suited for electric motors which produce continuous torque.",
+        "manufacturing_feasibility": "While some adaptations may be possible, the majority of ICE transmission production lines would need significant investment to convert them for EV manufacturing. This could be feasible with time, but presents an initial challenge.",
+        "supply_chain_concentration": "The majority of transmissions come from a relatively small number of manufacturers, making it easier to transition to electric drive units (e-axles) in the long run, as these companies adapt their production.",
+        "demand_stability": "Demand for ICE transmissions is expected to decrease significantly with the shift towards EVs. The instability arises from the uncertainty of how quickly this demand will drop and how much time transmission manufacturers have to adjust.",
+        "value_added": "The value added by ICE transmissions in an EV is minimal, as they are largely replaced by e-axles which combine motor, reduction gear, and inverter into a single compact unit.",
+        "regulatory_exposure": "Transmission manufacturers may face regulatory pressure to transition away from ICE components and towards more sustainable technology. However, the pace of these regulations varies between regions."
+      }
+    },
+    {
+      "component": "Suspension System",
+      "technical_compatibility": 95,
+      "manufacturing_feasibility": 90,
+      "supply_chain_concentration": 75,
+      "demand_stability": 80,
+      "value_added": 85,
+      "regulatory_exposure": 60,
+      "reasoning": {
+        "technical_compatibility": "The existing suspension systems can be adapted for EVs with minimal modifications due to the similarities in weight distribution and powertrain layout.",
+        "manufacturing_feasibility": "Existing manufacturing processes for suspension components can be utilized, though some changes may be required to accommodate new materials or designs for improved performance.",
+        "supply_chain_concentration": "The market for suspension systems is dominated by a few major suppliers, which could lead to potential supply chain disruptions during the transition but also offers opportunities for consolidation and optimization.",
+        "demand_stability": "Demand for suspension systems remains relatively stable throughout the vehicle lifecycle as they are critical components in ensuring safety and comfort regardless of powertrain type.",
+        "value_added": "Suspension systems offer a high value-add due to their role in enhancing vehicle performance, handling, and ride quality, making them an essential component for both ICE and EV vehicles.",
+        "regulatory_exposure": "Regulations related to safety and emissions may impact the design and materials used in suspension systems. However, the evolution of these regulations might require more significant changes for powertrain components like batteries or motors."
+      }
+    },
+    {
+      "component": "Steering System",
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 80,
+      "regulatory_exposure": 75,
+      "reasoning": {
+        "technical_compatibility": "Electric steering systems (ESS) are replacing conventional hydraulic power steering in most modern EVs due to energy efficiency and compact design. However, the transition for legacy ICE vehicles could face challenges due to compatibility with existing components.",
+        "manufacturing_feasibility": "While ESS manufacturing requires some new processes, many of the core components are similar to those used in conventional power steering systems. Additionally, several established automotive suppliers have begun producing electric steering systems, improving overall feasibility.",
+        "supply_chain_concentration": "The steering system supply chain is moderately concentrated with a few key players dominating the market. This could present challenges for EV manufacturers seeking to source components as demand increases.",
+        "demand_stability": "Demand for steering systems in both ICE and EV markets remains stable, given that they are critical safety components of all vehicles. However, the shift towards electric power steering may cause some volatility in the short term.",
+        "value_added": "Electric steering systems offer improvements in energy efficiency, precision, and reduced weight compared to hydraulic systems. These advantages provide significant value-add for automakers looking to improve their vehicle's performance and reduce emissions.",
+        "regulatory_exposure": "Regulations aimed at reducing CO2 emissions and improving fuel economy may drive demand for electric steering systems, while increasing the regulatory pressure on manufacturers to adopt cleaner technologies."
+      }
+    }
+  ]
+}

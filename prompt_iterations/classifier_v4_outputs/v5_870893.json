@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870893,
+  "classified_components": [
+    {
+      "component": "Single Mass Flywheel",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Single Mass Flywheel is a mechanical component primarily used for the energy management in traditional internal combustion engines (ICE) through clutch systems, and it's not necessary for electric vehicles (EVs) as they do not require manual transmission."
+    },
+    {
+      "component": "Multi-plate Clutch",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Multi-plate clutch is a component directly connected to the manual transmission system, which in ICE vehicles, serves to disengage and engage the transmission. In EVs, single-speed transmissions or direct drive systems are often used, eliminating the need for a multi-plate clutch."
+    },
+    {
+      "component": "Clutch Pedal Assembly",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "The clutch pedal assembly is used to engage and disengage the transmission in manual transmission vehicles with internal combustion engines (ICE), which EVs do not have"
+    },
+    {
+      "component": "Release Bearing",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Release bearings are components in manual transmission systems, which are primarily found in ICE vehicles."
+    }
+  ]
+}

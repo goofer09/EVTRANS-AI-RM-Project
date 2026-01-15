@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870891,
+  "hs_description": "Radiator Parts",
+  "components": [
+    {
+      "name": "Radiator Core",
+      "function": "Heat exchange between coolant and ambient air",
+      "subsystem": "Cooling System"
+    },
+    {
+      "name": "Radiator Tank",
+      "function": "Reservoir for coolant and expansion during heating",
+      "subsystem": "Cooling System"
+    },
+    {
+      "name": "Radiator Fan",
+      "function": "Forced airflow through radiator to aid cooling",
+      "subsystem": "Cooling System"
+    },
+    {
+      "name": "Radiator Cap",
+      "function": "Maintains coolant pressure and prevents overheating",
+      "subsystem": "Cooling System"
+    }
+  ]
+}

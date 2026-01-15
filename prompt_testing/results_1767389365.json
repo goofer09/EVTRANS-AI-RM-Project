@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-01-02T22:29:25.026391",
+  "type": "enricher",
+  "model": "mistral:7b-q4_k_m",
+  "test_cases": 4,
+  "tests": [
+    {
+      "hs_code": "8708.30",
+      "success": true,
+      "valid": true,
+      "components": [
+        {
+          "name": "Component A",
+          "cost_share": 0.25,
+          "function": "Function A",
+          "subsystem": "Chassis"
+        },
+        {
+          "name": "Component B",
+          "cost_share": 0.25,
+          "function": "Function B",
+          "subsystem": "Electronics"
+        },
+        {
+          "name": "Component C",
+          "cost_share": 0.25,
+          "function": "Function C",
+          "subsystem": "Powertrain"
+        },
+        {
+          "name": "Component D",
+          "cost_share": 0.25,
+          "function": "Function D",
+          "subsystem": "Suspension"
+        }
+      ],
+      "component_count": 4,
+      "time": 0.038820635469369646,
+      "tokens": 23,
+      "tokens_per_sec": 408.17719708813615
+    },
+    {
+      "hs_code": "8708.40",
+      "success": true,
+      "valid": true,
+      "components": [
+        {
+          "name": "Component A",
+          "cost_share": 0.25,
+          "function": "Function A",
+          "subsystem": "Chassis"
+        },
+        {
+          "name": "Component B",
+          "cost_share": 0.25,
+          "function": "Function B",
+          "subsystem": "Electronics"
+        },
+        {
+          "name": "Component C",
+          "cost_share": 0.25,
+          "function": "Function C",
+          "subsystem": "Powertrain"
+        },
+        {
+          "name": "Component D",
+          "cost_share": 0.25,
+          "function": "Function D",
+          "subsystem": "Suspension"
+        }
+      ],
+      "component_count": 4,
+      "time": 0.02910992619031743,
+      "tokens": 20,
+      "tokens_per_sec": 248.17951531103745
+    },
+    {
+      "hs_code": "8708.50",
+      "success": true,
+      "valid": true,
+      "components": [
+        {
+          "name": "Component A",
+          "cost_share": 0.25,
+          "function": "Function A",
+          "subsystem": "Chassis"
+        },
+        {
+          "name": "Component B",
+          "cost_share": 0.25,
+          "function": "Function B",
+          "subsystem": "Electronics"
+        },
+        {
+          "name": "Component C",
+          "cost_share": 0.25,
+          "function": "Function C",
+          "subsystem": "Powertrain"
+        },
+        {
+          "name": "Component D",
+          "cost_share": 0.25,
+          "function": "Function D",
+          "subsystem": "Suspension"
+        }
+      ],
+      "component_count": 4,
+      "time": 0.03597208060718828,
+      "tokens": 13,
+      "tokens_per_sec": 224.83990642974845
+    },
+    {
+      "hs_code": "8501.52",
+      "success": true,
+      "valid": true,
+      "components": [
+        {
+          "name": "Component A",
+          "cost_share": 0.25,
+          "function": "Function A",
+          "subsystem": "Chassis"
+        },
+        {
+          "name": "Component B",
+          "cost_share": 0.25,
+          "function": "Function B",
+          "subsystem": "Electronics"
+        },
+        {
+          "name": "Component C",
+          "cost_share": 0.25,
+          "function": "Function C",
+          "subsystem": "Powertrain"
+        },
+        {
+          "name": "Component D",
+          "cost_share": 0.25,
+          "function": "Function D",
+          "subsystem": "Suspension"
+        }
+      ],
+      "component_count": 4,
+      "time": 0.014792281127238231,
+      "tokens": 23,
+      "tokens_per_sec": 317.2336780689849
+    }
+  ],
+  "summary": {
+    "total_tests": 4,
+    "valid_tests": 4,
+    "success_rate": 1.0,
+    "avg_time_sec": 0.029673730848528403
+  }
+}

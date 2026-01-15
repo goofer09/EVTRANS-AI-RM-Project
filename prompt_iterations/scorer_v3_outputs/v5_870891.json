@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870891,
+  "scored_components": [
+    {
+      "component": "Radiator Core",
+      "technical_compatibility": 95,
+      "manufacturing_feasibility": 90,
+      "supply_chain_concentration": 70,
+      "demand_stability": 80,
+      "value_added": 60,
+      "regulatory_exposure": 40,
+      "reasoning": {
+        "technical_compatibility": "Radiator cores are essential for cooling systems in both ICE and EV vehicles. With minor modifications such as size adjustments or fluid changes, radiators can be utilized in an electrified setup.",
+        "manufacturing_feasibility": "The manufacturing process of radiators is well-established and can transition relatively smoothly to meet the demands of EV cooling systems.",
+        "supply_chain_concentration": "While there are several manufacturers producing radiators, the market share distribution is not overly concentrated. However, a larger focus on EV cooling technologies might lead to potential supply chain disruptions or concentration.",
+        "demand_stability": "Demand for radiators remains relatively stable due to their essential role in cooling systems and the need for efficient thermal management in both ICE and EV vehicles.",
+        "value_added": "Radiators are a standard component with limited value-add opportunities, especially in the context of electrification where advancements in battery technology may reduce the overall requirement for cooling systems.",
+        "regulatory_exposure": "The radiator industry may face regulatory challenges as more stringent emission and efficiency standards are implemented, which could affect cooling system designs and components."
+      }
+    },
+    {
+      "component": "Radiator Tank",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 95,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 40,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "The radiator tank is essential for cooling systems in ICE vehicles. With minimal modifications, it can be used in hybrid and electric vehicles as well.",
+        "manufacturing_feasibility": "Existing manufacturing processes for radiator tanks can likely be adapted to produce components suitable for EVs with minor changes, such as adjusting materials or sizes.",
+        "supply_chain_concentration": "There are multiple suppliers for radiator tanks worldwide, but the industry is concentrated among a few key players, which may lead to potential supply chain disruptions during the transition.",
+        "demand_stability": "Although demand may decrease as electric vehicles become more popular, internal combustion engine vehicles will still be produced in significant numbers for some time, ensuring stable demand for radiator tanks.",
+        "value_added": "The value added by a radiator tank is relatively low compared to other components as it primarily serves a functional role. This could limit its potential for innovation and cost reduction during the EV transition.",
+        "regulatory_exposure": "Regulations aimed at promoting EV adoption may lead to increased demand for alternative cooling solutions, potentially phasing out traditional radiator tanks in the long term."
+      }
+    },
+    {
+      "component": "Radiator Fan",
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 30,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Radiator fans are not directly applicable in EVs as they are used for cooling internal combustion engines and radiators. In EVs, the heat is primarily managed through the electric motor and battery management system.",
+        "manufacturing_feasibility": "Manufacturing radiator fans can be adapted for other applications like cooling batteries or electronic components in EVs. However, this would require significant redesign and research.",
+        "supply_chain_concentration": "The supply chain for radiator fans is moderately concentrated with a few key manufacturers, but there are opportunities for diversification and innovation within the electrified automotive industry.",
+        "demand_stability": "Demand for radiator fans in ICE vehicles remains stable, providing some continuity as the market transitions to EVs.",
+        "value_added": "The value added by radiator fans is relatively low compared to other components in a vehicle. The potential for innovation and differentiation may be limited in the transition to EVs.",
+        "regulatory_exposure": "Regulations regarding cooling systems are not specifically focused on ICE versus EV technologies, but there could be future regulations addressing thermal management in electrified vehicles."
+      }
+    },
+    {
+      "component": "Radiator Cap",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 75,
+      "demand_stability": 85,
+      "value_added": 0,
+      "regulatory_exposure": 0,
+      "reasoning": {
+        "technical_compatibility": "Radiator caps are essential cooling components in both ICE and hybrid vehicles. They will continue to be needed for coolant management in these systems.",
+        "manufacturing_feasibility": "Manufacturing of radiator caps is a well-established process with existing infrastructure and technology, making it easily adaptable for both traditional and electrified powertrains.",
+        "supply_chain_concentration": "While there are several manufacturers producing radiator caps globally, the market may experience some concentration as smaller players get absorbed by larger companies focusing on core technologies in EVs.",
+        "demand_stability": "Demand for radiator caps is expected to remain stable due to ongoing demand from ICE and hybrid vehicles, but may see a slight decrease with the increasing adoption of electric vehicles that require different cooling solutions.",
+        "value_added": "Radiator caps do not add significant value in terms of innovation or technology development within the context of the EV transition.",
+        "regulatory_exposure": "There is minimal regulatory exposure for radiator caps as they are not a major emission source nor do they directly impact CO2 emissions."
+      }
+    }
+  ]
+}

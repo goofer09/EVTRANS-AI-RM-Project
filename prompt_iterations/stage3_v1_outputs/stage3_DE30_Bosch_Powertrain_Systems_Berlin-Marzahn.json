@@ -1,0 +1,35 @@
+{
+  "company": "Bosch GmbH",
+  "plant": "Bosch Powertrain Systems Berlin-Marzahn",
+  "city": "Berlin",
+  "nuts2_code": "DE30",
+  "components": [
+    {
+      "category": "Internal Combustion Engine Components",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Transmission Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Motors and Control Units",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Fuel Injection Systems",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Hybrid Systems Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

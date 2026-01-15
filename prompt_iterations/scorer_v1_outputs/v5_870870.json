@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v1",
+  "hs_code": 870870,
+  "scored_components": [
+    {
+      "technical_compatibility": 60,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 70,
+      "demand_stability": 75,
+      "value_added": 90,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Axle assembly is a mechanical component common to both ICE and EV vehicles, making it relatively compatible with EV architectures.",
+        "manufacturing_feasibility": "Existing manufacturing facilities for axle assemblies can be repurposed or modified to accommodate the minor differences between ICE and EV designs.",
+        "supply_chain_concentration": "The supply chain for axle assemblies is moderately diversified, with multiple suppliers available globally.",
+        "demand_stability": "Demand for axle assemblies in the automotive industry is stable and expected to remain so during and after the EV transition due to the ongoing need for mechanical components in vehicles.",
+        "value_added": "Axle assembly requires a significant level of skill, complexity, and economic value contribution as it plays a critical role in vehicle performance and safety.",
+        "regulatory_exposure": "The axle assembly is exposed to ICE-related environmental or regulatory phase-out due to its close association with the internal combustion engine, making it potentially vulnerable to regulations aimed at reducing emissions."
+      },
+      "component": "Axle Assembly"
+    },
+    {
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 20,
+      "supply_chain_concentration": 40,
+      "demand_stability": 30,
+      "value_added": 50,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "An engine mount is a mechanical component that secures an internal combustion engine (ICE) in place. It has no direct counterpart in electric vehicles which do not have a traditional ICE.",
+        "manufacturing_feasibility": "Existing manufacturing facilities would require significant retooling or repurposing to produce components for EVs instead of ICE vehicles.",
+        "supply_chain_concentration": "The supply chain for engine mounts is concentrated due to the high demand and limited number of major suppliers.",
+        "demand_stability": "Demand for engine mounts will decrease significantly as the transition to electric vehicles progresses, resulting in unstable demand.",
+        "value_added": "Engine mounts contribute substantial skill, complexity, and economic value to ICE vehicle manufacturing, but their role diminishes in EV production.",
+        "regulatory_exposure": "As regulations increasingly favor electric vehicles over internal combustion engine vehicles due to environmental concerns, the demand for engine mounts will decrease, exposing this component to significant regulatory challenges."
+      },
+      "component": "Engine Mount"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 60,
+      "demand_stability": 30,
+      "value_added": 70,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Transmission Assembly is not fully compatible with EV architectures as they are mainly designed for ICE vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can be partially repurposed but significant modifications will be required.",
+        "supply_chain_concentration": "The supply chain for Transmission Assembly is diverse, with multiple suppliers for various components.",
+        "demand_stability": "Demand for this component in the EV transition could decrease significantly due to reduced need and development of alternative designs.",
+        "value_added": "Transmission Assembly is a complex system that requires skilled labor and contributes high economic value, especially in ICE vehicles.",
+        "regulatory_exposure": "The Transmission Assembly is highly exposed to ICE-related environmental regulations due to its direct connection with the internal combustion engine."
+      },
+      "component": "Transmission Assembly"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 70,
+      "demand_stability": 85,
+      "value_added": 40,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Differential assemblies are critical in ICE vehicles but not in EVs which have a fixed differential ratio. They can still be used in hybrid vehicles but their need will significantly decrease.",
+        "manufacturing_feasibility": "The manufacturing process for differentials is relatively similar between ICE and EV, making it feasible to repurpose facilities, although some modifications may be required.",
+        "supply_chain_concentration": "There are several suppliers of differential assemblies globally, providing a reasonable level of diversity in the supply chain.",
+        "demand_stability": "During the EV transition, demand for differentials will initially decrease but may remain stable due to hybrid vehicles and continued production of ICE vehicles in developing countries.",
+        "value_added": "The skill and complexity required to manufacture differentials is relatively low compared to other vehicle components, reducing their economic value contribution.",
+        "regulatory_exposure": "Differential assemblies are subject to the same phase-out regulations as ICE vehicles, putting them at significant risk of reduced demand due to regulatory changes."
+      },
+      "component": "Differential Assembly"
+    }
+  ]
+}

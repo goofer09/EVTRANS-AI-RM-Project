@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870899,
+  "scored_components": [
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 40,
+      "demand_stability": 70,
+      "value_added": 60,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Wheel hub assemblies are universal components in both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can produce wheel hub assemblies for both ICE and EVs with minimal modifications.",
+        "supply_chain_concentration": "Although the supply chain may be concentrated, there are multiple suppliers catering to both ICE and EV markets.",
+        "demand_stability": "Demand for wheel hub assemblies is stable during the EV transition due to their universal application in vehicles.",
+        "value_added": "Production of wheel hub assemblies requires a moderate level of skill and complexity, providing a reasonable economic value.",
+        "regulatory_exposure": "Wheel hub assemblies are not directly affected by ICE phase-out regulations as they are a component common to both types of vehicles."
+      },
+      "component": "Wheel Hub Assembly"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 10,
+      "reasoning": {
+        "technical_compatibility": "Brake drums or discs are ICE-specific components with no direct EV application.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for some aspects but will require significant adjustments and investment.",
+        "supply_chain_concentration": "Supplier base is concentrated due to the widespread use of brakes in ICE vehicles.",
+        "demand_stability": "Demand for brake drums or discs may collapse during the EV transition as more vehicles adopt regenerative braking systems.",
+        "value_added": "The production of these components has moderate complexity and economic value, but it's not high-end engineering work.",
+        "regulatory_exposure": "ICE phase-out regulations are likely to reduce the demand for traditional brake drums or discs, exposing this component to risk."
+      },
+      "component": "Brake Drum or Disc"
+    },
+    {
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 40,
+      "demand_stability": 70,
+      "value_added": 50,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Axle assembly is a structural component common to both ICE and EVs, with minor modifications for electric drivetrains.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for the production of axles designed for electric vehicles.",
+        "supply_chain_concentration": "The supply chain for axle assemblies is relatively diverse, but specialized manufacturers may face challenges during the EV transition.",
+        "demand_stability": "Demand for axle assemblies is expected to remain stable due to their importance in vehicle structure and safety regardless of powertrain type.",
+        "value_added": "Axles are manufactured with a moderate level of complexity and skill, but the shift towards EVs may drive increased demand for advanced manufacturing techniques.",
+        "regulatory_exposure": "Axle assemblies are not directly targeted by ICE phase-out regulations, but their production may be affected indirectly through changes in vehicle design and manufacturing."
+      },
+      "component": "Axle Assembly"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 70,
+      "supply_chain_concentration": 60,
+      "demand_stability": 40,
+      "value_added": 50,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "The steering knuckle in ICE vehicles is structurally different from its EV counterpart due to differences in powertrain layout and suspension design.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for producing some components of the EV steering system, but significant adjustments may be required.",
+        "supply_chain_concentration": "There are few specialized suppliers for steering knuckles in both ICE and EV markets, which could limit options during the transition.",
+        "demand_stability": "Demand for steering knuckles is expected to decrease as ICE vehicles phase out and be replaced by more efficient EV components.",
+        "value_added": "Production of a steering knuckle involves moderate skill level and complexity, but its economic value may decrease due to the shift towards EVs.",
+        "regulatory_exposure": "Steering knuckles in ICE vehicles are highly exposed to phase-out regulations as they are considered traditional components that will be phased out with the transition to EVs."
+      },
+      "component": "Steering Knuckle"
+    }
+  ]
+}

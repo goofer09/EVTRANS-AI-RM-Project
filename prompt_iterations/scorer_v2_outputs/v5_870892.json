@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870892,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 80,
+      "demand_stability": 30,
+      "value_added": 50,
+      "regulatory_exposure": 10,
+      "reasoning": {
+        "technical_compatibility": "Mufflers are specific to ICE vehicles and do not have a direct counterpart in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment may be repurposed for some parts of muffler production, but significant modifications would likely be required.",
+        "supply_chain_concentration": "The supply chain for mufflers is highly concentrated due to the limited number of specialized manufacturers.",
+        "demand_stability": "Demand for mufflers is expected to decline as EV adoption increases and ICE phase-out regulations are enforced.",
+        "value_added": "Muffler production involves a moderate level of skill, complexity, and economic value, but it is not at the same level as many high-tech EV components.",
+        "regulatory_exposure": "Mufflers are exposed to significant regulatory risk due to their close association with ICE vehicles, which are at the center of ICE phase-out regulations."
+      },
+      "component": "Muffler"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 30,
+      "supply_chain_concentration": 70,
+      "demand_stability": 20,
+      "value_added": 50,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Catalytic converters are ICE-specific and do not play a role in EVs.",
+        "manufacturing_feasibility": "Though some parts may be usable, major modifications would likely be needed to repurpose existing manufacturing equipment for EV components.",
+        "supply_chain_concentration": "The catalytic converter market has several key players, but this concentration could increase as demand for ICE vehicles declines.",
+        "demand_stability": "Demand for catalytic converters will likely collapse with the phase-out of ICE vehicles.",
+        "value_added": "The manufacturing process for catalytic converters has moderate complexity and economic value, but it is not as high as some EV components.",
+        "regulatory_exposure": "Catalytic converters are strongly affected by the phase-out of ICE vehicles due to their exclusive use in internal combustion engines."
+      },
+      "component": "Catalytic Converter"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 30,
+      "supply_chain_concentration": 65,
+      "demand_stability": 20,
+      "value_added": 70,
+      "regulatory_exposure": 10,
+      "reasoning": {
+        "technical_compatibility": "The exhaust manifold is ICE-specific and has no technical role in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment might be repurposed for EV components, but the exhaust manifold is not among them.",
+        "supply_chain_concentration": "The supply chain for exhaust manifolds tends to have few specialized suppliers.",
+        "demand_stability": "Demand for exhaust manifolds will collapse with the rise of EVs and ICE phase-out.",
+        "value_added": "Exhaust manifold production requires relatively low skill, complexity, and economic value compared to other vehicle components.",
+        "regulatory_exposure": "ICE phase-out regulations will significantly reduce demand for exhaust manifolds."
+      },
+      "component": "Exhaust Manifold"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 30,
+      "supply_chain_concentration": 70,
+      "demand_stability": 20,
+      "value_added": 10,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Tailpipe is specific to ICE vehicles as EVs do not emit exhaust gases.",
+        "manufacturing_feasibility": "Existing manufacturing equipment may be repurposed for some parts, but tailpipes are unique to ICE vehicles and would require new technology.",
+        "supply_chain_concentration": "The supply chain is concentrated as there are few specialized companies producing tailpipes for the automotive industry.",
+        "demand_stability": "Demand for tailpipes will significantly decrease due to the phase-out of ICE vehicles.",
+        "value_added": "Tailpipes have low skill, complexity, and economic value compared to other components in vehicle production.",
+        "regulatory_exposure": "Strict regulations aiming to reduce emissions from ICE vehicles make tailpipe manufacturers highly exposed to phase-out."
+      },
+      "component": "Tailpipe"
+    }
+  ]
+}

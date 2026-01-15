@@ -1,0 +1,31 @@
+{
+  "company": "Mercedes-Benz Vans",
+  "plant": "Mercedes-Benz Vans W\u00f6rth",
+  "city": "W\u00f6rth am Rhein",
+  "nuts2_code": "DE71",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Vehicle Assembly",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "medium"
+    },
+    {
+      "category": "Chassis & Suspension",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v2",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v3_final",
+  "hs_code": 870821,
+  "scored_components": [
+    {
+      "component": "Lap Belt",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 95,
+      "demand_stability": 85,
+      "value_added": 70,
+      "regulatory_exposure": 60,
+      "reasoning": {
+        "technical_compatibility": "Seat belts are a fundamental safety feature in both ICE and EV vehicles, with no significant technical changes required for the transition.",
+        "manufacturing_feasibility": "The manufacturing process for seat belts is well-established and scalable, making it easy to adapt to increased demand from the EV market.",
+        "supply_chain_concentration": "While there are a few dominant players in the global seat belt market, there is still enough competition to ensure continued supply during the transition period.",
+        "demand_stability": "Demand for safety features like seat belts tends to remain consistent across vehicle types and industries, but may fluctuate with regulatory changes or public awareness campaigns.",
+        "value_added": "Seat belts are a critical safety component that adds significant value to the overall vehicle, however their cost contribution to the final vehicle price is relatively low compared to other components.",
+        "regulatory_exposure": "Regulations regarding seat belt use and standards vary by region, which could lead to additional compliance costs or supply chain complexities during the ICE-to-EV transition."
+      }
+    },
+    {
+      "component": "Shoulder Belt",
+      "technical_compatibility": 100,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 90,
+      "demand_stability": 85,
+      "value_added": 95,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Shoulder belts are essential safety components in both ICE and EV vehicles, with no major technical changes required during the transition.",
+        "manufacturing_feasibility": "The manufacturing process for shoulder belts is well-established and does not require significant modifications for the production of EVs.",
+        "supply_chain_concentration": "There are a few dominant players in the global shoulder belt market, which could potentially lead to supply chain concentration issues, but overall, the industry has good supplier diversity.",
+        "demand_stability": "While the demand for shoulder belts might slightly decrease with the increase in autonomous vehicles, the need for safety features will remain a constant requirement.",
+        "value_added": "Shoulder belts are cost-effective components that offer significant value in terms of enhancing vehicle safety.",
+        "regulatory_exposure": "Regulations mandating the use of shoulder belts exist globally, ensuring consistent demand and reducing potential regulatory risks."
+      }
+    },
+    {
+      "component": "Retractor",
+      "technical_compatibility": 85,
+      "manufacturing_feasibility": 90,
+      "supply_chain_concentration": 65,
+      "demand_stability": 70,
+      "value_added": 60,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Retractors are mechanical components that primarily function in ICE vehicles for seatbelts. However, they will still be relevant in EVs due to continued usage of seatbelts.",
+        "manufacturing_feasibility": "As retractors have simple design and manufacturing processes, it is feasible to adapt them for both ICE and EV production.",
+        "supply_chain_concentration": "Although there are a few dominant players in the retractor market, there exists a reasonable level of competition to ensure supply.",
+        "demand_stability": "Demand for seatbelts remains stable across both ICE and EV vehicles, providing a steady demand for retractors.",
+        "value_added": "Retractors have low complexity and cost, with minimal opportunities for value-addition in the context of the automotive supply chain.",
+        "regulatory_exposure": "Regulations regarding seatbelt usage are widespread globally, ensuring continued demand and minimal exposure to regulatory changes."
+      }
+    },
+    {
+      "component": "Pretensioner",
+      "technical_compatibility": 95,
+      "manufacturing_feasibility": 90,
+      "supply_chain_concentration": 70,
+      "demand_stability": 60,
+      "value_added": 85,
+      "regulatory_exposure": 75,
+      "reasoning": {
+        "technical_compatibility": "Pretensioners are crucial safety features in both ICE and EV vehicles. The technology is nearly identical, with minor adaptations required for electric vehicles' unique power sources.",
+        "manufacturing_feasibility": "The manufacturing process of pretensioners is well-established and can be easily adapted to produce components compatible with electric vehicle systems.",
+        "supply_chain_concentration": "There are a few major manufacturers of pretensioners, which could lead to supply chain concentration. However, the high demand across various industries helps maintain competition and prevent over-reliance on any single supplier.",
+        "demand_stability": "Demand for pretensioners remains stable due to their critical role in safety systems. However, as safety regulations evolve and become stricter, the demand for more advanced and reliable pretensioners may increase.",
+        "value_added": "Pretensioners contribute significantly to vehicle safety, making them a valuable component both from a functional and regulatory perspective.",
+        "regulatory_exposure": "Regulations regarding vehicle safety will continue to apply to pretensioners, regardless of the powertrain technology used. Any changes in regulations could impact the demand for pretensioners."
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "company": "ZF Friedrichshafen AG",
+  "plant": "ZF Friedrichshafen AG Plant (Main Factory)",
+  "city": "Friedrichshafen",
+  "nuts2_code": "DE11",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 800,
+    "confidence": "high",
+    "basis": "annual_report"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v1",
+  "hs_code": 870893,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 50,
+      "demand_stability": 40,
+      "value_added": 30,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Single Mass Flywheel is primarily used for engine dampening in ICE vehicles. It has limited direct application in EVs as the powertrain dynamics are different.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can potentially be repurposed for other components, but there may be a need to adjust processes and invest in new tooling for producing parts specific to EVs.",
+        "supply_chain_concentration": "There is moderate concentration of suppliers in the market, but diversification efforts are ongoing as demand for EV components increases.",
+        "demand_stability": "Demand for Single Mass Flywheels is expected to decrease with the shift towards EVs and may experience instability during the transition period.",
+        "value_added": "The skill level required for manufacturing this component is relatively low, and its economic value contribution is limited compared to more complex components such as motors or batteries.",
+        "regulatory_exposure": "Given its association with ICE vehicles, it faces significant exposure to environmental and regulatory phase-out measures aimed at reducing emissions from conventional vehicles."
+      },
+      "component": "Single Mass Flywheel"
+    },
+    {
+      "technical_compatibility": 30,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 70,
+      "demand_stability": 50,
+      "value_added": 40,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Multi-plate clutches are primarily used in internal combustion engine vehicles. Due to the difference in power delivery between ICE and EVs, they have limited compatibility with electric vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can potentially repurpose some processes for components that share similarities with EV drivetrains (e.g., gearboxes), but the specific nature of multi-plate clutches requires modifications that may not be straightforward.",
+        "supply_chain_concentration": "There are several manufacturers of multi-plate clutches, which helps to diversify the supply chain, reducing the risk of over-reliance on a single supplier.",
+        "demand_stability": "The demand for multi-plate clutches in ICE vehicles is likely to decline during the EV transition, leading to some level of instability as new markets are sought or existing facilities adapt.",
+        "value_added": "Manufacturing multi-plate clutches involves intermediate levels of complexity and skill, but they contribute less economic value compared to more critical components such as batteries or electric motors in EVs.",
+        "regulatory_exposure": "Given the environmental impact associated with internal combustion engines, multi-plate clutches face significant regulatory exposure as countries phase out ICE vehicles and transition towards electric alternatives."
+      },
+      "component": "Multi-plate Clutch"
+    },
+    {
+      "technical_compatibility": 10,
+      "manufacturing_feasibility": 20,
+      "supply_chain_concentration": 30,
+      "demand_stability": 40,
+      "value_added": 50,
+      "regulatory_exposure": 60,
+      "reasoning": {
+        "technical_compatibility": "The Clutch Pedal Assembly is essential for vehicles with manual transmissions which are less common in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing facilities could potentially produce other automotive components, but the specific component under consideration may not be relevant or feasible to repurpose in an EV production line.",
+        "supply_chain_concentration": "The supply chain for this component is likely concentrated due to its specialized nature and low volume production compared to more common automotive parts.",
+        "demand_stability": "During the transition from ICE to EVs, demand for manual transmission components such as the Clutch Pedal Assembly may decline, but there will still be a need for them in certain vehicle applications.",
+        "value_added": "The Clutch Pedal Assembly requires skill and precision during manufacturing, contributing to its economic value, although it is not highly complex compared to other automotive components.",
+        "regulatory_exposure": "While there may be some environmental regulations related to the production and disposal of this component, it is less directly linked to ICE emissions compared to other vehicle parts."
+      },
+      "component": "Clutch Pedal Assembly"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 50,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 80,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "The release bearing is not a crucial component in electric vehicles. Its use is primarily associated with internal combustion engines.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can potentially repurpose the production lines to produce alternative automotive components, but retooling may be required.",
+        "supply_chain_concentration": "There are several manufacturers of release bearings. While there is some concentration, it's relatively diversified compared to other ICE-related components.",
+        "demand_stability": "Demand for release bearings might decline as the market transitions towards electric vehicles, but they will still be needed in hybrid vehicles and potentially some ICE vehicles in the near future.",
+        "value_added": "Release bearings are a complex component that requires specialized skills to manufacture. They contribute significant economic value to automotive production.",
+        "regulatory_exposure": "Given their use in internal combustion engines, release bearings are subject to potential regulatory phase-out as stricter emission standards and electric vehicle mandates take effect."
+      },
+      "component": "Release Bearing"
+    }
+  ]
+}

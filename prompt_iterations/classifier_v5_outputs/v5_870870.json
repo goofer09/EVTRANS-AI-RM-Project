@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870870,
+  "classified_components": [
+    {
+      "component": "Axle Assembly",
+      "classification": "SHARED",
+      "confidence": 0.8,
+      "reasoning": "Axle assembly is required for vehicle propulsion in both ICE and EV vehicles as it transmits torque to the wheels."
+    },
+    {
+      "component": "Engine Mount",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The engine mount is a mechanical component that secures the engine to the vehicle chassis, regardless of whether it's an ICE or EV."
+    },
+    {
+      "component": "Transmission Assembly",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The Transmission Assembly is required for vehicle operation regardless of the drivetrain type, as it facilitates power transfer between the engine and the wheels."
+    },
+    {
+      "component": "Differential Assembly",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "A differential assembly is required for managing power distribution between the left and right wheels during vehicle motion, irrespective of drivetrain type."
+    }
+  ]
+}

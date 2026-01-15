@@ -1,0 +1,34 @@
+{
+  "version": "v1_baseline",
+  "date": "2026-01-04",
+  "hs_code": "8708.30",
+  "hs_description": "Brake systems",
+  "model": "mistral:7b",
+  "temperature": 0.2,
+
+  "prompt": "You are an automotive engineering expert.\nFor HS Code 8708.30 (Brake systems), identify the TOP 4 most critical physical components.\n\nReturn ONLY valid JSON (no markdown, no explanations):\n[\n  {\n    \"name\": \"Component 1\",\n    \"function\": \"Primary function\",\n    \"subsystem\": \"Subsystem\"\n  },\n  {\n    \"name\": \"Component 2\",\n    \"function\": \"Primary function\",\n    \"subsystem\": \"Subsystem\"\n  },\n  {\n    \"name\": \"Component 3\",\n    \"function\": \"Primary function\",\n    \"subsystem\": \"Subsystem\"\n  },\n  {\n    \"name\": \"Component 4\",\n    \"function\": \"Primary function\",\n    \"subsystem\": \"Subsystem\"\n  }\n]\n\nRequirements:\n- Exactly 4 components\n- Use precise engineering terms\n- Focus on combustion-engine vehicles",
+
+  "output": [
+    {
+      "name": "Brake Calipers",
+      "function": "Apply hydraulic force to the brake pads, which then clamp onto the rotor to slow or stop the wheel rotation",
+      "subsystem": "Wheel Brakes"
+    },
+    {
+      "name": "Brake Master Cylinder",
+      "function": "Distributes hydraulic pressure from the brake pedal to the individual brake calipers for each wheel",
+      "subsystem": "Hydraulic Brake System"
+    },
+    {
+      "name": "Brake Boosters",
+      "function": "Amplifies the force applied by the driver on the brake pedal, making it easier to apply the brakes effectively",
+      "subsystem": "Hydraulic Brake System"
+    },
+    {
+      "name": "Brake Pedal Assembly",
+      "function": "Transmits the force applied by the driver on the brake pedal to the brake master cylinder",
+      "subsystem": "Pedal Assembly"
+    }
+  ]
+}
+

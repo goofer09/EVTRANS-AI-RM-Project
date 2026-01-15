@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v1",
+  "hs_code": 870600,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 30,
+      "supply_chain_concentration": 50,
+      "demand_stability": 40,
+      "value_added": 70,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Low compatibility with EV architectures as engines are fundamental to ICE vehicles and not directly applicable in electric vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing facilities would need significant modifications to adapt to producing components for electric vehicles, making the transition less feasible.",
+        "supply_chain_concentration": "There is a diverse range of suppliers for engine parts due to their widespread use in ICE vehicles.",
+        "demand_stability": "Demand for engines may decrease during and after the EV transition but is expected to remain somewhat stable as ICE vehicles continue to be produced for legacy reasons and certain applications.",
+        "value_added": "Engines contribute high skill, complexity, and economic value by being a core component of automobiles, particularly ICE vehicles.",
+        "regulatory_exposure": "The engine sector faces significant exposure due to increasing environmental regulations and phase-outs related to carbon emissions from ICE vehicles."
+      },
+      "component": "Engine"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 40,
+      "supply_chain_concentration": 60,
+      "demand_stability": 50,
+      "value_added": 70,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "EVs do not require a transmission in the traditional sense. This component is largely obsolete in electric vehicle architecture.",
+        "manufacturing_feasibility": "While some components may have applications in motor control or power management, the overall manufacturing feasibility is limited due to the diminishing relevance of this part in EVs.",
+        "supply_chain_concentration": "There are several suppliers for transmissions in ICE vehicles. However, during the transition, many will likely pivot towards more relevant electric powertrain components.",
+        "demand_stability": "The demand for traditional transmissions is expected to decrease steadily over time as EV adoption increases.",
+        "value_added": "Transmissions are complex mechanical systems that require a high level of skill and economic value to manufacture. However, their relevance in the EV transition will diminish significantly.",
+        "regulatory_exposure": "Given the focus on reducing emissions from vehicles, components like transmissions contribute to CO2 emissions and may face increased regulatory scrutiny during phase-outs of ICE vehicles."
+      },
+      "component": "Transmission"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 85,
+      "supply_chain_concentration": 60,
+      "demand_stability": 75,
+      "value_added": 90,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Suspension systems are essential for both ICE and EV vehicles, making them highly compatible with the transition.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can be repurposed to produce suspension components suitable for electric vehicle architectures.",
+        "supply_chain_concentration": "There are a limited number of major suppliers in this market, which increases supplier concentration.",
+        "demand_stability": "Demand for suspension systems will remain stable throughout and after the EV transition due to their crucial role in vehicle safety.",
+        "value_added": "Suspension systems require significant skill, complexity, and economic value contribution, contributing to high value-added.",
+        "regulatory_exposure": "Suspension systems are not directly linked to ICE emissions or environmental concerns, making them less exposed to phase-out regulations."
+      },
+      "component": "Suspension System"
+    },
+    {
+      "technical_compatibility": 80,
+      "manufacturing_feasibility": 75,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 85,
+      "regulatory_exposure": 50,
+      "reasoning": {
+        "technical_compatibility": "Steering systems are crucial in both ICE and EV vehicles, making them relatively compatible with the transition.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can be repurposed to some extent, given the similarities between traditional steering components and their electric counterparts.",
+        "supply_chain_concentration": "The steering system supply chain is moderately diverse due to the presence of multiple manufacturers, but there are still some key suppliers that could lead to concentration risks during the transition.",
+        "demand_stability": "Demand for steering systems is expected to remain stable as they will be needed in both ICE and EV vehicles during the transition period. However, long-term demand may shift slightly towards EV-specific components.",
+        "value_added": "Steering systems require significant skill and complexity in their design and manufacturing process, contributing significantly to the overall value of a vehicle.",
+        "regulatory_exposure": "Steering systems are less exposed to ICE-related environmental or regulatory phase-outs as they serve an essential function in both ICE and EV vehicles."
+      },
+      "component": "Steering System"
+    }
+  ]
+}

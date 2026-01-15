@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870600,
+  "classified_components": [
+    {
+      "component": "Engine",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "The engine is a fundamental component for ICE vehicles that burns fuel to produce mechanical energy."
+    },
+    {
+      "component": "Transmission",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Transmission in ICE vehicles is fundamentally tied to the mechanics of internal combustion engines for transmitting torque and power from the engine to the wheels."
+    },
+    {
+      "component": "Suspension System",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Suspension system is necessary for vehicle operation regardless of drivetrain (ICE or EV), as it ensures a comfortable ride and stable handling."
+    },
+    {
+      "component": "Steering System",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Steering systems are necessary for vehicle control and do not fundamentally rely on either internal combustion engines (ICE) or electric drivetrains."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Continental AG",
+  "nuts2_code": "DE71",
+  "nuts2_name": "Darmstadt",
+  "plants": [
+    {
+      "plant_name": "ContiTech Technology Center Main",
+      "city": "Darmstadt",
+      "primary_function": "Rubber & Plastics Technologies, Tire Technology, Coatings, Automotive Electronics"
+    },
+    {
+      "plant_name": "Continental Dieffenbacher GmbH",
+      "city": "Dieffenbach",
+      "primary_function": "Engine Components Manufacturing"
+    },
+    {
+      "plant_name": "Continental Chassis & Safety GmbH",
+      "city": "Biebesheim am Main",
+      "primary_function": "Electronic Brake Systems, Airbag Systems, Chassis Control Components"
+    },
+    {
+      "plant_name": "Continental Powertrain Technologies GmbH",
+      "city": "W\u00f6rth am Rhein",
+      "primary_function": "Powertrain Components Manufacturing"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

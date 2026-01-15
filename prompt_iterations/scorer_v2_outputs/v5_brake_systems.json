@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": "8708.30",
+  "scored_components": [
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 50,
+      "demand_stability": 60,
+      "value_added": 70,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Brake calipers are essential components in both ICE and EV vehicles, ensuring high technical compatibility during the transition.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for producing brake calipers for EVs with minor modifications.",
+        "supply_chain_concentration": "The supplier base for brake calipers is relatively concentrated due to a few large manufacturers, but the high demand across both ICE and EV markets should help maintain competition.",
+        "demand_stability": "Demand stability is expected to remain stable during the transition as the importance of reliable braking systems remains consistent in both ICE and EV vehicles.",
+        "value_added": "The production of brake calipers involves a high degree of skill, complexity, and economic value due to the safety-critical nature of these components.",
+        "regulatory_exposure": "Brake calipers are not directly impacted by ICE phase-out regulations, as they are essential for vehicle safety regardless of powertrain."
+      },
+      "component": "Brake Calipers"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 35,
+      "supply_chain_concentration": 75,
+      "demand_stability": 40,
+      "value_added": 60,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Master cylinder is an ICE-specific component and does not have a direct counterpart in EVs.",
+        "manufacturing_feasibility": "While the manufacturing process for master cylinders can potentially be adapted, it may require significant investment to convert equipment.",
+        "supply_chain_concentration": "The supply chain for master cylinders is highly concentrated due to a few major manufacturers.",
+        "demand_stability": "As the demand for ICE vehicles decreases during the EV transition, demand for master cylinders will also decline.",
+        "value_added": "Production of master cylinders involves a higher level of skill and complexity, contributing to its economic value.",
+        "regulatory_exposure": "Master cylinders are directly affected by ICE phase-out regulations as they are exclusive to internal combustion engines."
+      },
+      "component": "Master Cylinder"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 50,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 60,
+      "regulatory_exposure": 10,
+      "reasoning": {
+        "technical_compatibility": "Brake booster is ICE-specific and not directly compatible with EV architectures",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for some aspects of brake booster production but significant changes would be required",
+        "supply_chain_concentration": "Supplier base is relatively concentrated due to the specialized nature of brake booster manufacturing",
+        "demand_stability": "Demand for brake boosters in EVs is expected to decline significantly during the transition to electric vehicles",
+        "value_added": "Production of brake boosters involves high skill and complexity, resulting in a relatively high value-added product",
+        "regulatory_exposure": "ICE phase-out regulations may have little impact on the need for brake booster production in ICE vehicles"
+      },
+      "component": "Brake Booster"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 50,
+      "demand_stability": 40,
+      "value_added": 60,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Brake discs and drums are fundamental safety components common in both ICE and EV vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing equipment for brake discs and drums can be repurposed with minimal modifications for production of these components in EVs.",
+        "supply_chain_concentration": "While there are established suppliers, the supply chain for brake discs and drums is not overly concentrated due to safety regulations requiring multiple suppliers per market.",
+        "demand_stability": "During the EV transition, demand for brakes may initially see a drop as ICE vehicles decline, but as electric powertrains become more common, demand for brake components will remain stable or even grow.",
+        "value_added": "Production of brake discs and drums involves significant skill and complexity, resulting in high value-added products during manufacturing.",
+        "regulatory_exposure": "The ICE phase-out regulations primarily target powertrains, not safety components such as brakes, minimizing direct regulatory exposure."
+      },
+      "component": "Brake Disc or Drum"
+    }
+  ]
+}

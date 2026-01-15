@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870810,
+  "hs_description": "Vehicle Bumpers",
+  "components": [
+    {
+      "name": "Front Bumper Assembly",
+      "function": "Impact protection for the front of the vehicle",
+      "subsystem": "Exterior body"
+    },
+    {
+      "name": "Rear Bumper Assembly",
+      "function": "Impact protection for the rear of the vehicle",
+      "subsystem": "Exterior body"
+    },
+    {
+      "name": "Bumper Support Bracket",
+      "function": "Secures and supports bumper assembly to vehicle frame",
+      "subsystem": "Suspension and steering system"
+    },
+    {
+      "name": "Bumper Beam",
+      "function": "Provides structural support and mounting point for bumper components",
+      "subsystem": "Exterior body"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870893,
+  "hs_description": "Vehicle Clutches",
+  "components": [
+    {
+      "name": "Single Mass Flywheel",
+      "function": "Provides inertia to engage the clutch when pressed",
+      "subsystem": "Transmission"
+    },
+    {
+      "name": "Multi-plate Clutch",
+      "function": "Transmits torque from engine to transmission during engagement and disengagement",
+      "subsystem": "Transmission"
+    },
+    {
+      "name": "Clutch Pedal Assembly",
+      "function": "Controls the engagement and disengagement of the clutch",
+      "subsystem": "Drive Train"
+    },
+    {
+      "name": "Release Bearing",
+      "function": "Allows smooth movement of the clutch pedal while releasing the clutch",
+      "subsystem": "Transmission"
+    }
+  ]
+}

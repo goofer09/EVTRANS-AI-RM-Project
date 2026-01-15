@@ -1,0 +1,19 @@
+{
+  "company": "Audi AG",
+  "nuts2_code": "DE30",
+  "nuts2_name": "Berlin",
+  "plants": [
+    {
+      "plant_name": "Audi Berlin-Brandenburg",
+      "city": "Neumarkt",
+      "primary_function": "Assembly, powertrain, battery, and vehicle production"
+    },
+    {
+      "plant_name": "Audi Elvington",
+      "city": "Elvington",
+      "primary_function": "Component manufacturing (gearboxes)"
+    }
+  ],
+  "version": "stage2_v1",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v2",
+  "hs_code": 870880,
+  "classified_components": [
+    {
+      "component": "Piston Rod",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    },
+    {
+      "component": "Shock Piston",
+      "classification": "SHARED",
+      "confidence": 0.8
+    },
+    {
+      "component": "Damper Tube",
+      "classification": "SHARED",
+      "confidence": 0.5
+    },
+    {
+      "component": "Mounting Bracket",
+      "classification": "SHARED",
+      "confidence": 0.75
+    }
+  ]
+}

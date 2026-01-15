@@ -1,0 +1,14 @@
+{
+  "company": "ZF Friedrichshafen AG",
+  "plant": "ZF Leonard Technology GmbH",
+  "city": "Kornwestheim",
+  "nuts2_code": "DE11",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 750,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-11"
+}

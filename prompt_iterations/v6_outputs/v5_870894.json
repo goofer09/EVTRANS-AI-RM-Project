@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870894,
+  "hs_description": "Steering Components",
+  "components": [
+    {
+      "name": "Rack and Pinion Steering Gear",
+      "function": "Converts steering wheel rotation into corresponding movement of the front wheels",
+      "subsystem": "Steering System"
+    },
+    {
+      "name": "Steering Column",
+      "function": "Transmits steering torque from steering wheel to steering gear or power steering box",
+      "subsystem": "Steering System"
+    },
+    {
+      "name": "Tie Rods",
+      "function": "Connect the outer ends of the steering linkage to the steering knuckles",
+      "subsystem": "Steering System"
+    },
+    {
+      "name": "Center Link",
+      "function": "Connects the inner ends of the tie rods and provides a connection point for the steering idler arm",
+      "subsystem": "Steering System"
+    }
+  ]
+}

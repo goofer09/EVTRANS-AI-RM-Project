@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870860,
+  "classified_components": [
+    {
+      "component": "Constant Velocity Joint (CV Joint)",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Constant Velocity Joints are essential for transmitting power from the drive shaft to the wheels in ICE vehicles, as they allow the angles between the shaft and wheel to vary while maintaining a consistent rotational speed. In EVs, the direct-drive system eliminates the need for a traditional drivetrain with CV joints."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a fundamental mechanical component for transmitting power between the driving axle and the wheels, which remains necessary regardless of ICE or EV drivetrain."
+    },
+    {
+      "component": "Axle Halfshaft",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Axle Halfshaft is a mechanical component connected to the differential and driveshaft in ICE vehicles for power transmission. It's not necessary in EVs as they do not have a conventional drivetrain with a differential."
+    },
+    {
+      "component": "Universal Joint (U-joint)",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "Universal Joints are primarily used in conventional vehicles for transmitting power from the driveshaft to the differential or live axle. With electric drivetrains eliminating the need for a traditional drivetrain, their utility is reduced."
+    }
+  ]
+}

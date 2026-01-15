@@ -1,0 +1,45 @@
+{
+  "company": "Daimler AG",
+  "plant": "Mercedes-Benz Untert\u00fcrkheim",
+  "city": "Stuttgart",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Chassis and Suspension Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electrical Systems and Electronics",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body and Trim Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Systems and Accessories",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Battery Systems (for EVs)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Motors and Inverters (for EVs)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

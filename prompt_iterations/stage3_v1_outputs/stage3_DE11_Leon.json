@@ -1,0 +1,35 @@
+{
+  "company": "Porsche AG",
+  "plant": "Leon",
+  "city": "Leon, Spain (Part of Audi Group but Porsche produces the Cayman and Boxster there)",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Chassis & Suspension Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Systems",
+      "ice_ev_type": "ICE | EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electrical & Electronic Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Interior Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Exterior Panels",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

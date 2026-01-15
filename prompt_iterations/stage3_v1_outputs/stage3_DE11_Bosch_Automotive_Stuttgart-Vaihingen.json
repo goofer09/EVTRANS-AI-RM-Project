@@ -1,0 +1,25 @@
+{
+  "company": "Bosch Automotive Steering Germany GmbH",
+  "plant": "Bosch Automotive Stuttgart-Vaihingen",
+  "city": "Stuttgart",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Steering Systems (ICE | EV)",
+      "ice_ev_type": "ICE | EV",
+      "confidence": "high"
+    },
+    {
+      "category": "Electronic Steering Components (Shared)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Automotive Sensors (Shared)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

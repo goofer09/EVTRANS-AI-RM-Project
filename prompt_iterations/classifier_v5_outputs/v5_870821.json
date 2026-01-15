@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870821,
+  "classified_components": [
+    {
+      "component": "Lap Belt",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Lap belt is a safety feature not directly tied to internal combustion or electric drivetrain architecture."
+    },
+    {
+      "component": "Shoulder Belt",
+      "classification": "SHARED",
+      "confidence": 1.0,
+      "reasoning": "Shoulder belt is a safety feature that is universally required for both ICE and EV vehicles."
+    },
+    {
+      "component": "Retractor",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The retractor is a component used for seatbelts and is not fundamentally tied to internal combustion engines or electric drivetrain architecture."
+    },
+    {
+      "component": "Pretensioner",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Pretensioners function to secure seat belts in the event of a collision, independent of drivetrain type."
+    }
+  ]
+}

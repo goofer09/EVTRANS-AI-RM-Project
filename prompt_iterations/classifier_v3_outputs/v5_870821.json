@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v3",
+  "hs_code": 870821,
+  "classified_components": [
+    {
+      "component": "Lap Belt",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The lap belt is a safety feature common to both ICE and EV vehicles, used for occupant restraint during collisions."
+    },
+    {
+      "component": "Shoulder Belt",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Shoulder belts are fundamental safety features applicable to both ICE and EV vehicles."
+    },
+    {
+      "component": "Retractor",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Retractor is a safety feature (seatbelts) common in both ICE and EV vehicles."
+    },
+    {
+      "component": "Pretensioner",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Pretensioners are safety components for seat belts and are used in both Internal Combustion Engine (ICE) and Electric Vehicles (EVs), as they serve to secure the occupant during a collision."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v2",
+  "hs_code": 870880,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 30,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 40,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Piston rod is ICE-specific and has no direct counterpart in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can potentially be repurposed for some parts of piston production, but the entire process may require significant changes.",
+        "supply_chain_concentration": "There are a few specialized suppliers of pistons, making the supply chain relatively concentrated.",
+        "demand_stability": "Demand for pistons is expected to decrease significantly during the EV transition.",
+        "value_added": "Production of pistons requires skilled labor and engineering knowledge but is still considered a commoditized part of an ICE vehicle.",
+        "regulatory_exposure": "Piston rods are heavily affected by ICE phase-out regulations, as they are a key component in internal combustion engines."
+      },
+      "component": "Piston Rod"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 70,
+      "demand_stability": 30,
+      "value_added": 40,
+      "regulatory_exposure": 50,
+      "reasoning": {
+        "technical_compatibility": "Shock piston is ICE-specific and not directly applicable to EVs due to different powertrain requirements.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can likely be repurposed for some minor modifications.",
+        "supply_chain_concentration": "Supplier base is relatively concentrated in the ICE market, with fewer options for EV components.",
+        "demand_stability": "Demand will decrease as ICE vehicles phase out and are replaced by EVs.",
+        "value_added": "Production of shock pistons has low skill, complexity, and economic value compared to high-tech EV components.",
+        "regulatory_exposure": "Shock piston production is not heavily impacted by ICE phase-out regulations."
+      },
+      "component": "Shock Piston"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 70,
+      "supply_chain_concentration": 80,
+      "demand_stability": 40,
+      "value_added": 60,
+      "regulatory_exposure": 20,
+      "reasoning": {
+        "technical_compatibility": "Damper tube is an ICE-specific component with no direct application in EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can potentially be repurposed for production of alternative components like hydraulic lines or other non-ICE parts.",
+        "supply_chain_concentration": "The supply chain is highly concentrated due to the limited need in ICE vehicles, with few specialized suppliers.",
+        "demand_stability": "Demand for damper tubes will decrease significantly during the EV transition as they become obsolete in new vehicle designs.",
+        "value_added": "While production of damper tubes may require some skills and complexity, their value-added is relatively low compared to other components due to being a commodity part.",
+        "regulatory_exposure": "Damper tubes are at risk during the ICE phase-out as they have no role in EVs and could become obsolete with stricter emission regulations"
+      },
+      "component": "Damper Tube"
+    },
+    {
+      "technical_compatibility": 90,
+      "manufacturing_feasibility": 80,
+      "supply_chain_concentration": 60,
+      "demand_stability": 70,
+      "value_added": 40,
+      "regulatory_exposure": 30,
+      "reasoning": {
+        "technical_compatibility": "Mounting brackets are universal components used across various vehicle architectures, making them easily adaptable to EVs.",
+        "manufacturing_feasibility": "Existing manufacturing equipment can be repurposed for producing mounting brackets for both ICE and EV components.",
+        "supply_chain_concentration": "There are numerous suppliers of mounting brackets, reducing concentration in the supply chain.",
+        "demand_stability": "Demand for mounting brackets will remain stable during the EV transition as they are crucial components needed in both ICE and EV vehicles.",
+        "value_added": "Mounting brackets are relatively simple and low-cost components, contributing less to a vehicle's economic value.",
+        "regulatory_exposure": "As mounting brackets are common components, they face lower risk from ICE phase-out regulations as their demand remains consistent in the EV market."
+      },
+      "component": "Mounting Bracket"
+    }
+  ]
+}

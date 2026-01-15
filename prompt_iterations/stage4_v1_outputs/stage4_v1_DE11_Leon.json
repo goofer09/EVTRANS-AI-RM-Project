@@ -1,0 +1,14 @@
+{
+  "company": "Porsche AG",
+  "plant": "Leon",
+  "city": "Leon, Spain (Part of Audi Group but Porsche produces the Cayman and Boxster there)",
+  "nuts2_code": "DE11",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": null,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-12"
+}

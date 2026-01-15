@@ -1,0 +1,33 @@
+{
+  "nuts2_code": "DE71",
+  "nuts2_name": "Darmstadt",
+  "companies": [
+    {
+      "name": "Opel Automobile GmbH",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Mercedes-Benz Vans",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Schaeffler Technologies AG & Co. KG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "Continental AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "Bosch Automotive Steering GmbH",
+      "type": "Tier-1",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1",
+  "date": "2026-01-11"
+}

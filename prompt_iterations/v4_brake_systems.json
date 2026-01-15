@@ -1,0 +1,32 @@
+{
+  "version": "v4_iteration",
+  "date": "2026-01-04",
+  "hs_code": "8708.30",
+  "hs_description": "Brake systems",
+  "model": "mistral:7b",
+  "temperature": 0.2,
+  "prompt": "You are an automotive engineering expert.\nFor HS Code 8708.30 (Brake systems), identify the TOP 4 most critical **physical sub-components** of the braking system. Do NOT include driver interface components such as the pedal assembly, sensors, or any non-essential parts. Focus only on parts directly responsible for stopping the vehicle.\n\nExamples of critical sub-components: brake pads, brake calipers, brake master cylinder, brake booster, brake discs or drums.\n\nReturn ONLY valid JSON (no markdown, no explanations), with **subsystems clearly labeled**:\n[\n  {\"name\": \"Component 1\", \"function\": \"Primary function\", \"subsystem\": \"Subsystem\"},\n  {\"name\": \"Component 2\", \"function\": \"Primary function\", \"subsystem\": \"Subsystem\"},\n  {\"name\": \"Component 3\", \"function\": \"Primary function\", \"subsystem\": \"Subsystem\"},\n  {\"name\": \"Component 4\", \"function\": \"Primary function\", \"subsystem\": \"Subsystem\"}\n]\n\nRequirements:\n- Exactly 4 components\n- Use precise engineering terms\n- Focus on **combustion-engine vehicles**\n- Avoid any parts that are not essential for brake operation",
+  "output": [
+    {
+      "name": "Brake Calipers",
+      "function": "Convert brake pedal force into mechanical force on the brake rotor, reducing vehicle speed.",
+      "subsystem": "Wheel Brake System"
+    },
+    {
+      "name": "Master Cylinder",
+      "function": "Converts pedal force into hydraulic pressure and distributes it to all wheel brakes.",
+      "subsystem": "Hydraulic Brake System"
+    },
+    {
+      "name": "Brake Booster",
+      "function": "Amplifies the force applied to the master cylinder by the brake pedal, reducing effort required for braking.",
+      "subsystem": "Hydraulic Brake System"
+    },
+    {
+      "name": "Brake Rotors",
+      "function": "Convert kinetic energy into heat through friction with brake pads when the brakes are applied, slowing the vehicle.",
+      "subsystem": "Wheel Brake System"
+    }
+  ]
+}
+

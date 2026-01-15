@@ -1,0 +1,14 @@
+{
+  "company": "Tesla, Inc.",
+  "plant": "Gigafactory Berlin Brandenburg",
+  "city": "Gr\u00fcnheide",
+  "nuts2_code": "DE30",
+  "employment": {
+    "size_class": "Very Large",
+    "estimate": 10000,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-12"
+}

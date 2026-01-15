@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v1",
+  "hs_code": 870891,
+  "scored_components": [
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 60,
+      "supply_chain_concentration": 70,
+      "demand_stability": 50,
+      "value_added": 80,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Radiators in EVs are not essential as they are primarily used to cool the engine in ICE vehicles. However, some electric powertrains might require cooling systems for specific components like batteries or motors.",
+        "manufacturing_feasibility": "Existing manufacturing processes can be adapted to produce radiators suitable for electric vehicles, given the similarities in size and materials used. The main challenge lies in adjusting the design to accommodate different cooling requirements.",
+        "supply_chain_concentration": "The supply chain is moderately diversified as there are multiple manufacturers for radiator cores. However, a decrease in demand for ICE vehicles could impact smaller suppliers more significantly.",
+        "demand_stability": "Demand stability is expected to be moderate during the EV transition due to the gradual phase-out of ICE vehicles and increasing adoption of electric vehicles. This change will not occur overnight and will provide time for suppliers to adjust.",
+        "value_added": "Radiator cores require skilled labor and a certain level of complexity in their manufacturing process, contributing economic value through employment and production costs.",
+        "regulatory_exposure": "Radiator cores are exposed to ICE-related regulatory phase-out due to the focus on reducing emissions from vehicles. As governments continue to implement stricter emission standards, the demand for radiators in ICE vehicles may decrease."
+      },
+      "component": "Radiator Core"
+    },
+    {
+      "technical_compatibility": 20,
+      "manufacturing_feasibility": 70,
+      "supply_chain_concentration": 60,
+      "demand_stability": 50,
+      "value_added": 40,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Radiator tanks are not required in EVs due to their cooling system design.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can be repurposed for components that are needed in hybrid vehicles or other industrial applications.",
+        "supply_chain_concentration": "The radiator tank market is dominated by a few key players, but there may be some diversification in the cooling system industry as a whole.",
+        "demand_stability": "Demand for radiator tanks may decrease with the shift towards electric vehicles and increased adoption of hybrid technology.",
+        "value_added": "Radiator tanks are relatively simple components compared to other vehicle parts, with lower skill requirements and economic value contribution.",
+        "regulatory_exposure": "Radiator tanks contribute to ICE emissions and are thus exposed to potential environmental or regulatory phase-outs related to internal combustion engines."
+      },
+      "component": "Radiator Tank"
+    },
+    {
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 20,
+      "supply_chain_concentration": 60,
+      "demand_stability": 30,
+      "value_added": 40,
+      "regulatory_exposure": 95,
+      "reasoning": {
+        "technical_compatibility": "Radiator fans are not required in EVs as they do not have cooling systems similar to ICE vehicles.",
+        "manufacturing_feasibility": "Existing manufacturing facilities may need significant modifications or conversions to produce components for electric vehicles, especially since radiator fan production is unlikely to be a primary focus during the transition.",
+        "supply_chain_concentration": "The radiator fan market has a fair number of suppliers, providing some level of diversification.",
+        "demand_stability": "Demand for radiator fans will decrease significantly as EVs become more popular, leading to less demand stability during and after the transition.",
+        "value_added": "Radiator fans contribute skill, complexity, and economic value but are not a critical component in either ICE or EV vehicles. Their production also requires less specialized knowledge compared to other vehicle components.",
+        "regulatory_exposure": "Radiator fan manufacturers will be highly exposed to ICE-related environmental regulations as the demand for their product decreases and they may need to adapt to new EV-specific cooling systems or exit the market."
+      },
+      "component": "Radiator Fan"
+    },
+    {
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 100,
+      "supply_chain_concentration": 90,
+      "demand_stability": 20,
+      "value_added": 30,
+      "regulatory_exposure": 80,
+      "reasoning": {
+        "technical_compatibility": "Radiators are not needed in electric vehicles as they cool the engine and an EV's power electronics do not produce enough heat to require cooling.",
+        "manufacturing_feasibility": "Existing manufacturing facilities can repurpose production lines for other components required in electric vehicles, such as heat exchangers for cooling batteries or power electronics.",
+        "supply_chain_concentration": "There are multiple suppliers of radiators, reducing the risk of supplier dependence.",
+        "demand_stability": "Demand for radiators will significantly decrease during the EV transition due to their lack of use in electric vehicles.",
+        "value_added": "The production process of radiators is relatively straightforward and does not require a high level of skill or complexity.",
+        "regulatory_exposure": "Radiators are associated with internal combustion engines, which face increased regulatory pressure to be phased out due to their contribution to greenhouse gas emissions."
+      },
+      "component": "Radiator Cap"
+    }
+  ]
+}

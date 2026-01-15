@@ -1,0 +1,30 @@
+{
+  "company": "Schaeffler Technologies AG & Co. KG",
+  "plant": "Herrenberg Plant",
+  "city": "Herrenberg",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Bearings (Rolling Element Bearings, Plain Bearings)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Chassis Components (Suspension Systems, Steering Systems)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Transmission Components (Gearboxes, Clutches)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "E-Mobility Components (Electric Motors, Inverters)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

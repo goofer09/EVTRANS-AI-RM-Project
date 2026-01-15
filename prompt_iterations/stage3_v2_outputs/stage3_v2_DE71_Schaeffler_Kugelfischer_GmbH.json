@@ -1,0 +1,26 @@
+{
+  "company": "Schaeffler Technologies AG & Co. KG",
+  "plant": "Schaeffler Kugelfischer GmbH",
+  "city": "Darmstadt",
+  "nuts2_code": "DE71",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Chassis & Suspension",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2",
+  "date": "2026-01-11"
+}

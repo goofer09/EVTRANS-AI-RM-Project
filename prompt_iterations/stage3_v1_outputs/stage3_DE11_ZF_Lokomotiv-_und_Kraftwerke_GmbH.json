@@ -1,0 +1,50 @@
+{
+  "company": "ZF Friedrichshafen AG",
+  "plant": "ZF Lokomotiv- und Kraftwerke GmbH",
+  "city": "Kornwestheim",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Electrical Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Transmission Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Suspension and Steering Components",
+      "ice_ev_type": "ICE | Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Braking Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electronic Control Units (ECUs)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Safety Systems Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Railway Technology",
+      "ice_ev_type": "EV",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

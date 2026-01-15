@@ -1,0 +1,35 @@
+{
+  "company": "Daimler AG",
+  "plant": "Mercedes-Benz Rastatt",
+  "city": "Rastatt",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Chassis and Suspension Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE | Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electrical and Electronic Systems",
+      "ice_ev_type": "Shared | EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Body and Interior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Battery Production (for EVs)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

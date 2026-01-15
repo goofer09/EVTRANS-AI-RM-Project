@@ -1,0 +1,45 @@
+{
+  "company": "Daimler AG",
+  "plant": "Daimler Buses Gaggenau",
+  "city": "Gaggenau",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Bus Chassis",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Bus Body Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Bus Electrical Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Bus Transmission Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Bus Engines (Diesel)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Bus Electric Motors (EV)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Bus Battery Systems (EV)",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

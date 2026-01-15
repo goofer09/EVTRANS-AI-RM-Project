@@ -1,0 +1,26 @@
+{
+  "company": "Daimler AG",
+  "plant": "Mercedes-Benz Kamenz",
+  "city": "Kamenz",
+  "nuts2_code": "DE11",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Vehicle Assembly",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Chassis & Suspension",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v2",
+  "date": "2026-01-11"
+}

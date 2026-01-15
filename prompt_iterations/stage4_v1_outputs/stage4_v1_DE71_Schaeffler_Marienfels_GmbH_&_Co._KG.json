@@ -1,0 +1,14 @@
+{
+  "company": "Schaeffler Technologies AG & Co. KG",
+  "plant": "Schaeffler Marienfels GmbH & Co. KG",
+  "city": "Marienfels",
+  "nuts2_code": "DE71",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": null,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,10 @@
+{
+  "company": "Continental AG",
+  "plant": "ContiTech Technology Center Main",
+  "city": "Darmstadt",
+  "nuts2_code": "DE71",
+  "is_production_site": false,
+  "reason": "This facility is an R&D center focused on innovation and technology development rather than manufacturing.",
+  "version": "stage3_v2",
+  "date": "2026-01-11"
+}

@@ -1,0 +1,40 @@
+{
+  "company": "Opel Automobile GmbH",
+  "plant": "Opel Kaiserslautern Plant",
+  "city": "Kaiserslautern",
+  "nuts2_code": "DE71",
+  "components": [
+    {
+      "category": "Body and Chassis Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components (Internal Combustion Engines)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Motor and Power Electronics",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Battery Systems",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Safety Systems and Airbags",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

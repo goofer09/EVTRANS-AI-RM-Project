@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v4",
+  "hs_code": 870821,
+  "classified_components": [
+    {
+      "component": "Lap Belt",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Lap belts are essential safety components for vehicle occupant protection and remain necessary regardless of the drivetrain (ICE or EV)."
+    },
+    {
+      "component": "Shoulder Belt",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Shoulder belts are a standard safety feature required for both ICE and EV vehicles."
+    },
+    {
+      "component": "Retractor",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95,
+      "reasoning": "The retractor is a component typically associated with seatbelts in ICE vehicles, which are not part of the electric vehicle's design as they do not have an internal combustion engine."
+    },
+    {
+      "component": "Pretensioner",
+      "classification": "ICE_ONLY",
+      "confidence": 0.9,
+      "reasoning": "Pretensioners are primarily used to tighten seat belts during an impact in a collision. They operate mechanically and are not directly related to electric drivetrains."
+    }
+  ]
+}

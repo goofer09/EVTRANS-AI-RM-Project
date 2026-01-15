@@ -1,0 +1,35 @@
+{
+  "company": "Schaeffler Technologies AG & Co. KG",
+  "plant": "Schaeffler Marienfels GmbH & Co. KG",
+  "city": "Marienfels",
+  "nuts2_code": "DE71",
+  "components": [
+    {
+      "category": "Bearings (Shaft, Roller, Ball)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Motor Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Clutch Systems",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Chassis Components (Suspension, Steering)",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Transmission Systems (Automatic, Manual)",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

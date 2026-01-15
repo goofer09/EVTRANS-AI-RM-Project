@@ -1,0 +1,26 @@
+{
+  "version": "classifier_v1",
+  "hs_code": 870891,
+  "classified_components": [
+    {
+      "component": "Radiator Core",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95
+    },
+    {
+      "component": "Radiator Tank",
+      "classification": "ICE_ONLY",
+      "confidence": 0.95
+    },
+    {
+      "component": "Radiator Fan",
+      "classification": "ICE_ONLY",
+      "confidence": 0.0
+    },
+    {
+      "component": "Radiator Cap",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0
+    }
+  ]
+}

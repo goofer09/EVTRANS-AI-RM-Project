@@ -1,0 +1,45 @@
+{
+  "company": "ZF Friedrichshafen AG",
+  "plant": "ZF Friedrichshafen AG Plant (Main Factory)",
+  "city": "Friedrichshafen",
+  "nuts2_code": "DE11",
+  "components": [
+    {
+      "category": "Transmission Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Drivetrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Chassis and Suspension Components",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Steering Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Braking Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Active and Passive Safety Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electronic Systems (e.g., sensors, software)",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v1",
+  "date": "2026-01-11"
+}

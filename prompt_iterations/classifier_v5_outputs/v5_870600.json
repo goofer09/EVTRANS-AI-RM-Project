@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870600,
+  "classified_components": [
+    {
+      "component": "Engine",
+      "classification": "ICE_ONLY",
+      "confidence": 1.0,
+      "reasoning": "The Engine is fundamentally required for the operation of Internal Combustion Engine (ICE) vehicles due to its role in fuel delivery, combustion, and engine-specific mechanics."
+    },
+    {
+      "component": "Transmission",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "Although some aspects of the transmission are adapted in electric vehicles (such as the elimination of clutch and multi-speed gearbox for single-speed transmissions), the basic function of transferring power from the engine to the wheels remains unchanged."
+    },
+    {
+      "component": "Suspension System",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "Suspension system is a mechanical component that provides vehicle stability and ride comfort during motion, regardless of whether the powertrain is internal combustion engine (ICE) or electric vehicle (EV)."
+    },
+    {
+      "component": "Steering System",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The steering system is a mechanical interface between the driver and vehicle, independent of the powertrain type."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": "v6_iteration",
+  "date": "2026-01-05",
+  "hs_code": 870850,
+  "hs_description": "Drive Axle Parts",
+  "components": [
+    {
+      "name": "Constant Velocity Joint (CVJ)",
+      "function": "Connects the drive shaft to the wheel axle while allowing for angular misalignment",
+      "subsystem": "Drive Train"
+    },
+    {
+      "name": "Differential",
+      "function": "Allows the two wheels on an axle to rotate at different speeds during turns",
+      "subsystem": "Drive Train"
+    },
+    {
+      "name": "Axle Half Shaft",
+      "function": "Transmits torque from the differential to the wheel",
+      "subsystem": "Drive Train"
+    },
+    {
+      "name": "U-Joint (Universal Joint)",
+      "function": "Allows the axle half shaft to move up and down while maintaining a constant angle with the drive shaft",
+      "subsystem": "Drive Train"
+    }
+  ]
+}

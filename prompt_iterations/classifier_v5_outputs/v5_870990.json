@@ -1,0 +1,30 @@
+{
+  "version": "classifier_v5",
+  "hs_code": 870990,
+  "classified_components": [
+    {
+      "component": "Axle Assembly",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "An axle assembly is a mechanical structure that connects the wheels to the vehicle's drivetrain. In both ICE and EV vehicles, it serves the same purpose of facilitating wheel rotation. While its design may differ between traditional and electric vehicles due to differences in torque characteristics, it remains fundamentally required for vehicle operation."
+    },
+    {
+      "component": "Differential",
+      "classification": "SHARED",
+      "confidence": 0.95,
+      "reasoning": "The differential is a mechanical component that allows power to be distributed between two or more axles and helps control vehicle direction during turns. It is used in both ICE and EV vehicles."
+    },
+    {
+      "component": "Transmission",
+      "classification": "SHARED",
+      "confidence": 0.85,
+      "reasoning": "Although the specific function may change in EVs (reduced to a single speed or eliminated), transmissions are still necessary for managing torque and power distribution, regardless of drivetrain type."
+    },
+    {
+      "component": "Engine Mount",
+      "classification": "SHARED",
+      "confidence": 0.9,
+      "reasoning": "The engine mount serves to secure the engine in place, a requirement common to both ICE and EV vehicles."
+    }
+  ]
+}

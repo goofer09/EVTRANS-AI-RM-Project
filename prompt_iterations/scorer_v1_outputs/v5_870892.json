@@ -1,0 +1,74 @@
+{
+  "version": "scorer_v1",
+  "hs_code": 870892,
+  "scored_components": [
+    {
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 10,
+      "supply_chain_concentration": 85,
+      "demand_stability": 30,
+      "value_added": 20,
+      "regulatory_exposure": 95,
+      "reasoning": {
+        "technical_compatibility": "Mufflers are not a necessary component in electric vehicles as they are used to reduce noise from internal combustion engines.",
+        "manufacturing_feasibility": "Existing manufacturing facilities may be able to repurpose some machinery for alternative sound-absorbing or insulation components, but the demand shift will likely require adaptation.",
+        "supply_chain_concentration": "The muffler market is dominated by a few key players, providing some level of diversification.",
+        "demand_stability": "With the transition to electric vehicles, demand for mufflers will decrease significantly, making it less stable during and after the transition.",
+        "value_added": "Mufflers are relatively simple components that require fewer advanced skills compared to other vehicle parts. Therefore, their economic value contribution is lower.",
+        "regulatory_exposure": "As electric vehicles produce significantly less noise than internal combustion engines, mufflers will become obsolete in electric vehicles, exposing the industry to environmental and regulatory phase-out."
+      },
+      "component": "Muffler"
+    },
+    {
+      "technical_compatibility": 10,
+      "manufacturing_feasibility": 30,
+      "supply_chain_concentration": 50,
+      "demand_stability": 70,
+      "value_added": 20,
+      "regulatory_exposure": 90,
+      "reasoning": {
+        "technical_compatibility": "Catalytic converters are essential for reducing emissions in ICE vehicles but have no direct counterpart in EVs.",
+        "manufacturing_feasibility": "Repurposing existing facilities may be possible to some extent, but the shift towards manufacturing components specifically for EVs will likely require significant investment and retooling.",
+        "supply_chain_concentration": "The supply chain for catalytic converters is relatively concentrated due to the need for specific materials and processes.",
+        "demand_stability": "Although demand may decrease with the transition to EVs, there will still be a need for ICE vehicles in certain applications, providing some level of stability.",
+        "value_added": "The skill and complexity required for manufacturing catalytic converters are relatively high, but their economic value contribution is lower compared to other components that play more critical roles in both ICE and EV technologies.",
+        "regulatory_exposure": "Catalytic converters are exposed to significant regulatory exposure due to their role in reducing emissions in ICE vehicles, which may be phased out as stricter emission standards are implemented."
+      },
+      "component": "Catalytic Converter"
+    },
+    {
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 20,
+      "supply_chain_concentration": 80,
+      "demand_stability": 30,
+      "value_added": 10,
+      "regulatory_exposure": 95,
+      "reasoning": {
+        "technical_compatibility": "Exhaust Manifold is not directly applicable in EVs as they do not use internal combustion engines.",
+        "manufacturing_feasibility": "Repurposing manufacturing facilities to produce parts for a different technology may require significant investment and retooling.",
+        "supply_chain_concentration": "The supply chain for Exhaust Manifolds is relatively diversified due to high demand in ICE vehicles.",
+        "demand_stability": "Demand for Exhaust Manifolds will decrease during the EV transition, leading to instability.",
+        "value_added": "Exhaust Manifold is a relatively simple component with low skill requirement and economic value contribution.",
+        "regulatory_exposure": "Exhaust Manifold is highly exposed to ICE-related environmental or regulatory phase-out due to its function in the combustion process."
+      },
+      "component": "Exhaust Manifold"
+    },
+    {
+      "technical_compatibility": 0,
+      "manufacturing_feasibility": 10,
+      "supply_chain_concentration": 30,
+      "demand_stability": 20,
+      "value_added": 5,
+      "regulatory_exposure": 95,
+      "reasoning": {
+        "technical_compatibility": "Tailpipes are not applicable in electric vehicles as they are used for exhaust gas expulsion from internal combustion engines.",
+        "manufacturing_feasibility": "Existing manufacturing facilities may be able to produce other components for EVs, but tailpipe production would become obsolete.",
+        "supply_chain_concentration": "The supply chain for tailpipes is relatively concentrated due to the limited number of manufacturers specializing in this component.",
+        "demand_stability": "Demand for tailpipes will decrease significantly during and after the transition to EVs, leading to instability.",
+        "value_added": "Tailpipes have low skill requirements and economic value contribution compared to other vehicle components.",
+        "regulatory_exposure": "Given the environmental and health concerns associated with tailpipe emissions, there is high regulatory exposure due to ICE-related phase-outs."
+      },
+      "component": "Tailpipe"
+    }
+  ]
+}
