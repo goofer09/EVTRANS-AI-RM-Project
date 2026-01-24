@@ -1,0 +1,20 @@
+{
+  "company": "Salzgitter AG",
+  "nuts2_code": "DE91",
+  "nuts2_name": "Braunschweig",
+  "plants": [
+    {
+      "plant_name": "Salzgitter Werk (Salzgitter steelworks)",
+      "city": "Salzgitter",
+      "primary_function": "Integrated steel production (blast furnace, crude steel making, hot rolling, plate and flat steel production)"
+    },
+    {
+      "plant_name": "Peiner Tr\u00e4ger GmbH (Peine plant)",
+      "city": "Peine",
+      "primary_function": "Production of heavy structural steel sections and rolled steel beams"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,24 @@
+{
+  "nuts2_code": "DEG0",
+  "nuts2_name": "Th\u00fcringen",
+  "companies": [
+    {
+      "name": "Adam Opel GmbH (Opel Eisenach)",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "MAHLE GmbH (S\u00f6mmerda plant)",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "Leoni AG (Apolda / Thuringia operations)",
+      "type": "Tier-1",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

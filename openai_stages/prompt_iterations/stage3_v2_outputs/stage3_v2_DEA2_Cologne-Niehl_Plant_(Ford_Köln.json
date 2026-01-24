@@ -1,0 +1,22 @@
+{
+  "company": "Ford-Werke GmbH",
+  "plant": "Cologne-Niehl Plant (Ford K\u00f6ln-Niehl)",
+  "city": "K\u00f6ln",
+  "nuts2_code": "DEA2",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Vehicle Assembly",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

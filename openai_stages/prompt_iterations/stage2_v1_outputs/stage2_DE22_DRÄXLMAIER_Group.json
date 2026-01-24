@@ -1,0 +1,25 @@
+{
+  "company": "DR\u00c4XLMAIER Group",
+  "nuts2_code": "DE22",
+  "nuts2_name": "Niederbayern",
+  "plants": [
+    {
+      "plant_name": "DR\u00c4XLMAIER Vilsbiburg Plant",
+      "city": "Vilsbiburg",
+      "primary_function": "Manufacture of wiring harnesses, interior systems and electrical/electronic components (including battery/e\u2011mobility components)"
+    },
+    {
+      "plant_name": "DR\u00c4XLMAIER Landau Plant",
+      "city": "Landau an der Isar",
+      "primary_function": "Production and assembly of wiring harnesses and electrical distribution systems; interior component assembly"
+    },
+    {
+      "plant_name": "DR\u00c4XLMAIER Dingolfing Plant",
+      "city": "Dingolfing",
+      "primary_function": "Component manufacturing and assembly for vehicle interiors and electrical systems (supplier operations for vehicle production)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

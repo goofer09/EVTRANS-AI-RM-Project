@@ -1,0 +1,15 @@
+{
+  "company": "KUKA AG",
+  "nuts2_code": "DE27",
+  "nuts2_name": "Schwaben",
+  "plants": [
+    {
+      "plant_name": "KUKA Roboter GmbH \u2013 Augsburg plant",
+      "city": "Augsburg",
+      "primary_function": "Manufacture and assembly of industrial robots and related automation equipment"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

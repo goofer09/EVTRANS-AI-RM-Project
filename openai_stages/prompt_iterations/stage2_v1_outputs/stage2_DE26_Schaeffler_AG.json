@@ -1,0 +1,15 @@
+{
+  "company": "Schaeffler AG",
+  "nuts2_code": "DE26",
+  "nuts2_name": "Unterfranken",
+  "plants": [
+    {
+      "plant_name": "Schaeffler Werk Schweinfurt",
+      "city": "Schweinfurt",
+      "primary_function": "Manufacture of rolling bearings and precision automotive components (bearing production and related powertrain component manufacturing)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

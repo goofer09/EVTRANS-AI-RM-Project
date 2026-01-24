@@ -1,0 +1,20 @@
+{
+  "company": "BMW AG",
+  "nuts2_code": "DE22",
+  "nuts2_name": "Niederbayern",
+  "plants": [
+    {
+      "plant_name": "BMW Group Plant Dingolfing",
+      "city": "Dingolfing",
+      "primary_function": "Vehicle production (body shop, paint, final assembly) and component manufacturing for BMW vehicles (including large-scale vehicle assembly and associated component production)"
+    },
+    {
+      "plant_name": "BMW Group Plant Landshut",
+      "city": "Landshut",
+      "primary_function": "Component manufacturing (powertrain/driveline components, lightweight metal/plastic structural parts and small-series/assembly operations)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

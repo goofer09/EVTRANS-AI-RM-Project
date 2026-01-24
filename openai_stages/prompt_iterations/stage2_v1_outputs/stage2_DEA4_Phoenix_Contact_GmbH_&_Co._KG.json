@@ -1,0 +1,15 @@
+{
+  "company": "Phoenix Contact GmbH & Co. KG",
+  "nuts2_code": "DEA4",
+  "nuts2_name": "Detmold",
+  "plants": [
+    {
+      "plant_name": "Blomberg (Hauptwerk)",
+      "city": "Blomberg",
+      "primary_function": "Manufacture and assembly of electrical connection technology, terminal blocks, electronic components and industrial automation hardware"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

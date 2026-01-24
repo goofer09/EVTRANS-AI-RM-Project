@@ -1,0 +1,25 @@
+{
+  "company": "Mercedes-Benz Group AG",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [
+    {
+      "plant_name": "Mercedes-Benz Sindelfingen Plant",
+      "city": "Sindelfingen",
+      "primary_function": "Passenger vehicle assembly and body/vehicle production (major Mercedes\u2011Benz car models)"
+    },
+    {
+      "plant_name": "Mercedes\u2011Benz Untert\u00fcrkheim Powertrain Plant",
+      "city": "Stuttgart (Untert\u00fcrkheim)",
+      "primary_function": "Powertrain and component manufacturing (engines, axles, powertrain components)"
+    },
+    {
+      "plant_name": "Mercedes\u2011AMG Affalterbach (AMG Performance Center)",
+      "city": "Affalterbach",
+      "primary_function": "AMG powertrain and small\u2011series vehicle production (engine manufacturing, performance vehicle assembly)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

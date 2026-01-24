@@ -1,0 +1,15 @@
+{
+  "company": "Mercedes-Benz Group AG",
+  "nuts2_code": "DE94",
+  "nuts2_name": "Weser-Ems",
+  "plants": [
+    {
+      "plant_name": "Mercedes\u2011Benz Werk Bremen",
+      "city": "Bremen",
+      "primary_function": "Passenger car assembly and powertrain/component manufacturing (vehicle production and engine/powertrain components)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

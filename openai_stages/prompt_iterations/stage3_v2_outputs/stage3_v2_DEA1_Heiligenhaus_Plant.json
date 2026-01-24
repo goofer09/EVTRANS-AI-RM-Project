@@ -1,0 +1,27 @@
+{
+  "company": "Kiekert AG",
+  "plant": "Heiligenhaus Plant",
+  "city": "Heiligenhaus",
+  "nuts2_code": "DEA1",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Interior Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,15 @@
+{
+  "company": "Mubea GmbH & Co. KG",
+  "nuts2_code": "DEA5",
+  "nuts2_name": "Arnsberg",
+  "plants": [
+    {
+      "plant_name": "Mubea Attendorn Plant",
+      "city": "Attendorn",
+      "primary_function": "Production of automotive springs, suspension and chassis components"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

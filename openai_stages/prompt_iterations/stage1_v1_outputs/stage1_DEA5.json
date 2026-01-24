@@ -1,0 +1,29 @@
+{
+  "nuts2_code": "DEA5",
+  "nuts2_name": "Arnsberg",
+  "companies": [
+    {
+      "name": "HELLA GmbH & Co. KGaA",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "Benteler International AG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "Mubea GmbH & Co. KG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "KOSTAL (KOSTAL Gruppe)",
+      "type": "Tier-1",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

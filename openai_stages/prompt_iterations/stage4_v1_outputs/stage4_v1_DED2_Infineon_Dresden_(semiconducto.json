@@ -1,0 +1,15 @@
+{
+  "company": "Infineon Technologies AG",
+  "plant": "Infineon Dresden (semiconductor manufacturing site)",
+  "city": "Dresden",
+  "nuts2_code": "DED2",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 3000,
+    "confidence": "medium",
+    "basis": "news"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

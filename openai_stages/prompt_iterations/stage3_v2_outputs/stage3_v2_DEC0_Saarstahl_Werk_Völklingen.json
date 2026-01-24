@@ -1,0 +1,11 @@
+{
+  "company": "Saarstahl AG",
+  "plant": "Saarstahl Werk V\u00f6lklingen",
+  "city": "V\u00f6lklingen",
+  "nuts2_code": "DEC0",
+  "is_production_site": false,
+  "reason": "Saarstahl Werk V\u00f6lklingen is a steelworks producing raw and rolled steel products (upstream steel production), not a facility that manufactures finished automotive components or vehicle assemblies.",
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

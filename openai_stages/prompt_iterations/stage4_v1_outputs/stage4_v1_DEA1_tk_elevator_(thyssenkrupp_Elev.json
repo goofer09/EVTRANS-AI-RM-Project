@@ -1,0 +1,15 @@
+{
+  "company": "thyssenkrupp AG",
+  "plant": "tk elevator (thyssenkrupp Elevator) \u2013 Velbert plant",
+  "city": "Velbert",
+  "nuts2_code": "DEA1",
+  "employment": {
+    "size_class": "Small",
+    "estimate": 300,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

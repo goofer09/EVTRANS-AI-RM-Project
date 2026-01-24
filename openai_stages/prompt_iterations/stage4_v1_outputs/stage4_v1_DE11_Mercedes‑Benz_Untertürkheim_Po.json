@@ -1,0 +1,15 @@
+{
+  "company": "Mercedes-Benz Group AG",
+  "plant": "Mercedes\u2011Benz Untert\u00fcrkheim Powertrain Plant",
+  "city": "Stuttgart (Untert\u00fcrkheim)",
+  "nuts2_code": "DE11",
+  "employment": {
+    "size_class": "Very Large",
+    "estimate": null,
+    "confidence": "high",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

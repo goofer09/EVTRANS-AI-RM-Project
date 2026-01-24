@@ -1,0 +1,17 @@
+{
+  "company": "Volkswagen AG",
+  "plant": "Motorenwerk Salzgitter (Volkswagen Salzgitter Engine Plant)",
+  "city": "Salzgitter",
+  "nuts2_code": "DE91",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

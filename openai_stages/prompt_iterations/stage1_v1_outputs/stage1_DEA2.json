@@ -1,0 +1,14 @@
+{
+  "nuts2_code": "DEA2",
+  "nuts2_name": "K\u00f6ln",
+  "companies": [
+    {
+      "name": "Ford-Werke GmbH",
+      "type": "OEM",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

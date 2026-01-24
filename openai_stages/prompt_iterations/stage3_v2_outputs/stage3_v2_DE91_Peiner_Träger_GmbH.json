@@ -1,0 +1,11 @@
+{
+  "company": "Salzgitter AG",
+  "plant": "Peiner Tr\u00e4ger GmbH",
+  "city": "Peine",
+  "nuts2_code": "DE91",
+  "is_production_site": false,
+  "reason": "Failed to parse LLM response",
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

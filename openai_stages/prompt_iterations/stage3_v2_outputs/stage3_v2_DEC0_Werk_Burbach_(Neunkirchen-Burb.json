@@ -1,0 +1,11 @@
+{
+  "is_production_site": false,
+  "reason": "Werk Burbach is a steel production/rolling mill producing raw steel products (wire rod, bars) rather than manufacturing automotive components or assembling vehicles.",
+  "company": "Saarstahl AG",
+  "plant": "Werk Burbach (Neunkirchen-Burbach Plant)",
+  "city": "Neunkirchen (Burbach)",
+  "nuts2_code": "DEC0",
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,15 @@
+{
+  "company": "Leoni AG (Apolda / Thuringia operations)",
+  "plant": "Leoni Apolda Plant",
+  "city": "Apolda",
+  "nuts2_code": "DEG0",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 1200,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "ElringKlinger AG",
+  "plant": "Dettingen/Erms production site (ElringKlinger)",
+  "city": "Dettingen/Erms",
+  "nuts2_code": "DE14",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Interior Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

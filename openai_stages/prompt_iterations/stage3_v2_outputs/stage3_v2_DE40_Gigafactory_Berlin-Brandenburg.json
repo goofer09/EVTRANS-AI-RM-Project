@@ -1,0 +1,32 @@
+{
+  "company": "Tesla, Inc.",
+  "plant": "Gigafactory Berlin-Brandenburg (Tesla Factory Gr\u00fcnheide)",
+  "city": "Gr\u00fcnheide (Mark)",
+  "nuts2_code": "DE40",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Vehicle Assembly",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Battery Systems",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electric Powertrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

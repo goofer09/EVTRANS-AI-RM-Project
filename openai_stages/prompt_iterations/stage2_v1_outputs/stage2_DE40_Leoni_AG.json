@@ -1,0 +1,9 @@
+{
+  "company": "Leoni AG",
+  "nuts2_code": "DE40",
+  "nuts2_name": "Brandenburg",
+  "plants": [],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

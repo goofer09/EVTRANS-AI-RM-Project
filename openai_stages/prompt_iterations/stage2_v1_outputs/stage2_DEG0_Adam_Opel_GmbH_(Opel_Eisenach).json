@@ -1,0 +1,15 @@
+{
+  "company": "Adam Opel GmbH (Opel Eisenach)",
+  "nuts2_code": "DEG0",
+  "nuts2_name": "Th\u00fcringen",
+  "plants": [
+    {
+      "plant_name": "Opel Werk Eisenach (Eisenach Plant)",
+      "city": "Eisenach",
+      "primary_function": "Passenger vehicle assembly (manufacture and final assembly of Opel cars)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

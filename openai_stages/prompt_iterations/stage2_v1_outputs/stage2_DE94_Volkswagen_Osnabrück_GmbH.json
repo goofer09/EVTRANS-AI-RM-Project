@@ -1,0 +1,15 @@
+{
+  "company": "Volkswagen Osnabr\u00fcck GmbH",
+  "nuts2_code": "DE94",
+  "nuts2_name": "Weser-Ems",
+  "plants": [
+    {
+      "plant_name": "Osnabr\u00fcck Plant (Werk Osnabr\u00fcck)",
+      "city": "Osnabr\u00fcck",
+      "primary_function": "Vehicle assembly and component manufacturing (body shop, final assembly and special-vehicle production)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

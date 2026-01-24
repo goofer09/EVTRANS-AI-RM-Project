@@ -1,0 +1,15 @@
+{
+  "company": "HYDAC International GmbH",
+  "plant": "HYDAC - Sulzbach (production site)",
+  "city": "Sulzbach/Saar",
+  "nuts2_code": "DEC0",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 1200,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

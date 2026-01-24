@@ -1,0 +1,15 @@
+{
+  "company": "Ford-Werke GmbH",
+  "plant": "Ford-Werke GmbH \u2013 Werk Saarlouis",
+  "city": "Saarlouis",
+  "nuts2_code": "DEC0",
+  "employment": {
+    "size_class": "Very Large",
+    "estimate": 5300,
+    "confidence": "medium",
+    "basis": "news"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

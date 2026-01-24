@@ -1,0 +1,15 @@
+{
+  "company": "Mercedes-Benz Group AG",
+  "plant": "Mercedes\u2011Benz Werk Bremen",
+  "city": "Bremen",
+  "nuts2_code": "DE50",
+  "employment": {
+    "size_class": "Very Large",
+    "estimate": 12000,
+    "confidence": "medium",
+    "basis": "news"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,11 @@
+{
+  "company": "ArcelorMittal Germany",
+  "plant": "ArcelorMittal Dinslaken (Rolling Mill)",
+  "city": "Dinslaken",
+  "nuts2_code": "DEA1",
+  "is_production_site": false,
+  "reason": "This site is a steel rolling mill producing flat steel products/coils and metallurgical materials, not finished automotive components or vehicle assembly; it supplies raw material rather than manufacturing vehicle parts onsite.",
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

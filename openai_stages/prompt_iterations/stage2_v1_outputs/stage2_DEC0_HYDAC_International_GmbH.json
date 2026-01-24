@@ -1,0 +1,15 @@
+{
+  "company": "HYDAC International GmbH",
+  "nuts2_code": "DEC0",
+  "nuts2_name": "Saarland",
+  "plants": [
+    {
+      "plant_name": "HYDAC - Sulzbach (production site)",
+      "city": "Sulzbach/Saar",
+      "primary_function": "Manufacture of hydraulic components, filter elements and fluid power systems"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

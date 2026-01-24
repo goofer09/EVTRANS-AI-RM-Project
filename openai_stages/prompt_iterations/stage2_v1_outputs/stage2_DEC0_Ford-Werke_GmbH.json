@@ -1,0 +1,15 @@
+{
+  "company": "Ford-Werke GmbH",
+  "nuts2_code": "DEC0",
+  "nuts2_name": "Saarland",
+  "plants": [
+    {
+      "plant_name": "Ford Saarlouis Plant",
+      "city": "Saarlouis",
+      "primary_function": "Vehicle assembly (body shop, paint shop and final assembly of passenger cars)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

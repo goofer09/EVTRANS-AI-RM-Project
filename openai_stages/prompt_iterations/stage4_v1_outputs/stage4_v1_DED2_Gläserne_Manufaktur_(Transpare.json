@@ -1,0 +1,15 @@
+{
+  "company": "Volkswagen AG",
+  "plant": "Gl\u00e4serne Manufaktur (Transparent Factory) Dresden",
+  "city": "Dresden",
+  "nuts2_code": "DED2",
+  "employment": {
+    "size_class": "Small",
+    "estimate": 300,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

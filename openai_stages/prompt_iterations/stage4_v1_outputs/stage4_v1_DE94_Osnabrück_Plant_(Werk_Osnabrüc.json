@@ -1,0 +1,15 @@
+{
+  "company": "Volkswagen Osnabr\u00fcck GmbH",
+  "plant": "Osnabr\u00fcck Plant (Werk Osnabr\u00fcck)",
+  "city": "Osnabr\u00fcck",
+  "nuts2_code": "DE94",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 3200,
+    "confidence": "medium",
+    "basis": "news"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

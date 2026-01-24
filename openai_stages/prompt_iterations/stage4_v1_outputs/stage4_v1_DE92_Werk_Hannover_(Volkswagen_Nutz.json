@@ -1,0 +1,15 @@
+{
+  "company": "Volkswagen Nutzfahrzeuge GmbH",
+  "plant": "Werk Hannover (Volkswagen Nutzfahrzeuge Werk Hannover)",
+  "city": "Hannover",
+  "nuts2_code": "DE92",
+  "employment": {
+    "size_class": "Very Large",
+    "estimate": null,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

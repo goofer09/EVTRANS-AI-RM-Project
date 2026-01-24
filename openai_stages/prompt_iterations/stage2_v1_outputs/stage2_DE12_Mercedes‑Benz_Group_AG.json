@@ -1,0 +1,15 @@
+{
+  "company": "Mercedes\u2011Benz Group AG",
+  "nuts2_code": "DE12",
+  "nuts2_name": "Karlsruhe",
+  "plants": [
+    {
+      "plant_name": "Mercedes\u2011Benz Rastatt Plant",
+      "city": "Rastatt",
+      "primary_function": "Assembly and production of compact passenger cars (A\u2011Class, B\u2011Class, CLA, GLA)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

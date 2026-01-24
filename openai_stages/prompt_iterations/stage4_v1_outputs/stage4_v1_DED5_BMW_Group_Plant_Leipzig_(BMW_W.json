@@ -1,0 +1,15 @@
+{
+  "company": "BMW AG",
+  "plant": "BMW Group Plant Leipzig (BMW Werk Leipzig)",
+  "city": "Leipzig",
+  "nuts2_code": "DED5",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 4000,
+    "confidence": "medium",
+    "basis": "news"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

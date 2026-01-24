@@ -1,0 +1,20 @@
+{
+  "company": "MANN+HUMMEL GmbH",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [
+    {
+      "plant_name": "Ludwigsburg Plant",
+      "city": "Ludwigsburg",
+      "primary_function": "Production and assembly of automotive filtration products (engine air filters, cabin filters and related components)"
+    },
+    {
+      "plant_name": "Markgr\u00f6ningen Plant",
+      "city": "Markgr\u00f6ningen",
+      "primary_function": "Manufacturing of filter elements, plastic housings and assembly of filtration systems/components"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

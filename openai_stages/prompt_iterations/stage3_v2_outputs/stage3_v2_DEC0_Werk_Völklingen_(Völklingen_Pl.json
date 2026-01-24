@@ -1,0 +1,27 @@
+{
+  "company": "Saarstahl AG",
+  "plant": "Werk V\u00f6lklingen (V\u00f6lklingen Plant)",
+  "city": "V\u00f6lklingen",
+  "nuts2_code": "DEC0",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Chassis & Suspension",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

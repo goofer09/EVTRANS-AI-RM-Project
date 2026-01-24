@@ -1,0 +1,22 @@
+{
+  "company": "Benteler",
+  "plant": "Benteler Paderborn (Benteler manufacturing plant)",
+  "city": "Paderborn",
+  "nuts2_code": "DEA4",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Chassis & Suspension",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

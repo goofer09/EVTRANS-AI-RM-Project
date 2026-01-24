@@ -1,0 +1,9 @@
+{
+  "company": "MAHLE GmbH",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

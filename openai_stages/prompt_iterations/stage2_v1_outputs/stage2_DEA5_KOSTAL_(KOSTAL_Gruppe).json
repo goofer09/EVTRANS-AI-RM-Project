@@ -1,0 +1,15 @@
+{
+  "company": "KOSTAL (KOSTAL Gruppe)",
+  "nuts2_code": "DEA5",
+  "nuts2_name": "Arnsberg",
+  "plants": [
+    {
+      "plant_name": "KOSTAL GmbH & Co. KG (L\u00fcdenscheid plant)",
+      "city": "L\u00fcdenscheid",
+      "primary_function": "Manufacture and assembly of automotive electrical components and electronic control units (switches, connectors, sensors, mechatronic modules)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

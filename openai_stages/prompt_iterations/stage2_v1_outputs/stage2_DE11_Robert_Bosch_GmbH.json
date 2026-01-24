@@ -1,0 +1,20 @@
+{
+  "company": "Robert Bosch GmbH",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [
+    {
+      "plant_name": "Bosch Werk Feuerbach (Stuttgart-Feuerbach)",
+      "city": "Stuttgart",
+      "primary_function": "Manufacture of automotive components (sensors, engine-management and fuel-injection related components)"
+    },
+    {
+      "plant_name": "Bosch Werk Schwieberdingen",
+      "city": "Schwieberdingen",
+      "primary_function": "Production of automotive components and powertrain-related systems (electronic control units and related assemblies)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

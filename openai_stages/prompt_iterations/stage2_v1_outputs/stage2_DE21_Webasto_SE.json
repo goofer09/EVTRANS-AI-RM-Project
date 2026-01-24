@@ -1,0 +1,20 @@
+{
+  "company": "Webasto SE",
+  "nuts2_code": "DE21",
+  "nuts2_name": "Oberbayern",
+  "plants": [
+    {
+      "plant_name": "Webasto SE - Stockdorf (Gauting) Plant",
+      "city": "Stockdorf (Gauting)",
+      "primary_function": "Assembly and production of roof systems, vehicle heating and climate components"
+    },
+    {
+      "plant_name": "Webasto SE - Gilching Plant",
+      "city": "Gilching",
+      "primary_function": "Manufacture and assembly of thermal systems and related automotive components"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

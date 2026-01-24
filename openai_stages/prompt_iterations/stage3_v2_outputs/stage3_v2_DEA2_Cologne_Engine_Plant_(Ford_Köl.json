@@ -1,0 +1,17 @@
+{
+  "company": "Ford-Werke GmbH",
+  "plant": "Cologne Engine Plant (Ford K\u00f6ln Engine Plant / K\u00f6ln-Merkenich)",
+  "city": "K\u00f6ln",
+  "nuts2_code": "DEA2",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "KOSTAL (KOSTAL Gruppe)",
+  "plant": "KOSTAL GmbH & Co. KG - L\u00fcdenscheid plant",
+  "city": "L\u00fcdenscheid",
+  "nuts2_code": "DEA5",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Powertrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,24 @@
+{
+  "nuts2_code": "DE40",
+  "nuts2_name": "Brandenburg",
+  "companies": [
+    {
+      "name": "Tesla, Inc.",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "ZF Friedrichshafen AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "Leoni AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,15 @@
+{
+  "company": "Tesla, Inc.",
+  "nuts2_code": "DE40",
+  "nuts2_name": "Brandenburg",
+  "plants": [
+    {
+      "plant_name": "Gigafactory Berlin-Brandenburg (Tesla Factory Gr\u00fcnheide)",
+      "city": "Gr\u00fcnheide (Mark)",
+      "primary_function": "Vehicle assembly (Model Y) with onsite battery pack and powertrain/component manufacturing"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,9 @@
+{
+  "company": "Freudenberg SE",
+  "nuts2_code": "DE12",
+  "nuts2_name": "Karlsruhe",
+  "plants": [],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

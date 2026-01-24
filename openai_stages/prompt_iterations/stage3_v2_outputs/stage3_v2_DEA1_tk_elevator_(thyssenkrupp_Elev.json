@@ -1,0 +1,32 @@
+{
+  "company": "thyssenkrupp AG",
+  "plant": "tk elevator (thyssenkrupp Elevator) \u2013 Velbert plant",
+  "city": "Velbert",
+  "nuts2_code": "DEA1",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Interior Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electric Powertrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

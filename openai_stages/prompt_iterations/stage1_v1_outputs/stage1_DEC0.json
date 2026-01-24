@@ -1,0 +1,24 @@
+{
+  "nuts2_code": "DEC0",
+  "nuts2_name": "Saarland",
+  "companies": [
+    {
+      "name": "Ford-Werke GmbH",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "HYDAC International GmbH",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "Saarstahl AG",
+      "type": "Tier-2",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

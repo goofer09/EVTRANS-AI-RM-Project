@@ -1,0 +1,15 @@
+{
+  "company": "Opel Automobile GmbH",
+  "nuts2_code": "DE71",
+  "nuts2_name": "Darmstadt",
+  "plants": [
+    {
+      "plant_name": "Opel R\u00fcsselsheim Plant",
+      "city": "R\u00fcsselsheim am Main",
+      "primary_function": "Vehicle assembly and powertrain/engine production (manufacturing of passenger cars and engines)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

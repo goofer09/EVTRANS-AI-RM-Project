@@ -1,0 +1,29 @@
+{
+  "nuts2_code": "DEA4",
+  "nuts2_name": "Detmold",
+  "companies": [
+    {
+      "name": "Benteler",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "CLAAS KGaA mbH",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "Phoenix Contact GmbH & Co. KG",
+      "type": "Tier-2",
+      "hq_in_region": true
+    },
+    {
+      "name": "Peguform GmbH & Co. KG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

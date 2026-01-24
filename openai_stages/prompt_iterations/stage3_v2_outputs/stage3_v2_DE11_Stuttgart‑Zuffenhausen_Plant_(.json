@@ -1,0 +1,32 @@
+{
+  "company": "Dr. Ing. h.c. F. Porsche AG",
+  "plant": "Stuttgart\u2011Zuffenhausen Plant (Porschewerk Zuffenhausen)",
+  "city": "Stuttgart (Zuffenhausen)",
+  "nuts2_code": "DE11",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Vehicle Assembly",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electric Powertrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

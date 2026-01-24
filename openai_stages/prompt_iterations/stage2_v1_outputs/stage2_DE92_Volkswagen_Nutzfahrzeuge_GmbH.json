@@ -1,0 +1,15 @@
+{
+  "company": "Volkswagen Nutzfahrzeuge GmbH",
+  "nuts2_code": "DE92",
+  "nuts2_name": "Hannover",
+  "plants": [
+    {
+      "plant_name": "Werk Hannover (Volkswagen Nutzfahrzeuge Werk Hannover)",
+      "city": "Hannover",
+      "primary_function": "Assembly and production of light commercial vehicles (Transporter/Multivan/California) and associated vehicle manufacturing"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

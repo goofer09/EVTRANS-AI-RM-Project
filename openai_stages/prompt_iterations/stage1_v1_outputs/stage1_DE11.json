@@ -1,0 +1,34 @@
+{
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "companies": [
+    {
+      "name": "Mercedes-Benz Group AG",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "Dr. Ing. h.c. F. Porsche AG",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "Robert Bosch GmbH",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "MANN+HUMMEL GmbH",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "MAHLE GmbH",
+      "type": "Tier-1",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

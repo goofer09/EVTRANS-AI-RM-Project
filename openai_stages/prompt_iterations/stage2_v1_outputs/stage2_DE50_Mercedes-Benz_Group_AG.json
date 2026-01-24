@@ -1,0 +1,15 @@
+{
+  "company": "Mercedes-Benz Group AG",
+  "nuts2_code": "DE50",
+  "nuts2_name": "Bremen",
+  "plants": [
+    {
+      "plant_name": "Mercedes\u2011Benz Werk Bremen",
+      "city": "Bremen",
+      "primary_function": "Vehicle production and assembly (body shop, paint, final assembly of passenger cars)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

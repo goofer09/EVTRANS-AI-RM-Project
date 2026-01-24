@@ -1,0 +1,15 @@
+{
+  "company": "ArcelorMittal Germany",
+  "plant": "ArcelorMittal Duisburg (Duisburg Steelworks - Bruckhausen)",
+  "city": "Duisburg",
+  "nuts2_code": "DEA1",
+  "employment": {
+    "size_class": "Very Large",
+    "estimate": null,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

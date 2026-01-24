@@ -1,0 +1,9 @@
+{
+  "company": "Hirschvogel Automotive Group",
+  "nuts2_code": "DE14",
+  "nuts2_name": "T\u00fcbingen",
+  "plants": [],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,15 @@
+{
+  "company": "Brose Fahrzeugteile GmbH & Co. KG",
+  "plant": "Brose Coburg",
+  "city": "Coburg",
+  "nuts2_code": "DE24",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 3500,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

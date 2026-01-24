@@ -1,0 +1,15 @@
+{
+  "company": "HELLA GmbH & Co. KGaA",
+  "nuts2_code": "DEA5",
+  "nuts2_name": "Arnsberg",
+  "plants": [
+    {
+      "plant_name": "Lippstadt plant",
+      "city": "Lippstadt",
+      "primary_function": "Automotive lighting and electronic components production (lighting systems and related electronics)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

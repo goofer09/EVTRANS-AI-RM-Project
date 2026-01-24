@@ -1,0 +1,15 @@
+{
+  "company": "Ford-Werke GmbH",
+  "plant": "Cologne Engine Plant (Ford K\u00f6ln Engine Plant / K\u00f6ln-Merkenich)",
+  "city": "K\u00f6ln",
+  "nuts2_code": "DEA2",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 3500,
+    "confidence": "medium",
+    "basis": "news | inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,1402 @@
+[
+  {
+    "company": "Volkswagen AG",
+    "plant": "Motorenwerk Salzgitter (Volkswagen Salzgitter Engine Plant)",
+    "city": "Salzgitter",
+    "nuts2_code": "DE91",
+    "nuts2_name": "Braunschweig",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 15.0,
+    "plant_ice_dependency": 1.0,
+    "component_count": 1,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 0,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Freudenberg SE",
+    "plant": "Weinheim (Freudenberg production site)",
+    "city": "Weinheim",
+    "nuts2_code": "DE12",
+    "nuts2_name": "Karlsruhe",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 43.5,
+    "plant_ice_dependency": 0.625,
+    "component_count": 2,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Knorr-Bremse AG",
+    "plant": "Knorr-Bremse Munich manufacturing site",
+    "city": "Munich",
+    "nuts2_code": "DE21",
+    "nuts2_name": "Oberbayern",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 73.5,
+    "plant_ice_dependency": 0.225,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Volkswagen Nutzfahrzeuge GmbH",
+    "plant": "Volkswagen Nutzfahrzeuge Werk Hannover",
+    "city": "Hannover",
+    "nuts2_code": "DE92",
+    "nuts2_name": "Hannover",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "high",
+    "plant_tfs": 71.0,
+    "plant_ice_dependency": 0.224,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "BMW AG",
+    "plant": "BMW Group Plant Dingolfing",
+    "city": "Dingolfing",
+    "nuts2_code": "DE22",
+    "nuts2_name": "Niederbayern",
+    "employment": 18000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 71.2,
+    "plant_ice_dependency": 0.223,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "ArcelorMittal Germany",
+    "plant": "ArcelorMittal Duisburg (Duisburg Steelworks - Bruckhausen)",
+    "city": "Duisburg",
+    "nuts2_code": "DEA1",
+    "nuts2_name": "D\u00fcsseldorf",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "high",
+    "plant_tfs": 78.0,
+    "plant_ice_dependency": 0.15,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Saarstahl AG",
+    "plant": "Werk V\u00f6lklingen (V\u00f6lklingen Plant)",
+    "city": "V\u00f6lklingen",
+    "nuts2_code": "DEC0",
+    "nuts2_name": "Saarland",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 61.5,
+    "plant_ice_dependency": 0.41,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "thyssenkrupp AG",
+    "plant": "Thyssenkrupp Nirosta \u2013 Krefeld-Uerdingen",
+    "city": "Krefeld",
+    "nuts2_code": "DEA1",
+    "nuts2_name": "D\u00fcsseldorf",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 60.2,
+    "plant_ice_dependency": 0.383,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "MANN+HUMMEL GmbH",
+    "plant": "MANN+HUMMEL Kornwestheim Plant",
+    "city": "Kornwestheim",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 54.3,
+    "plant_ice_dependency": 0.461,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "company": "LEONI AG",
+    "plant": "LEONI Plant Hechingen",
+    "city": "Hechingen",
+    "nuts2_code": "DE14",
+    "nuts2_name": "T\u00fcbingen",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 82.3,
+    "plant_ice_dependency": 0.113,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "BMW AG",
+    "plant": "BMW Group Plant Munich (Werk M\u00fcnchen)",
+    "city": "M\u00fcnchen",
+    "nuts2_code": "DE21",
+    "nuts2_name": "Oberbayern",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "high",
+    "plant_tfs": 70.4,
+    "plant_ice_dependency": 0.234,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Mubea GmbH & Co. KG",
+    "plant": "Attendorn plant",
+    "city": "Attendorn",
+    "nuts2_code": "DEA5",
+    "nuts2_name": "Arnsberg",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 74.5,
+    "plant_ice_dependency": 0.209,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler AG",
+    "plant": "Herzogenaurach plant",
+    "city": "Herzogenaurach",
+    "nuts2_code": "DE25",
+    "nuts2_name": "Mittelfranken",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "low",
+    "plant_tfs": 55.4,
+    "plant_ice_dependency": 0.506,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "plant": "ZF Friedrichshafen - Friedrichshafen Main Plant",
+    "city": "Friedrichshafen",
+    "nuts2_code": "DE14",
+    "nuts2_name": "T\u00fcbingen",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 60.6,
+    "plant_ice_dependency": 0.409,
+    "component_count": 4,
+    "ice_count": 1,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Infineon Technologies AG",
+    "plant": "Infineon Technologies Dresden (Dresden manufacturing site)",
+    "city": "Dresden",
+    "nuts2_code": "DED2",
+    "nuts2_name": "Dresden",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 75.0,
+    "plant_ice_dependency": 0.2,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Volkswagen AG",
+    "plant": "Gl\u00e4serne Manufaktur Dresden (Transparent Factory)",
+    "city": "Dresden",
+    "nuts2_code": "DED2",
+    "nuts2_name": "Dresden",
+    "employment": 300,
+    "size_class": "Small",
+    "employment_confidence": "medium",
+    "plant_tfs": 55.0,
+    "plant_ice_dependency": 0.4,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "thyssenkrupp AG",
+    "plant": "Thyssenkrupp Steel Europe \u2013 Duisburg (Schwelgern integrated works)",
+    "city": "Duisburg",
+    "nuts2_code": "DEA1",
+    "nuts2_name": "D\u00fcsseldorf",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 75.5,
+    "plant_ice_dependency": 0.191,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "KOSTAL (KOSTAL Gruppe)",
+    "plant": "KOSTAL GmbH & Co. KG - L\u00fcdenscheid plant",
+    "city": "L\u00fcdenscheid",
+    "nuts2_code": "DEA5",
+    "nuts2_name": "Arnsberg",
+    "employment": 3000,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 82.0,
+    "plant_ice_dependency": 0.111,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Fendt (AGCO)",
+    "plant": "Fendt-Werk Marktoberdorf",
+    "city": "Marktoberdorf",
+    "nuts2_code": "DE27",
+    "nuts2_name": "Schwaben",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 58.4,
+    "plant_ice_dependency": 0.423,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Mercedes-Benz Group AG",
+    "plant": "Mercedes-Benz Untert\u00fcrkheim Plant",
+    "city": "Stuttgart-Untert\u00fcrkheim",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 55.8,
+    "plant_ice_dependency": 0.475,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 1,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Audi AG",
+    "plant": "Audi Werk Ingolstadt",
+    "city": "Ingolstadt",
+    "nuts2_code": "DE21",
+    "nuts2_name": "Oberbayern",
+    "employment": 40000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 67.9,
+    "plant_ice_dependency": 0.269,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Liebherr-Components Biberach GmbH",
+    "plant": "Liebherr-Components Biberach GmbH \u2013 Biberach plant",
+    "city": "Biberach an der Ri\u00df",
+    "nuts2_code": "DE14",
+    "nuts2_name": "T\u00fcbingen",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "low",
+    "plant_tfs": 39.7,
+    "plant_ice_dependency": 0.671,
+    "component_count": 2,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "ElringKlinger AG",
+    "plant": "Dettingen/Erms production site (ElringKlinger)",
+    "city": "Dettingen/Erms",
+    "nuts2_code": "DE14",
+    "nuts2_name": "T\u00fcbingen",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 52.3,
+    "plant_ice_dependency": 0.49,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "plant": "ZF Friedrichshafen - Ravensburg Plant",
+    "city": "Ravensburg",
+    "nuts2_code": "DE14",
+    "nuts2_name": "T\u00fcbingen",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 73.5,
+    "plant_ice_dependency": 0.225,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Dr. Ing. h.c. F. Porsche AG",
+    "plant": "Stuttgart\u2011Zuffenhausen Plant (Porschewerk Zuffenhausen)",
+    "city": "Stuttgart (Zuffenhausen)",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 61.8,
+    "plant_ice_dependency": 0.368,
+    "component_count": 4,
+    "ice_count": 1,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "MANN+HUMMEL GmbH",
+    "plant": "MANN+HUMMEL Markgr\u00f6ningen Plant",
+    "city": "Markgr\u00f6ningen",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 60.5,
+    "plant_ice_dependency": 0.377,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "DR\u00c4XLMAIER Group",
+    "plant": "DR\u00c4XLMAIER Vilsbiburg (Headquarters & Production)",
+    "city": "Vilsbiburg",
+    "nuts2_code": "DE22",
+    "nuts2_name": "Niederbayern",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "low",
+    "plant_tfs": 82.0,
+    "plant_ice_dependency": 0.111,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Battery Systems",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Mercedes-Benz Group AG",
+    "plant": "Mercedes-AMG Affalterbach Plant",
+    "city": "Affalterbach",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1200,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 15.0,
+    "plant_ice_dependency": 1.0,
+    "component_count": 1,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 0,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Volkswagen AG",
+    "plant": "Werk Wolfsburg (Volkswagen Wolfsburg Plant)",
+    "city": "Wolfsburg",
+    "nuts2_code": "DE91",
+    "nuts2_name": "Braunschweig",
+    "employment": 60000,
+    "size_class": "Very Large",
+    "employment_confidence": "high",
+    "plant_tfs": 71.0,
+    "plant_ice_dependency": 0.224,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Salzgitter AG",
+    "plant": "Salzgitter Werk (Salzgitter Flachstahl GmbH)",
+    "city": "Salzgitter",
+    "nuts2_code": "DE91",
+    "nuts2_name": "Braunschweig",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 78.0,
+    "plant_ice_dependency": 0.15,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Ford-Werke GmbH",
+    "plant": "Ford K\u00f6ln-Niehl Plant",
+    "city": "K\u00f6ln",
+    "nuts2_code": "DEA2",
+    "nuts2_name": "K\u00f6ln",
+    "employment": 4000,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 64.5,
+    "plant_ice_dependency": 0.297,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "HELLA GmbH & Co. KGaA",
+    "plant": "Lippstadt Plant",
+    "city": "Lippstadt",
+    "nuts2_code": "DEA5",
+    "nuts2_name": "Arnsberg",
+    "employment": 6000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 77.3,
+    "plant_ice_dependency": 0.156,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Mercedes\u2011Benz Group AG",
+    "plant": "Mercedes\u2011Benz Werk Gaggenau",
+    "city": "Gaggenau",
+    "nuts2_code": "DE12",
+    "nuts2_name": "Karlsruhe",
+    "employment": 3300,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 74.5,
+    "plant_ice_dependency": 0.209,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Mercedes\u2011Benz Group AG",
+    "plant": "Mercedes\u2011Benz Werk Rastatt",
+    "city": "Rastatt",
+    "nuts2_code": "DE12",
+    "nuts2_name": "Karlsruhe",
+    "employment": 6500,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 69.4,
+    "plant_ice_dependency": 0.241,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "company": "LEONI AG",
+    "plant": "LEONI Plant Rottenburg (Ergenzingen)",
+    "city": "Rottenburg am Neckar",
+    "nuts2_code": "DE14",
+    "nuts2_name": "T\u00fcbingen",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 83.2,
+    "plant_ice_dependency": 0.118,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Opel Automobile GmbH",
+    "plant": "Opel R\u00fcsselsheim Plant",
+    "city": "R\u00fcsselsheim am Main",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 66.7,
+    "plant_ice_dependency": 0.283,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "HYDAC International GmbH",
+    "plant": "HYDAC International GmbH (Sulzbach/Saar) - Production Site",
+    "city": "Sulzbach (Saar)",
+    "nuts2_code": "DEC0",
+    "nuts2_name": "Saarland",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 61.0,
+    "plant_ice_dependency": 0.419,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "BMW AG",
+    "plant": "BMW Group Plant Landshut",
+    "city": "Landshut",
+    "nuts2_code": "DE22",
+    "nuts2_name": "Niederbayern",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 75.5,
+    "plant_ice_dependency": 0.191,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Hirschvogel Automotive Group",
+    "plant": "Hirschvogel Umformtechnik Denkingen (Denkingen plant)",
+    "city": "Denkingen",
+    "nuts2_code": "DE14",
+    "nuts2_name": "T\u00fcbingen",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 50.0,
+    "plant_ice_dependency": 0.533,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Mercedes-Benz Group AG",
+    "plant": "Mercedes-Benz Sindelfingen Plant",
+    "city": "Sindelfingen",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 30000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 70.0,
+    "plant_ice_dependency": 0.23,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Ford-Werke GmbH",
+    "plant": "Ford-Werke GmbH \u2013 Werk Saarlouis",
+    "city": "Saarlouis",
+    "nuts2_code": "DEC0",
+    "nuts2_name": "Saarland",
+    "employment": 5000,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 66.5,
+    "plant_ice_dependency": 0.275,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "MANN+HUMMEL GmbH",
+    "plant": "MANN+HUMMEL Ludwigsburg Plant",
+    "city": "Ludwigsburg",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 55.4,
+    "plant_ice_dependency": 0.446,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Webasto SE",
+    "plant": "Webasto SE - Stockdorf (Gilching) Plant",
+    "city": "Stockdorf (Gemeinde Gilching)",
+    "nuts2_code": "DE21",
+    "nuts2_name": "Oberbayern",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "medium",
+    "plant_tfs": 77.7,
+    "plant_ice_dependency": 0.15,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "GlobalFoundries Inc.",
+    "plant": "GlobalFoundries Dresden (Fab 1)",
+    "city": "Dresden",
+    "nuts2_code": "DED2",
+    "nuts2_name": "Dresden",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 75.0,
+    "plant_ice_dependency": 0.2,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Kiekert AG",
+    "plant": "Heiligenhaus Plant",
+    "city": "Heiligenhaus",
+    "nuts2_code": "DEA1",
+    "nuts2_name": "D\u00fcsseldorf",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 78.0,
+    "plant_ice_dependency": 0.144,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  }
+]

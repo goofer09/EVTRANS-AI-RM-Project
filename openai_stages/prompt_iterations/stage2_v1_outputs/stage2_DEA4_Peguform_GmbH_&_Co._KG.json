@@ -1,0 +1,9 @@
+{
+  "company": "Peguform GmbH & Co. KG",
+  "nuts2_code": "DEA4",
+  "nuts2_name": "Detmold",
+  "plants": [],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

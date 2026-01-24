@@ -1,0 +1,15 @@
+{
+  "company": "Volkswagen AG",
+  "nuts2_code": "DED2",
+  "nuts2_name": "Dresden",
+  "plants": [
+    {
+      "plant_name": "Gl\u00e4serne Manufaktur (Transparent Factory) Dresden",
+      "city": "Dresden",
+      "primary_function": "Vehicle assembly (small-series and electric vehicle final assembly)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

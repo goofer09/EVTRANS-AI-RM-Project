@@ -1,0 +1,180 @@
+{
+  "version": "stage5_v1_openai",
+  "date": "2026-01-21",
+  "summary": {
+    "regions_analyzed": 15,
+    "total_plants": 45,
+    "total_llm_employment": 283800,
+    "pass_count": 1,
+    "warning_count": 2,
+    "flag_count": 11,
+    "no_baseline_count": 1
+  },
+  "regions": [
+    {
+      "nuts2_code": "DE91",
+      "nuts2_name": "Braunschweig",
+      "plant_count": 3,
+      "llm_employment_sum": 71000,
+      "eurostat_employment": 95000,
+      "deviation": -0.253,
+      "deviation_pct": "-25.3%",
+      "validation_status": "PASS",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE21",
+      "nuts2_name": "Oberbayern",
+      "plant_count": 4,
+      "llm_employment_sum": 49000,
+      "eurostat_employment": 120000,
+      "deviation": -0.592,
+      "deviation_pct": "-59.2%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE11",
+      "nuts2_name": "Stuttgart",
+      "plant_count": 7,
+      "llm_employment_sum": 45950,
+      "eurostat_employment": 185000,
+      "deviation": -0.752,
+      "deviation_pct": "-75.2%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE22",
+      "nuts2_name": "Niederbayern",
+      "plant_count": 3,
+      "llm_employment_sum": 25000,
+      "eurostat_employment": 45000,
+      "deviation": -0.444,
+      "deviation_pct": "-44.4%",
+      "validation_status": "WARNING",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DEA1",
+      "nuts2_name": "D\u00fcsseldorf",
+      "plant_count": 4,
+      "llm_employment_sum": 19750,
+      "eurostat_employment": 35000,
+      "deviation": -0.436,
+      "deviation_pct": "-43.6%",
+      "validation_status": "WARNING",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE14",
+      "nuts2_name": "T\u00fcbingen",
+      "plant_count": 7,
+      "llm_employment_sum": 17250,
+      "eurostat_employment": 35000,
+      "deviation": -0.507,
+      "deviation_pct": "-50.7%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE12",
+      "nuts2_name": "Karlsruhe",
+      "plant_count": 3,
+      "llm_employment_sum": 11050,
+      "eurostat_employment": 45000,
+      "deviation": -0.754,
+      "deviation_pct": "-75.4%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DEA5",
+      "nuts2_name": "Arnsberg",
+      "plant_count": 3,
+      "llm_employment_sum": 10250,
+      "eurostat_employment": 40000,
+      "deviation": -0.744,
+      "deviation_pct": "-74.4%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE92",
+      "nuts2_name": "Hannover",
+      "plant_count": 1,
+      "llm_employment_sum": 7500,
+      "eurostat_employment": 55000,
+      "deviation": -0.864,
+      "deviation_pct": "-86.4%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DEC0",
+      "nuts2_name": "Saarland",
+      "plant_count": 3,
+      "llm_employment_sum": 7500,
+      "eurostat_employment": 25000,
+      "deviation": -0.7,
+      "deviation_pct": "-70.0%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DED2",
+      "nuts2_name": "Dresden",
+      "plant_count": 3,
+      "llm_employment_sum": 5050,
+      "eurostat_employment": 20000,
+      "deviation": -0.748,
+      "deviation_pct": "-74.8%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DEA2",
+      "nuts2_name": "K\u00f6ln",
+      "plant_count": 1,
+      "llm_employment_sum": 4000,
+      "eurostat_employment": 50000,
+      "deviation": -0.92,
+      "deviation_pct": "-92.0%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE25",
+      "nuts2_name": "Mittelfranken",
+      "plant_count": 1,
+      "llm_employment_sum": 3500,
+      "eurostat_employment": null,
+      "deviation": null,
+      "deviation_pct": "N/A",
+      "validation_status": "NO_BASELINE",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE27",
+      "nuts2_name": "Schwaben",
+      "plant_count": 1,
+      "llm_employment_sum": 3500,
+      "eurostat_employment": 50000,
+      "deviation": -0.93,
+      "deviation_pct": "-93.0%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE71",
+      "nuts2_name": "Darmstadt",
+      "plant_count": 1,
+      "llm_employment_sum": 3500,
+      "eurostat_employment": 65000,
+      "deviation": -0.946,
+      "deviation_pct": "-94.6%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "company": "MANN+HUMMEL GmbH",
+  "plant": "MANN+HUMMEL Markgr\u00f6ningen Plant",
+  "city": "Markgr\u00f6ningen",
+  "nuts2_code": "DE11",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": null,
+    "confidence": "low",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

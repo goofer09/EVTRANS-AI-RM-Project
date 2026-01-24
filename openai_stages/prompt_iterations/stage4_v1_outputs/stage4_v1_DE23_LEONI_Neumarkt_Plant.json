@@ -1,0 +1,15 @@
+{
+  "company": "LEONI AG",
+  "plant": "LEONI Neumarkt Plant",
+  "city": "Neumarkt in der Oberpfalz",
+  "nuts2_code": "DE23",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": null,
+    "confidence": "low",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

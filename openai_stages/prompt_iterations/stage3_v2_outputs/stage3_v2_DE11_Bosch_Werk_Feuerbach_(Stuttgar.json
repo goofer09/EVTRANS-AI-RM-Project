@@ -1,0 +1,27 @@
+{
+  "company": "Robert Bosch GmbH",
+  "plant": "Bosch Werk Feuerbach (Stuttgart-Feuerbach)",
+  "city": "Stuttgart",
+  "nuts2_code": "DE11",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electric Powertrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "low"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

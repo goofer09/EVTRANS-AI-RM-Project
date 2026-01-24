@@ -1,0 +1,15 @@
+{
+  "company": "ZF Friedrichshafen AG",
+  "plant": "ZF Friedrichshafen - Friedrichshafen Plant",
+  "city": "Friedrichshafen",
+  "nuts2_code": "DE14",
+  "employment": {
+    "size_class": "Very Large",
+    "estimate": 7000,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

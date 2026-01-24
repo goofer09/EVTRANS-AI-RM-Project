@@ -1,0 +1,24 @@
+{
+  "nuts2_code": "DE23",
+  "nuts2_name": "Oberpfalz",
+  "companies": [
+    {
+      "name": "BMW AG",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Continental AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "LEONI AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

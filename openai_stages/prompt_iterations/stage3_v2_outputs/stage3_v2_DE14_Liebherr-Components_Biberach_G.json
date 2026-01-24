@@ -1,0 +1,22 @@
+{
+  "company": "Liebherr-Components Biberach GmbH",
+  "plant": "Liebherr-Components Biberach GmbH \u2013 Biberach plant",
+  "city": "Biberach an der Ri\u00df",
+  "nuts2_code": "DE14",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

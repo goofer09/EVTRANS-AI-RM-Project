@@ -1,0 +1,15 @@
+{
+  "company": "ZF Friedrichshafen AG",
+  "nuts2_code": "DE14",
+  "nuts2_name": "T\u00fcbingen",
+  "plants": [
+    {
+      "plant_name": "ZF Friedrichshafen - Friedrichshafen Plant",
+      "city": "Friedrichshafen",
+      "primary_function": "Manufacture of transmissions, driveline and chassis components (powertrain and e\u2011mobility systems)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

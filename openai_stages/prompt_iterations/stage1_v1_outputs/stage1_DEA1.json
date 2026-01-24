@@ -1,0 +1,29 @@
+{
+  "nuts2_code": "DEA1",
+  "nuts2_name": "D\u00fcsseldorf",
+  "companies": [
+    {
+      "name": "thyssenkrupp AG",
+      "type": "Tier-2",
+      "hq_in_region": true
+    },
+    {
+      "name": "Evonik Industries AG",
+      "type": "Tier-2",
+      "hq_in_region": true
+    },
+    {
+      "name": "ArcelorMittal Germany",
+      "type": "Tier-2",
+      "hq_in_region": false
+    },
+    {
+      "name": "Kiekert AG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

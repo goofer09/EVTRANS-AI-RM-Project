@@ -1,0 +1,17 @@
+{
+  "company": "thyssenkrupp AG",
+  "plant": "thyssenkrupp Steel Europe \u2013 Duisburg site",
+  "city": "Duisburg",
+  "nuts2_code": "DEA1",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,24 @@
+{
+  "nuts2_code": "DE22",
+  "nuts2_name": "Niederbayern",
+  "companies": [
+    {
+      "name": "BMW AG",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "DR\u00c4XLMAIER Group",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "Schaeffler AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

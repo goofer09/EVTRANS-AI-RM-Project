@@ -1,0 +1,20 @@
+{
+  "company": "Fendt (AGCO)",
+  "nuts2_code": "DE27",
+  "nuts2_name": "Schwaben",
+  "plants": [
+    {
+      "plant_name": "Fendt Werk Marktoberdorf",
+      "city": "Marktoberdorf",
+      "primary_function": "Tractor production and final assembly (Fendt tractors)"
+    },
+    {
+      "plant_name": "Fendt / AGCO Werk Asbach-B\u00e4umenheim",
+      "city": "Asbach-B\u00e4umenheim",
+      "primary_function": "Component and driveline manufacturing (transmissions/gearbox and related assemblies)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,9 @@
+{
+  "company": "Brose Fahrzeugteile GmbH & Co. KG",
+  "nuts2_code": "DE94",
+  "nuts2_name": "Weser-Ems",
+  "plants": [],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

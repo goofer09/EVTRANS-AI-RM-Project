@@ -1,0 +1,24 @@
+{
+  "nuts2_code": "DED5",
+  "nuts2_name": "Leipzig",
+  "companies": [
+    {
+      "name": "BMW AG",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Porsche Leipzig GmbH",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "Volkswagen AG",
+      "type": "OEM",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

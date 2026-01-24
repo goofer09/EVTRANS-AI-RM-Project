@@ -1,0 +1,15 @@
+{
+  "company": "BMW AG",
+  "nuts2_code": "DE21",
+  "nuts2_name": "Oberbayern",
+  "plants": [
+    {
+      "plant_name": "BMW Group Plant Munich (Werk M\u00fcnchen)",
+      "city": "M\u00fcnchen",
+      "primary_function": "Vehicle assembly and powertrain/component production (manufacture of BMW passenger cars and related engine/components)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

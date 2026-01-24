@@ -1,0 +1,15 @@
+{
+  "company": "ElringKlinger AG",
+  "plant": "ElringKlinger Dietenheim",
+  "city": "Dietenheim",
+  "nuts2_code": "DE14",
+  "employment": {
+    "size_class": "Small",
+    "estimate": null,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

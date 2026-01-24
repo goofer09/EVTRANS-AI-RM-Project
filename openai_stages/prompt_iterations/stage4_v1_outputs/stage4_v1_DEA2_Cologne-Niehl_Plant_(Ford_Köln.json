@@ -1,0 +1,15 @@
+{
+  "company": "Ford-Werke GmbH",
+  "plant": "Cologne-Niehl Plant (Ford K\u00f6ln-Niehl)",
+  "city": "K\u00f6ln",
+  "nuts2_code": "DEA2",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 4000,
+    "confidence": "medium",
+    "basis": "news"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

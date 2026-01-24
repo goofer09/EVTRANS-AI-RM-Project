@@ -1,0 +1,15 @@
+{
+  "company": "Liebherr-Components Biberach GmbH",
+  "nuts2_code": "DE14",
+  "nuts2_name": "T\u00fcbingen",
+  "plants": [
+    {
+      "plant_name": "Liebherr-Components Biberach (Biberach an der Ri\u00df)",
+      "city": "Biberach an der Ri\u00df",
+      "primary_function": "Component manufacturing \u2014 production of hydraulic and mechanical components (e.g., hydraulic pumps, motors, valves, drive components) for mobile and industrial applications"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

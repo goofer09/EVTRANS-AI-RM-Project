@@ -1,0 +1,15 @@
+{
+  "company": "ElringKlinger AG",
+  "plant": "ElringKlinger Dettingen/Erms",
+  "city": "Dettingen an der Erms",
+  "nuts2_code": "DE14",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": null,
+    "confidence": "low",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

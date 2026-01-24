@@ -1,0 +1,15 @@
+{
+  "company": "BMW AG",
+  "nuts2_code": "DE23",
+  "nuts2_name": "Oberpfalz",
+  "plants": [
+    {
+      "plant_name": "BMW Group Plant Regensburg",
+      "city": "Regensburg",
+      "primary_function": "Vehicle assembly and component manufacturing (body shop, paint shop, final assembly for BMW compact/midsize models)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

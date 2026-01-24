@@ -1,0 +1,15 @@
+{
+  "company": "BMW AG",
+  "plant": "BMW Group Plant Landshut",
+  "city": "Landshut",
+  "nuts2_code": "DE22",
+  "employment": {
+    "size_class": "Large",
+    "estimate": null,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

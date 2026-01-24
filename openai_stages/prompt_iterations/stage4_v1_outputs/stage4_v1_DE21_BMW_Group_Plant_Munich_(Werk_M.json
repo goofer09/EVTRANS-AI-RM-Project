@@ -1,0 +1,15 @@
+{
+  "company": "BMW AG",
+  "plant": "BMW Group Plant Munich (Werk M\u00fcnchen)",
+  "city": "M\u00fcnchen",
+  "nuts2_code": "DE21",
+  "employment": {
+    "size_class": "Very Large",
+    "estimate": 8000,
+    "confidence": "medium",
+    "basis": "news"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

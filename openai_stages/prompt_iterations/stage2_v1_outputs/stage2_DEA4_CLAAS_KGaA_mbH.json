@@ -1,0 +1,15 @@
+{
+  "company": "CLAAS KGaA mbH",
+  "nuts2_code": "DEA4",
+  "nuts2_name": "Detmold",
+  "plants": [
+    {
+      "plant_name": "Harsewinkel Plant",
+      "city": "Harsewinkel",
+      "primary_function": "Manufacture and assembly of combine harvesters, forage harvesters, tractors and agricultural machinery components"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

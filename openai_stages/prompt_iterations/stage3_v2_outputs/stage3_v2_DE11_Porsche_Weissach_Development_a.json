@@ -1,0 +1,11 @@
+{
+  "is_production_site": false,
+  "reason": "Porsche Weissach is primarily an R&D, engineering and motorsport development centre focused on design, testing and prototype construction rather than a series-production / manufacturing plant.",
+  "company": "Dr. Ing. h.c. F. Porsche AG",
+  "plant": "Porsche Weissach Development and Motorsport Centre",
+  "city": "Weissach",
+  "nuts2_code": "DE11",
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

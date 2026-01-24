@@ -1,0 +1,15 @@
+{
+  "company": "Adam Opel GmbH (Opel Eisenach)",
+  "plant": "Opel Werk Eisenach (Eisenach Plant)",
+  "city": "Eisenach",
+  "nuts2_code": "DEG0",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 1200,
+    "confidence": "medium",
+    "basis": "news"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

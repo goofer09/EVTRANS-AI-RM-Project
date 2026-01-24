@@ -1,0 +1,14 @@
+{
+  "nuts2_code": "DED4",
+  "nuts2_name": "Chemnitz",
+  "companies": [
+    {
+      "name": "Volkswagen Sachsen GmbH (Zwickau Plant)",
+      "type": "OEM",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

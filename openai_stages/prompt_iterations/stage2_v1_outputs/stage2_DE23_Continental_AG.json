@@ -1,0 +1,20 @@
+{
+  "company": "Continental AG",
+  "nuts2_code": "DE23",
+  "nuts2_name": "Oberpfalz",
+  "plants": [
+    {
+      "plant_name": "Continental Automotive GmbH - Werk Regensburg",
+      "city": "Regensburg",
+      "primary_function": "Automotive electronics and control units production (vehicle sensors, ECUs, electronic modules)"
+    },
+    {
+      "plant_name": "Continental / ContiTech Werk Amberg",
+      "city": "Amberg",
+      "primary_function": "Component manufacturing (technical rubber products, hoses, belts and related automotive components)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

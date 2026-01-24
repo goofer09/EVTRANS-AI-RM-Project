@@ -1,0 +1,15 @@
+{
+  "company": "Schaeffler AG",
+  "plant": "Herzogenaurach plant",
+  "city": "Herzogenaurach",
+  "nuts2_code": "DE25",
+  "employment": {
+    "size_class": "Large",
+    "estimate": null,
+    "confidence": "low",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

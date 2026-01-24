@@ -1,0 +1,19 @@
+{
+  "nuts2_code": "DE12",
+  "nuts2_name": "Karlsruhe",
+  "companies": [
+    {
+      "name": "Mercedes\u2011Benz Group AG",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Freudenberg SE",
+      "type": "Tier-1",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

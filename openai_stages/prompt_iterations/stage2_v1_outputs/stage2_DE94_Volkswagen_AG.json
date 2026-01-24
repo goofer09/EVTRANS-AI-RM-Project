@@ -1,0 +1,20 @@
+{
+  "company": "Volkswagen AG",
+  "nuts2_code": "DE94",
+  "nuts2_name": "Weser-Ems",
+  "plants": [
+    {
+      "plant_name": "Volkswagen Werk Emden",
+      "city": "Emden",
+      "primary_function": "Vehicle assembly (passenger car production) including body, paint and final assembly"
+    },
+    {
+      "plant_name": "Volkswagen Osnabr\u00fcck GmbH",
+      "city": "Osnabr\u00fcck",
+      "primary_function": "Vehicle assembly and low-volume/special model production (body manufacturing and assembly)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

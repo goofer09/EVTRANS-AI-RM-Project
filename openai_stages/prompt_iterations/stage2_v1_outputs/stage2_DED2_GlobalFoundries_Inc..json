@@ -1,0 +1,15 @@
+{
+  "company": "GlobalFoundries Inc.",
+  "nuts2_code": "DED2",
+  "nuts2_name": "Dresden",
+  "plants": [
+    {
+      "plant_name": "GlobalFoundries Dresden Fab",
+      "city": "Dresden",
+      "primary_function": "Semiconductor wafer fabrication (300 mm logic foundry producing integrated circuits)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

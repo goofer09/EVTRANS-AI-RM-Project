@@ -1,0 +1,11 @@
+{
+  "is_production_site": false,
+  "reason": "The Augsburg site manufactures industrial robots and automation equipment (capital machinery and robot controllers), not vehicle components \u2014 it is a supplier of production equipment rather than an automotive parts manufacturing plant.",
+  "company": "KUKA AG",
+  "plant": "KUKA Roboter GmbH (Augsburg plant)",
+  "city": "Augsburg",
+  "nuts2_code": "DE27",
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

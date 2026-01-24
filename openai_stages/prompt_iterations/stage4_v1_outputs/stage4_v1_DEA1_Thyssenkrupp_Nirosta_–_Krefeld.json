@@ -1,0 +1,15 @@
+{
+  "company": "thyssenkrupp AG",
+  "plant": "Thyssenkrupp Nirosta \u2013 Krefeld-Uerdingen",
+  "city": "Krefeld",
+  "nuts2_code": "DEA1",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": null,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

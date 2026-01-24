@@ -1,0 +1,27 @@
+{
+  "company": "BMW AG",
+  "plant": "BMW Group Plant Landshut",
+  "city": "Landshut",
+  "nuts2_code": "DE22",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Chassis & Suspension",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

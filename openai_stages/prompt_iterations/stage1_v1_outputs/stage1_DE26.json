@@ -1,0 +1,24 @@
+{
+  "nuts2_code": "DE26",
+  "nuts2_name": "Unterfranken",
+  "companies": [
+    {
+      "name": "Schaeffler AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "ZF Friedrichshafen AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "Lohr GmbH",
+      "type": "OEM",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

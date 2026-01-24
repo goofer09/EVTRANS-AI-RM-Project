@@ -1,0 +1,15 @@
+{
+  "company": "thyssenkrupp AG",
+  "plant": "Thyssenkrupp Steel Europe \u2013 Duisburg (Schwelgern integrated works)",
+  "city": "Duisburg",
+  "nuts2_code": "DEA1",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 3500,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

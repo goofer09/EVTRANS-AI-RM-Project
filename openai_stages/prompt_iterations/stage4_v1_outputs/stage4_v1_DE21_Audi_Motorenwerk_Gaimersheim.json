@@ -1,0 +1,15 @@
+{
+  "company": "Audi AG",
+  "plant": "Audi Motorenwerk Gaimersheim",
+  "city": "Gaimersheim",
+  "nuts2_code": "DE21",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 1200,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

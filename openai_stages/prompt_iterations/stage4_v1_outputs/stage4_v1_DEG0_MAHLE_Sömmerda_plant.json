@@ -1,0 +1,15 @@
+{
+  "company": "MAHLE GmbH (S\u00f6mmerda plant)",
+  "plant": "MAHLE S\u00f6mmerda plant",
+  "city": "S\u00f6mmerda",
+  "nuts2_code": "DEG0",
+  "employment": {
+    "size_class": "Small",
+    "estimate": null,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,20 @@
+{
+  "company": "thyssenkrupp AG",
+  "nuts2_code": "DEA1",
+  "nuts2_name": "D\u00fcsseldorf",
+  "plants": [
+    {
+      "plant_name": "thyssenkrupp Steel Europe \u2013 Duisburg site",
+      "city": "Duisburg",
+      "primary_function": "Production of flat steel and steel processing (integrated steelworks/rolling mills)"
+    },
+    {
+      "plant_name": "tk elevator (thyssenkrupp Elevator) \u2013 Velbert plant",
+      "city": "Velbert",
+      "primary_function": "Manufacture and assembly of elevators and elevator components"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

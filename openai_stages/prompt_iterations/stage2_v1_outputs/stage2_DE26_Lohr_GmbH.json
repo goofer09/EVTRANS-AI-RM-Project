@@ -1,0 +1,9 @@
+{
+  "company": "Lohr GmbH",
+  "nuts2_code": "DE26",
+  "nuts2_name": "Unterfranken",
+  "plants": [],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

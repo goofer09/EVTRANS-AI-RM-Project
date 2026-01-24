@@ -1,0 +1,15 @@
+{
+  "company": "LEONI AG",
+  "plant": "LEONI Plant Hechingen",
+  "city": "Hechingen",
+  "nuts2_code": "DE14",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": null,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

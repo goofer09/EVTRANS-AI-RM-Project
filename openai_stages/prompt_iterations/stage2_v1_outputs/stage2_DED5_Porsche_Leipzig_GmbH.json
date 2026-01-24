@@ -1,0 +1,15 @@
+{
+  "company": "Porsche Leipzig GmbH",
+  "nuts2_code": "DED5",
+  "nuts2_name": "Leipzig",
+  "plants": [
+    {
+      "plant_name": "Porsche Werk Leipzig (Porsche Leipzig GmbH)",
+      "city": "Leipzig",
+      "primary_function": "Vehicle manufacturing and assembly (body shop, paintshop, final assembly) including component and small-series production"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "KUKA AG",
+  "plant": "KUKA Roboter GmbH \u2013 Augsburg plant",
+  "city": "Augsburg",
+  "nuts2_code": "DE27",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Powertrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

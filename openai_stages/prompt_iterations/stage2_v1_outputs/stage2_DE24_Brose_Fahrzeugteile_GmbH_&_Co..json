@@ -1,0 +1,25 @@
+{
+  "company": "Brose Fahrzeugteile GmbH & Co. KG",
+  "nuts2_code": "DE24",
+  "nuts2_name": "Oberfranken",
+  "plants": [
+    {
+      "plant_name": "Brose Coburg",
+      "city": "Coburg",
+      "primary_function": "Automotive component manufacturing and assembly (mechatronic systems, electric motors, door and seat systems)"
+    },
+    {
+      "plant_name": "Brose Hallstadt",
+      "city": "Hallstadt (Bamberg)",
+      "primary_function": "Component manufacturing and assembly (electronic/mechatronic modules and electric drives)"
+    },
+    {
+      "plant_name": "Brose Neustadt bei Coburg",
+      "city": "Neustadt bei Coburg",
+      "primary_function": "Production and assembly of automotive components and mechatronic systems"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

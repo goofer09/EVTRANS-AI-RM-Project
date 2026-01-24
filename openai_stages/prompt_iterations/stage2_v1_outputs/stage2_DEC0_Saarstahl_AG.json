@@ -1,0 +1,20 @@
+{
+  "company": "Saarstahl AG",
+  "nuts2_code": "DEC0",
+  "nuts2_name": "Saarland",
+  "plants": [
+    {
+      "plant_name": "Saarstahl Werk V\u00f6lklingen",
+      "city": "V\u00f6lklingen",
+      "primary_function": "Production and rolling of long steel products (wire rod, bars) and associated steel processing"
+    },
+    {
+      "plant_name": "Saarstahl Werk Burbach",
+      "city": "Neunkirchen (Burbach)",
+      "primary_function": "Manufacture and finishing of long steel products (wire rod, bright bars, long-product processing)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,25 @@
+{
+  "company": "Dr. Ing. h.c. F. Porsche AG",
+  "nuts2_code": "DE11",
+  "nuts2_name": "Stuttgart",
+  "plants": [
+    {
+      "plant_name": "Porsche Werk Stuttgart-Zuffenhausen (Vehicle assembly & body shop)",
+      "city": "Stuttgart",
+      "primary_function": "Vehicle body production and final assembly (including production of Porsche 911 and related series)"
+    },
+    {
+      "plant_name": "Porsche Werk Stuttgart-Zuffenhausen (Engine / Powertrain plant)",
+      "city": "Stuttgart",
+      "primary_function": "Powertrain and engine manufacturing for Porsche vehicles"
+    },
+    {
+      "plant_name": "Porsche Weissach Development and Motorsport Centre",
+      "city": "Weissach",
+      "primary_function": "Prototype and pre-series production, motorsport/customer racing-car construction and component manufacturing"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,19 @@
+{
+  "nuts2_code": "DE91",
+  "nuts2_name": "Braunschweig",
+  "companies": [
+    {
+      "name": "Volkswagen AG",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "Salzgitter AG",
+      "type": "Tier-2",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

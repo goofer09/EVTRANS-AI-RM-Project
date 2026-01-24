@@ -1,0 +1,15 @@
+{
+  "company": "Infineon Technologies AG",
+  "nuts2_code": "DED2",
+  "nuts2_name": "Dresden",
+  "plants": [
+    {
+      "plant_name": "Infineon Dresden (semiconductor manufacturing site)",
+      "city": "Dresden",
+      "primary_function": "Wafer fabrication and production of power semiconductors (IGBTs, MOSFETs, SiC devices) and assembly of power modules"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

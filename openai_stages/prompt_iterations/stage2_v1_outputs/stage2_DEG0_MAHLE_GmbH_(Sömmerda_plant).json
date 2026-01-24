@@ -1,0 +1,15 @@
+{
+  "company": "MAHLE GmbH (S\u00f6mmerda plant)",
+  "nuts2_code": "DEG0",
+  "nuts2_name": "Th\u00fcringen",
+  "plants": [
+    {
+      "plant_name": "MAHLE S\u00f6mmerda plant",
+      "city": "S\u00f6mmerda",
+      "primary_function": "Manufacturing of engine components (pistons and related assemblies)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

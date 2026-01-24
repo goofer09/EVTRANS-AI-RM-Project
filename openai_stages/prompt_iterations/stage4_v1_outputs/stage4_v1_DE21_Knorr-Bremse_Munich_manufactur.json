@@ -1,0 +1,15 @@
+{
+  "company": "Knorr-Bremse AG",
+  "plant": "Knorr-Bremse Munich manufacturing site",
+  "city": "Munich",
+  "nuts2_code": "DE21",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": null,
+    "confidence": "low",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

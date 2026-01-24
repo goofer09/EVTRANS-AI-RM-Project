@@ -1,0 +1,15 @@
+{
+  "company": "Mercedes-Benz Group AG",
+  "plant": "Mercedes\u2011AMG Affalterbach (AMG Performance Center)",
+  "city": "Affalterbach",
+  "nuts2_code": "DE11",
+  "employment": {
+    "size_class": "Medium",
+    "estimate": 1200,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,17 @@
+{
+  "company": "ArcelorMittal Germany",
+  "plant": "ArcelorMittal Duisburg (Duisburg Steelworks - Bruckhausen)",
+  "city": "Duisburg",
+  "nuts2_code": "DEA1",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

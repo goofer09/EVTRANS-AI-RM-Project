@@ -1,0 +1,15 @@
+{
+  "company": "Volkswagen AG",
+  "plant": "Porsche Werk Leipzig (Porsche Leipzig GmbH)",
+  "city": "Leipzig",
+  "nuts2_code": "DED5",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 3500,
+    "confidence": "medium",
+    "basis": "news"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

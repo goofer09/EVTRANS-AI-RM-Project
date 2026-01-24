@@ -1,0 +1,19 @@
+{
+  "nuts2_code": "DE24",
+  "nuts2_name": "Oberfranken",
+  "companies": [
+    {
+      "name": "Brose Fahrzeugteile GmbH & Co. KG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "LEONI AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

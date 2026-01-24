@@ -1,0 +1,34 @@
+{
+  "nuts2_code": "DE21",
+  "nuts2_name": "Oberbayern",
+  "companies": [
+    {
+      "name": "Audi AG",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "BMW AG",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "Webasto SE",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "Knorr-Bremse AG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "ZF Friedrichshafen AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

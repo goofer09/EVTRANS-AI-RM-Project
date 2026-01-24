@@ -1,0 +1,19 @@
+{
+  "nuts2_code": "DE92",
+  "nuts2_name": "Hannover",
+  "companies": [
+    {
+      "name": "Volkswagen Nutzfahrzeuge GmbH",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "Continental AG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

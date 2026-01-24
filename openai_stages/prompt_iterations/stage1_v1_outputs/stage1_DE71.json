@@ -1,0 +1,14 @@
+{
+  "nuts2_code": "DE71",
+  "nuts2_name": "Darmstadt",
+  "companies": [
+    {
+      "name": "Opel Automobile GmbH",
+      "type": "OEM",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

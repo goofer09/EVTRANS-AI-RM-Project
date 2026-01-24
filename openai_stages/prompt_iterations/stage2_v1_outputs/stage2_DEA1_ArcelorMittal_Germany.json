@@ -1,0 +1,15 @@
+{
+  "company": "ArcelorMittal Germany",
+  "nuts2_code": "DEA1",
+  "nuts2_name": "D\u00fcsseldorf",
+  "plants": [
+    {
+      "plant_name": "ArcelorMittal Duisburg (integrated steelworks)",
+      "city": "Duisburg",
+      "primary_function": "Integrated steel production (blast furnaces, steelmaking, rolling mills producing flat steel/coils/plates)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

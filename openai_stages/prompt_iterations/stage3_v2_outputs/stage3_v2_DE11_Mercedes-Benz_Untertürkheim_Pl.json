@@ -1,0 +1,27 @@
+{
+  "company": "Mercedes-Benz Group AG",
+  "plant": "Mercedes-Benz Untert\u00fcrkheim Plant",
+  "city": "Stuttgart-Untert\u00fcrkheim",
+  "nuts2_code": "DE11",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "high"
+    },
+    {
+      "category": "Electric Powertrain Components",
+      "ice_ev_type": "EV",
+      "confidence": "medium"
+    },
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

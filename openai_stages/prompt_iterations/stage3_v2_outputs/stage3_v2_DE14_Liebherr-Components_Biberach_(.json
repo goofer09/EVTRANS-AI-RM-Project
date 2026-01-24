@@ -1,0 +1,27 @@
+{
+  "company": "Liebherr-Components Biberach GmbH",
+  "plant": "Liebherr-Components Biberach (Biberach an der Ri\u00df)",
+  "city": "Biberach an der Ri\u00df",
+  "nuts2_code": "DE14",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Chassis & Suspension",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

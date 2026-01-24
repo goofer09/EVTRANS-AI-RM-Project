@@ -1,0 +1,22 @@
+{
+  "company": "Freudenberg SE",
+  "plant": "Weinheim (Freudenberg production site)",
+  "city": "Weinheim",
+  "nuts2_code": "DE12",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "ICE",
+      "confidence": "medium"
+    },
+    {
+      "category": "Chassis & Suspension",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

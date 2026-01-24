@@ -1,0 +1,15 @@
+{
+  "company": "Volkswagen Sachsen GmbH (Zwickau Plant)",
+  "nuts2_code": "DED4",
+  "nuts2_name": "Chemnitz",
+  "plants": [
+    {
+      "plant_name": "Zwickau Plant (Werk Zwickau)",
+      "city": "Zwickau",
+      "primary_function": "Vehicle assembly \u2014 passenger car production, including electric vehicle (ID. family) manufacturing"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

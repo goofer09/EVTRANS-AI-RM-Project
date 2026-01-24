@@ -1,0 +1,11 @@
+{
+  "is_production_site": false,
+  "reason": "Peiner Tr\u00e4ger GmbH (Peine) is a steel-profile/structural-beam manufacturer producing construction and industrial steel sections, with no evidence it manufactures vehicle assemblies or automotive-specific components.",
+  "company": "Salzgitter AG",
+  "plant": "Peiner Tr\u00e4ger GmbH (Peine plant)",
+  "city": "Peine",
+  "nuts2_code": "DE91",
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,9 @@
+{
+  "company": "LEONI AG",
+  "nuts2_code": "DE24",
+  "nuts2_name": "Oberfranken",
+  "plants": [],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

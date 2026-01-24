@@ -1,0 +1,34 @@
+{
+  "nuts2_code": "DE94",
+  "nuts2_name": "Weser-Ems",
+  "companies": [
+    {
+      "name": "Volkswagen AG",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Volkswagen Osnabr\u00fcck GmbH",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "Mercedes-Benz Group AG",
+      "type": "OEM",
+      "hq_in_region": false
+    },
+    {
+      "name": "Brose Fahrzeugteile GmbH & Co. KG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "Bernard Krone Holding GmbH & Co. KG",
+      "type": "OEM",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

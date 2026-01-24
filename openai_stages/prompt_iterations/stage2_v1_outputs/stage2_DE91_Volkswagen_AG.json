@@ -1,0 +1,20 @@
+{
+  "company": "Volkswagen AG",
+  "nuts2_code": "DE91",
+  "nuts2_name": "Braunschweig",
+  "plants": [
+    {
+      "plant_name": "Werk Wolfsburg (Wolfsburg Plant)",
+      "city": "Wolfsburg",
+      "primary_function": "Vehicle assembly (passenger car production) and associated vehicle component manufacturing"
+    },
+    {
+      "plant_name": "Motorenwerk Salzgitter (Salzgitter Plant)",
+      "city": "Salzgitter",
+      "primary_function": "Powertrain/component manufacturing (engine and engine component production)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

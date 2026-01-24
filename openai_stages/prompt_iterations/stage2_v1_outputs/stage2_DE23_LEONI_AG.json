@@ -1,0 +1,25 @@
+{
+  "company": "LEONI AG",
+  "nuts2_code": "DE23",
+  "nuts2_name": "Oberpfalz",
+  "plants": [
+    {
+      "plant_name": "LEONI Wiring Systems Regensburg",
+      "city": "Regensburg",
+      "primary_function": "Wiring harness and cable assembly for automotive customers"
+    },
+    {
+      "plant_name": "LEONI Neumarkt Plant",
+      "city": "Neumarkt in der Oberpfalz",
+      "primary_function": "Cable and component manufacturing for automotive applications"
+    },
+    {
+      "plant_name": "LEONI Weiden Plant",
+      "city": "Weiden in der Oberpfalz",
+      "primary_function": "Assembly and manufacturing of wiring systems and components"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

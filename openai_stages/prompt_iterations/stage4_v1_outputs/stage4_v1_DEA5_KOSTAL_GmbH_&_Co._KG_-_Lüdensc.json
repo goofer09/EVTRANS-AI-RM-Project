@@ -1,0 +1,15 @@
+{
+  "company": "KOSTAL (KOSTAL Gruppe)",
+  "plant": "KOSTAL GmbH & Co. KG - L\u00fcdenscheid plant",
+  "city": "L\u00fcdenscheid",
+  "nuts2_code": "DEA5",
+  "employment": {
+    "size_class": "Large",
+    "estimate": 3000,
+    "confidence": "medium",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

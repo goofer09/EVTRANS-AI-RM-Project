@@ -1,0 +1,20 @@
+{
+  "company": "Audi AG",
+  "nuts2_code": "DE21",
+  "nuts2_name": "Oberbayern",
+  "plants": [
+    {
+      "plant_name": "Audi Werk Ingolstadt",
+      "city": "Ingolstadt",
+      "primary_function": "Vehicle production (body shop, paint shop, final assembly of passenger cars)"
+    },
+    {
+      "plant_name": "Audi Motorenwerk Gaimersheim",
+      "city": "Gaimersheim",
+      "primary_function": "Engine / powertrain manufacturing and assembly"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "HYDAC International GmbH",
+  "plant": "HYDAC - Sulzbach (production site)",
+  "city": "Sulzbach/Saar",
+  "nuts2_code": "DEC0",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Chassis & Suspension",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Powertrain Components",
+      "ice_ev_type": "Shared",
+      "confidence": "low"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

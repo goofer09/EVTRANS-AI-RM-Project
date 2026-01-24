@@ -1,0 +1,15 @@
+{
+  "company": "Mubea GmbH & Co. KG",
+  "plant": "Mubea Attendorn Plant",
+  "city": "Attendorn",
+  "nuts2_code": "DEA5",
+  "employment": {
+    "size_class": "Small",
+    "estimate": null,
+    "confidence": "low",
+    "basis": "inference"
+  },
+  "version": "stage4_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

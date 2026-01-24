@@ -1,0 +1,20 @@
+{
+  "company": "ElringKlinger AG",
+  "nuts2_code": "DE14",
+  "nuts2_name": "T\u00fcbingen",
+  "plants": [
+    {
+      "plant_name": "ElringKlinger Dettingen/Erms",
+      "city": "Dettingen an der Erms",
+      "primary_function": "Production of cylinder-head gaskets and engine sealing systems"
+    },
+    {
+      "plant_name": "ElringKlinger Dietenheim",
+      "city": "Dietenheim",
+      "primary_function": "Plastics and component manufacturing (plastic modules and sealing components)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

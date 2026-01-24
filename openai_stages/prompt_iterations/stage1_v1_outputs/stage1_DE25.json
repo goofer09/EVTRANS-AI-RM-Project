@@ -1,0 +1,19 @@
+{
+  "nuts2_code": "DE25",
+  "nuts2_name": "Mittelfranken",
+  "companies": [
+    {
+      "name": "Schaeffler AG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "Leoni AG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

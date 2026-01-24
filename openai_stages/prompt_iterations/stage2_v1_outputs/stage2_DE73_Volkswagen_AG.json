@@ -1,0 +1,15 @@
+{
+  "company": "Volkswagen AG",
+  "nuts2_code": "DE73",
+  "nuts2_name": "Kassel",
+  "plants": [
+    {
+      "plant_name": "Volkswagen Group Components - Werk Baunatal (Kassel)",
+      "city": "Baunatal",
+      "primary_function": "Component and powertrain manufacturing (transmissions, axles, gears and related drivetrain components)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

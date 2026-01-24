@@ -1,0 +1,27 @@
+{
+  "company": "HELLA GmbH & Co. KGaA",
+  "plant": "Lippstadt Plant",
+  "city": "Lippstadt",
+  "nuts2_code": "DEA5",
+  "is_production_site": true,
+  "components": [
+    {
+      "category": "Electronics & Control Units",
+      "ice_ev_type": "Shared",
+      "confidence": "high"
+    },
+    {
+      "category": "Body & Structural Parts",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    },
+    {
+      "category": "Interior Systems",
+      "ice_ev_type": "Shared",
+      "confidence": "medium"
+    }
+  ],
+  "version": "stage3_v2_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

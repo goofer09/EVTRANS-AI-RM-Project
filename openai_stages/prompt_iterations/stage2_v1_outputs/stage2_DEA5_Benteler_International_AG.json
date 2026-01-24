@@ -1,0 +1,9 @@
+{
+  "company": "Benteler International AG",
+  "nuts2_code": "DEA5",
+  "nuts2_name": "Arnsberg",
+  "plants": [],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

@@ -1,0 +1,20 @@
+{
+  "company": "Ford-Werke GmbH",
+  "nuts2_code": "DEA2",
+  "nuts2_name": "K\u00f6ln",
+  "plants": [
+    {
+      "plant_name": "Cologne-Niehl Plant (Ford K\u00f6ln-Niehl)",
+      "city": "K\u00f6ln",
+      "primary_function": "Vehicle assembly and body shop (passenger cars/commercial vehicles)"
+    },
+    {
+      "plant_name": "Cologne Engine Plant (Ford K\u00f6ln Engine Plant / K\u00f6ln-Merkenich)",
+      "city": "K\u00f6ln",
+      "primary_function": "Engine manufacturing (powertrain production)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}

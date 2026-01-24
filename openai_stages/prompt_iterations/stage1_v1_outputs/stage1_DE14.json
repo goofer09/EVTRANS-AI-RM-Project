@@ -1,0 +1,34 @@
+{
+  "nuts2_code": "DE14",
+  "nuts2_name": "T\u00fcbingen",
+  "companies": [
+    {
+      "name": "ZF Friedrichshafen AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "LEONI AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "Hirschvogel Automotive Group",
+      "type": "Tier-2",
+      "hq_in_region": true
+    },
+    {
+      "name": "Liebherr-Components Biberach GmbH",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "ElringKlinger AG",
+      "type": "Tier-1",
+      "hq_in_region": true
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-21",
+  "model": "gpt-5-mini"
+}

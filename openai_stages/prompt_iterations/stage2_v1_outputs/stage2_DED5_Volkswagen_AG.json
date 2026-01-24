@@ -1,0 +1,25 @@
+{
+  "company": "Volkswagen AG",
+  "nuts2_code": "DED5",
+  "nuts2_name": "Leipzig",
+  "plants": [
+    {
+      "plant_name": "Volkswagen Werk Leipzig (Volkswagen Sachsen GmbH)",
+      "city": "Leipzig",
+      "primary_function": "Vehicle assembly \u2014 large-scale production of Volkswagen passenger vehicles (SUVs and other models) and associated body/paint/assembly operations"
+    },
+    {
+      "plant_name": "Gl\u00e4serne Manufaktur (Transparent Factory, Volkswagen Sachsen GmbH)",
+      "city": "Leipzig",
+      "primary_function": "Small-series and limited vehicle assembly, finishing and customer handover (special editions, low-volume production)"
+    },
+    {
+      "plant_name": "Porsche Werk Leipzig (Porsche Leipzig GmbH)",
+      "city": "Leipzig",
+      "primary_function": "Vehicle assembly and production for Porsche models (body shop, paint shop, final assembly)"
+    }
+  ],
+  "version": "stage2_v1_openai",
+  "date": "2026-01-22",
+  "model": "gpt-5-mini"
+}
