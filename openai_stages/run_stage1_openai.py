@@ -76,7 +76,8 @@ def build_prompt(nuts2_code: str, nuts2_name: str) -> str:
     return f"""You are an expert in the European automotive industry.
 
 TASK:
-For the German NUTS-2 region "{nuts2_code} — {nuts2_name}", identify the 3 most significant automotive companies that operate production or manufacturing facilities
+For the German NUTS-2 region "{nuts2_code} — {nuts2_name}", identify the 3 most
+significant automotive companies that operate production or manufacturing facilities
 in this region.
 
 Include ONLY companies with real automotive manufacturing presence.
@@ -118,6 +119,9 @@ Return ONLY valid JSON in the following structure (no markdown, no explanations)
     }}
   ]
 }}
+
+IMPORTANT:
+- Return EXACTLY 3 companies (most significant only).
 """
 
 
@@ -146,14 +150,19 @@ def run_stage1(nuts2_code: str, nuts2_name: str) -> dict:
     
     # Parse JSON response
     try:
-        # Try to find JSON object
-        json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+        # Try to find JSON object (strip code fences if present)
+        cleaned = response_text.strip()
+        cleaned = re.sub(r"^```(?:json)?", "", cleaned, flags=re.IGNORECASE).strip()
+        cleaned = re.sub(r"```$", "", cleaned).strip()
+
+        json_match = re.search(r'\{.*\}', cleaned, re.DOTALL)
         if json_match:
             data = json.loads(json_match.group(0))
         else:
-            data = json.loads(response_text)
+            data = json.loads(cleaned)
     except json.JSONDecodeError as e:
         print(f"WARNING: Failed to parse JSON for {nuts2_code} - {e}")
+        print(f"[STAGE1] Full response for {nuts2_code}: {response_text}")
         data = {
             "nuts2_code": nuts2_code,
             "nuts2_name": nuts2_name,
@@ -169,6 +178,8 @@ def run_stage1(nuts2_code: str, nuts2_name: str) -> dict:
     
     if "companies" not in data:
         data["companies"] = []
+
+    data["companies"] = data["companies"][:3]
     
     # Save output
     out_file = os.path.join(OUTPUT_DIR, f"stage1_{nuts2_code}.json")

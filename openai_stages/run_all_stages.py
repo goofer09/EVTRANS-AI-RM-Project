@@ -13,6 +13,7 @@ Usage:
   python run_all_stages.py --test      # 3 test regions
   python run_all_stages.py --priority  # 15 priority regions
   python run_all_stages.py --all       # All 38 German NUTS-2 regions
+  python run_all_stages.py --custom DE11,DE21,DE94  # Custom NUTS-2 codes
   python run_all_stages.py --from 3    # Resume from Stage 3
 """
 
@@ -73,7 +74,7 @@ def run_pipeline(regions: dict, start_from: int = 1):
         print("▶" * 35)
         
         start = datetime.now()
-        run_stage2()
+        run_stage2(regions_filter=set(regions.keys()))
         stage_times["Stage 2"] = datetime.now() - start
         print(f"\n⏱ Stage 2 completed in {stage_times['Stage 2']}")
     else:
@@ -88,7 +89,7 @@ def run_pipeline(regions: dict, start_from: int = 1):
         print("▶" * 35)
         
         start = datetime.now()
-        run_stage3()
+        run_stage3(regions_filter=set(regions.keys()))
         stage_times["Stage 3"] = datetime.now() - start
         print(f"\n⏱ Stage 3 completed in {stage_times['Stage 3']}")
     else:
@@ -103,7 +104,7 @@ def run_pipeline(regions: dict, start_from: int = 1):
         print("▶" * 35)
         
         start = datetime.now()
-        run_stage4()
+        run_stage4(regions_filter=set(regions.keys()))
         stage_times["Stage 4"] = datetime.now() - start
         print(f"\n⏱ Stage 4 completed in {stage_times['Stage 4']}")
     else:
@@ -178,36 +179,56 @@ Examples:
   python run_all_stages.py --test           # Quick test with 3 regions
   python run_all_stages.py --priority       # 15 automotive-heavy regions
   python run_all_stages.py --all            # All 38 German NUTS-2 regions
+  python run_all_stages.py --custom DE11,DE21,DE94  # Custom NUTS-2 codes
   python run_all_stages.py --from 3         # Resume from Stage 3
   python run_all_stages.py --from 5         # Just run validation & RAVI
         """
     )
-    
+
     group = parser.add_mutually_exclusive_group()
-    group.add_argument('--test', action='store_true',
-                  help='Test with 3 regions (Stuttgart, Oberbayern, Braunschweig)')
-    group.add_argument('--priority', action='store_true',
-                  help='Priority automotive regions (15 regions)')
-    group.add_argument('--all', action='store_true',
-                  help='All 38 German NUTS-2 regions')
-    group.add_argument('--remaining', action='store_true',
-                  help='Remaining unprocessed regions (23 regions)')
-    group.add_argument('--custom', type=str,
-                  help='Comma-separated NUTS-2 codes (e.g., DE11,DE21,DE94)')
+    group.add_argument(
+        '--test',
+        action='store_true',
+        help='Test with 3 regions (Stuttgart, Oberbayern, Braunschweig)',
+    )
+    group.add_argument(
+        '--priority',
+        action='store_true',
+        help='Priority automotive regions (15 regions)',
+    )
+    group.add_argument(
+        '--all',
+        action='store_true',
+        help='All 38 German NUTS-2 regions',
+    )
+    group.add_argument(
+        '--remaining',
+        action='store_true',
+        help='Remaining unprocessed regions (23 regions)',
+    )
+    group.add_argument(
+        '--custom',
+        type=str,
+        help='Comma-separated NUTS-2 codes (e.g., DE11,DE21,DE94)',
+    )
 
-
-    parser.add_argument('--from', dest='start_from', type=int, default=1,
-                       help='Start from stage N (1-6). Use to resume failed runs.')
+    parser.add_argument(
+        '--from',
+        dest='start_from',
+        type=int,
+        default=1,
+        help='Start from stage N (1-6). Use to resume failed runs.',
+    )
 
     args = parser.parse_args()
 
     # Select regions
     if args.custom:
         custom_codes = [code.strip().upper() for code in args.custom.split(",") if code.strip()]
-    regions = {code: ALL_REGIONS[code] for code in custom_codes if code in ALL_REGIONS}
-    missing = sorted(set(custom_codes) - set(regions.keys()))
-    if missing:
-        print(f"WARNING: Unknown region codes ignored: {', '.join(missing)}")
+        regions = {code: ALL_REGIONS[code] for code in custom_codes if code in ALL_REGIONS}
+        missing = sorted(set(custom_codes) - set(regions.keys()))
+        if missing:
+            print(f"WARNING: Unknown region codes ignored: {', '.join(missing)}")
     elif args.all:
         regions = ALL_REGIONS
 

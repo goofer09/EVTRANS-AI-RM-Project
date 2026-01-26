@@ -131,7 +131,7 @@ def run_stage2_for_company(company_name: str, nuts2_code: str, nuts2_name: str) 
 # BATCH RUNNER
 # ============================================================
 
-def run_stage2():
+def run_stage2(regions_filter: set | None = None):
     """
     Process all Stage 1 outputs and identify plants for each company.
     """
@@ -161,6 +161,8 @@ def run_stage2():
             stage1_data = json.load(f)
         
         nuts2_code = stage1_data.get("nuts2_code", "")
+        if regions_filter and nuts2_code not in regions_filter:
+            continue
         nuts2_name = stage1_data.get("nuts2_name", "")
         companies = stage1_data.get("companies", [])
         

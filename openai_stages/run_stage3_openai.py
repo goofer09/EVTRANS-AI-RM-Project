@@ -186,7 +186,7 @@ def run_stage3_for_plant(company: str, plant_name: str, city: str, nuts2_code: s
 # BATCH RUNNER
 # ============================================================
 
-def run_stage3():
+def run_stage3(regions_filter: set | None = None):
     """
     Process all Stage 2 outputs and classify components for each plant.
     """
@@ -217,6 +217,8 @@ def run_stage3():
         
         company = stage2_data.get("company", "Unknown")
         nuts2_code = stage2_data.get("nuts2_code", "")
+        if regions_filter and nuts2_code not in regions_filter:
+            continue
         nuts2_name = stage2_data.get("nuts2_name", "")
         plants = stage2_data.get("plants", [])
         
