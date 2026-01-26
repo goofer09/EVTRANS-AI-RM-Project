@@ -76,7 +76,7 @@ def build_prompt(nuts2_code: str, nuts2_name: str) -> str:
     return f"""You are an expert in the European automotive industry.
 
 TASK:
-For the German NUTS-2 region "{nuts2_code} — {nuts2_name}", identify the most
+For the German NUTS-2 region "{nuts2_code} — {nuts2_name}", identify the 3 most
 significant automotive companies that operate production or manufacturing facilities
 in this region.
 
@@ -118,6 +118,9 @@ Return ONLY valid JSON in the following structure (no markdown, no explanations)
     }}
   ]
 }}
+
+IMPORTANT:
+- Return EXACTLY 3 companies (most significant only).
 """
 
 
@@ -169,6 +172,8 @@ def run_stage1(nuts2_code: str, nuts2_name: str) -> dict:
     
     if "companies" not in data:
         data["companies"] = []
+
+    data["companies"] = data["companies"][:3]
     
     # Save output
     out_file = os.path.join(OUTPUT_DIR, f"stage1_{nuts2_code}.json")
