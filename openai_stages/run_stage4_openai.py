@@ -175,7 +175,7 @@ def run_stage4_for_plant(company: str, plant: str, city: str, nuts2_code: str) -
 # BATCH RUNNER
 # ============================================================
 
-def run_stage4():
+def run_stage4(regions_filter: set | None = None):
     """
     Process all Stage 3 outputs (production sites only) and estimate employment.
     """
@@ -216,6 +216,8 @@ def run_stage4():
         plant = stage3_data.get("plant", "Unknown")
         city = stage3_data.get("city", "")
         nuts2_code = stage3_data.get("nuts2_code", "")
+        if regions_filter and nuts2_code not in regions_filter:
+            continue
         
         print(f"\n{company} - {plant}:")
         total_plants += 1
