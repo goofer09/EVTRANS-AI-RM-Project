@@ -1,0 +1,2184 @@
+[
+  {
+    "company": "Bosch Automotive Steering Germany GmbH",
+    "plant": "Bosch Automotive Steering Gerlingen",
+    "city": "Gerlingen",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1000,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 80.7,
+    "plant_ice_dependency": 0.15,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Bosch Automotive Steering Germany GmbH",
+    "plant": "Bosch Automotive Steering Stuttgart-Feuerbach",
+    "city": "Stuttgart",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 79.1,
+    "plant_ice_dependency": 0.167,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Porsche AG",
+    "plant": "Leon",
+    "city": "Leon, Spain (Part of Audi Group but Porsche produces the Cayman and Boxster there)",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "low",
+    "plant_tfs": 70.5,
+    "plant_ice_dependency": 0.235,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Tesla, Inc.",
+    "plant": "Gigafactory Berlin Brandenburg",
+    "city": "Gr\u00fcnheide",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 12000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 79.6,
+    "plant_ice_dependency": 0.149,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 2,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Battery Systems",
+        "ice_ev_type": "EV",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Volkswagen AG",
+    "plant": "Volkswagen e-Mobility GmbH",
+    "city": "Berlin-Spandau",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 55,
+    "plant_ice_dependency": 0.5,
+    "component_count": 0,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 0,
+    "components": []
+  },
+  {
+    "company": "Audi AG",
+    "plant": "Audi Berlin-Brandenburg",
+    "city": "Neumarkt",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1500,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 55,
+    "plant_ice_dependency": 0.5,
+    "component_count": 0,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 0,
+    "components": []
+  },
+  {
+    "company": "Continental AG",
+    "plant": "Continental Chassis & Safety GmbH",
+    "city": "Biebesheim am Main",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 63.5,
+    "plant_ice_dependency": 0.375,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Safety Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Bosch GmbH",
+    "plant": "Bosch Automotive Steering Berlin",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 850,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 79.1,
+    "plant_ice_dependency": 0.167,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Bosch GmbH",
+    "plant": "Bosch Automotive Steering Berlin",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 79.1,
+    "plant_ice_dependency": 0.167,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler Technologies AG & Co. KG",
+    "plant": "Schaeffler LuK GmbH",
+    "city": "Weiterstadt",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 39.7,
+    "plant_ice_dependency": 0.671,
+    "component_count": 2,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Continental AG",
+    "plant": "Kornwestheim Plant",
+    "city": "Kornwestheim",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 54.2,
+    "plant_ice_dependency": 0.462,
+    "component_count": 4,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler AG",
+    "plant": "Schaeffler Marienfelde",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 30.0,
+    "plant_ice_dependency": 0.9,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Bosch GmbH",
+    "plant": "Bosch Diesel Systems Berlin-Marzahn",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 39.7,
+    "plant_ice_dependency": 0.671,
+    "component_count": 2,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Bosch GmbH",
+    "plant": "Bosch Diesel Systems Berlin-Marzahn",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 39.7,
+    "plant_ice_dependency": 0.671,
+    "component_count": 2,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Bosch GmbH",
+    "plant": "Bosch Car Multimedia Berlin-Marzahn",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 750,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 75.0,
+    "plant_ice_dependency": 0.2,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Porsche AG",
+    "plant": "Porsche Werk Zuffenhausen (Stuttgart-Zuffenhausen)",
+    "city": "Stuttgart",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 6000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 49.3,
+    "plant_ice_dependency": 0.517,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Porsche AG",
+    "plant": "Zuffenhausen",
+    "city": "Zuffenhausen",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 6500,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 64.6,
+    "plant_ice_dependency": 0.33,
+    "component_count": 5,
+    "ice_count": 1,
+    "ev_count": 1,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Bosch Automotive Steering Germany GmbH",
+    "plant": "Bosch Automotive Steering Gerlingen",
+    "city": "Gerlingen",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 850,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 80.7,
+    "plant_ice_dependency": 0.15,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler Technologies AG & Co. KG",
+    "plant": "Schaeffler Marienfels GmbH & Co. KG",
+    "city": "Marienfels",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 68.7,
+    "plant_ice_dependency": 0.296,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Bearings (a crucial component for various systems including Powertrain, Chassis & Suspension, Body & Structural Parts)",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Mercedes-Benz Vans",
+    "plant": "Mercedes-Benz Vans W\u00f6rth",
+    "city": "W\u00f6rth am Rhein",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 58.2,
+    "plant_ice_dependency": 0.405,
+    "component_count": 4,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "BMW Group",
+    "plant": "BMW Berlin Plant",
+    "city": "Marienfelde",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 78.3,
+    "plant_ice_dependency": 0.167,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      },
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "low"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Bosch GmbH",
+    "plant": "Bosch Car Multimedia Berlin-Marzahn",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 75.0,
+    "plant_ice_dependency": 0.2,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Mercedes-Benz Trucks GmbH",
+    "plant": "Mercedes-Benz Stuttgart-Untert\u00fcrkheim Plant",
+    "city": "Stuttgart",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 11000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 53.6,
+    "plant_ice_dependency": 0.466,
+    "component_count": 4,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Berlin-Borsigwalde Plant",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1000,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 55,
+    "plant_ice_dependency": 0.5,
+    "component_count": 0,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 0,
+    "components": []
+  },
+  {
+    "company": "Continental AG",
+    "plant": "Continental Powertrain Technologies GmbH",
+    "city": "W\u00f6rth am Rhein",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 800,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 52.5,
+    "plant_ice_dependency": 0.55,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler Technologies AG & Co. KG",
+    "plant": "Herrenberg Plant",
+    "city": "Herrenberg",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 60.7,
+    "plant_ice_dependency": 0.417,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 1,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Audi AG",
+    "plant": "Audi Elvington",
+    "city": "Elvington",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 850,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 55,
+    "plant_ice_dependency": 0.5,
+    "component_count": 0,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 0,
+    "components": []
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Mercedes-Benz Untert\u00fcrkheim Plant",
+    "city": "Stuttgart-Untert\u00fcrkheim",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 47.9,
+    "plant_ice_dependency": 0.588,
+    "component_count": 2,
+    "ice_count": 1,
+    "ev_count": 1,
+    "shared_count": 0,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Continental AG",
+    "plant": "Hockenheim Plant",
+    "city": "Hockenheim",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 75.0,
+    "plant_ice_dependency": 0.198,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "company": "Bosch Automotive Steering Germany GmbH",
+    "plant": "Bosch Automotive Stuttgart-Vaihingen",
+    "city": "Stuttgart",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 900,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 79.1,
+    "plant_ice_dependency": 0.167,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Volkswagen AG",
+    "plant": "Volkswagen Berlin plant",
+    "city": "Bernau bei Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1200,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 55,
+    "plant_ice_dependency": 0.5,
+    "component_count": 0,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 0,
+    "components": []
+  },
+  {
+    "company": "BMW Group",
+    "plant": "BMW Leipzig Plant",
+    "city": "Leipzig",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 4500,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 76.6,
+    "plant_ice_dependency": 0.177,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 2,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      },
+      {
+        "category": "Battery Systems",
+        "ice_ev_type": "EV",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "plant": "ZF Leonard Technology GmbH",
+    "city": "Kornwestheim",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "low",
+    "plant_tfs": 73.5,
+    "plant_ice_dependency": 0.225,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Porsche AG",
+    "plant": "Weissach",
+    "city": "Weissach im Tal",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 6000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 71.2,
+    "plant_ice_dependency": 0.225,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Mercedes-Benz Kamenz",
+    "city": "Kamenz",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 67.3,
+    "plant_ice_dependency": 0.283,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Daimler Buses Gaggenau",
+    "city": "Gaggenau",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 71.2,
+    "plant_ice_dependency": 0.225,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "plant": "ZF Friedrichshafen AG Plant (Main Factory)",
+    "city": "Friedrichshafen",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 800,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 50.5,
+    "plant_ice_dependency": 0.537,
+    "component_count": 4,
+    "ice_count": 2,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Mercedes-Benz Trucks GmbH",
+    "plant": "Mercedes-Benz Stuttgart-Untert\u00fcrkheim Plant",
+    "city": "Stuttgart",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 4000,
+    "size_class": "Large",
+    "employment_confidence": "high",
+    "plant_tfs": 53.6,
+    "plant_ice_dependency": 0.466,
+    "component_count": 4,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Bosch Automotive Steering Germany GmbH",
+    "plant": "Bosch Automotive Steering Stuttgart-Feuerbach",
+    "city": "Stuttgart",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 79.1,
+    "plant_ice_dependency": 0.167,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "plant": "ZF Berlin-Marienfelde GmbH",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 73.5,
+    "plant_ice_dependency": 0.225,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Opel Automobile GmbH",
+    "plant": "Opel Kaiserslautern Plant",
+    "city": "Kaiserslautern",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 1200,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 40.0,
+    "plant_ice_dependency": 0.7,
+    "component_count": 1,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 0,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Mercedes-Benz Trucks GmbH",
+    "plant": "Mercedes-Benz W\u00f6rth Plant",
+    "city": "W\u00f6rth am Rhein",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 9000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 49.1,
+    "plant_ice_dependency": 0.589,
+    "component_count": 5,
+    "ice_count": 4,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Bosch Automotive Steering Germany GmbH",
+    "plant": "Bosch Automotive Stuttgart-Vaihingen",
+    "city": "Stuttgart",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "low",
+    "plant_tfs": 79.1,
+    "plant_ice_dependency": 0.167,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 1,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "plant": "ZF Lahr (Lahr/Schwarzwald plant)",
+    "city": "Lahr",
+    "nuts2_code": "DE13",
+    "nuts2_name": "Freiburg",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 73.2,
+    "plant_ice_dependency": 0.229,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Mercedes-Benz Rastatt",
+    "city": "Rastatt",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 6000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 60.0,
+    "plant_ice_dependency": 0.38,
+    "component_count": 5,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Continental AG",
+    "plant": "Continental Chassis & Safety GmbH",
+    "city": "Biebesheim am Main",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 63.5,
+    "plant_ice_dependency": 0.375,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Safety Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler Technologies AG & Co. KG",
+    "plant": "B\u00fchl Plant",
+    "city": "B\u00fchl",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 30.0,
+    "plant_ice_dependency": 0.9,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler Technologies AG & Co. KG",
+    "plant": "Schaeffler Marienfels GmbH & Co. KG",
+    "city": "Marienfels",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "low",
+    "plant_tfs": 68.7,
+    "plant_ice_dependency": 0.296,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Bearings (a crucial component for various systems including Powertrain, Chassis & Suspension, Body & Structural Parts)",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "plant": "ZF Lokomotiv- und Kraftwerke GmbH",
+    "city": "Kornwestheim",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1000,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 52.5,
+    "plant_ice_dependency": 0.55,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Continental AG",
+    "plant": "Continental Powertrain Technologies GmbH",
+    "city": "W\u00f6rth am Rhein",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 52.5,
+    "plant_ice_dependency": 0.55,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Continental AG",
+    "plant": "Continental Dieffenbacher GmbH",
+    "city": "Dieffenbach",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "low",
+    "plant_tfs": 71.2,
+    "plant_ice_dependency": 0.257,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Vehicle Assembly (partial)",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler Technologies AG & Co. KG",
+    "plant": "Schaeffler Kugelfischer GmbH",
+    "city": "Darmstadt",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 51.0,
+    "plant_ice_dependency": 0.575,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Opel Automobile GmbH",
+    "plant": "Opel R\u00fcsselsheim Plant",
+    "city": "R\u00fcsselsheim am Main",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 67.9,
+    "plant_ice_dependency": 0.269,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler Technologies AG & Co. KG",
+    "plant": "Schw\u00e4bisch Hall Plant",
+    "city": "Schw\u00e4bisch Hall",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 50.2,
+    "plant_ice_dependency": 0.543,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 1,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Mercedes-AMG Affalterbach (AMG GmbH)",
+    "city": "Affalterbach",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 1200,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 31.5,
+    "plant_ice_dependency": 0.753,
+    "component_count": 2,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Bosch GmbH",
+    "plant": "Bosch Powertrain Systems Berlin-Marzahn",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1200,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 45.0,
+    "plant_ice_dependency": 0.6,
+    "component_count": 2,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Bosch Automotive Steering GmbH",
+    "plant": "Bosch Automotive Steering Darmstadt",
+    "city": "Darmstadt",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 850,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 73.5,
+    "plant_ice_dependency": 0.225,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Mercedes-Benz Untert\u00fcrkheim",
+    "city": "Stuttgart",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 8000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 53.6,
+    "plant_ice_dependency": 0.466,
+    "component_count": 4,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Continental AG",
+    "plant": "Continental Berlin-Spandau",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 75.0,
+    "plant_ice_dependency": 0.2,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Bosch GmbH",
+    "plant": "Bosch Powertrain Systems Berlin-Marzahn",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 850,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 45.0,
+    "plant_ice_dependency": 0.6,
+    "component_count": 2,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "plant": "ZF Friedrichshafen AG Plant (Main Factory)",
+    "city": "Friedrichshafen",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 50.5,
+    "plant_ice_dependency": 0.537,
+    "component_count": 4,
+    "ice_count": 2,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "ZF Friedrichshafen AG",
+    "plant": "ZF Lokomotiv- und Kraftwerke GmbH",
+    "city": "Kornwestheim",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "low",
+    "plant_tfs": 52.5,
+    "plant_ice_dependency": 0.55,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Bosch Automotive Steering GmbH",
+    "plant": "Bosch Automotive Steering Darmstadt",
+    "city": "Darmstadt",
+    "nuts2_code": "DE71",
+    "nuts2_name": "Darmstadt",
+    "employment": 1250,
+    "size_class": "Medium",
+    "employment_confidence": "low",
+    "plant_tfs": 73.5,
+    "plant_ice_dependency": 0.225,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Mercedes-Benz Sindelfingen Plant",
+    "city": "Sindelfingen",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 30000,
+    "size_class": "Very Large",
+    "employment_confidence": "medium",
+    "plant_tfs": 70.6,
+    "plant_ice_dependency": 0.226,
+    "component_count": 4,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 4,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "company": "Magna International Inc.",
+    "plant": "Magna Steyr Fahrzeugtechnik GmbH",
+    "city": "Spandau",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "low",
+    "plant_tfs": 67.2,
+    "plant_ice_dependency": 0.269,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Mercedes-Benz Sindelfingen",
+    "city": "Sindelfingen",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 7500,
+    "size_class": "Very Large",
+    "employment_confidence": "high",
+    "plant_tfs": 53.6,
+    "plant_ice_dependency": 0.466,
+    "component_count": 4,
+    "ice_count": 1,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Body & Structural Parts",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Magna International Inc.",
+    "plant": "Magna Steyr Fahrzeugtechnik GmbH",
+    "city": "Spandau",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1500,
+    "size_class": "Medium",
+    "employment_confidence": "high",
+    "plant_tfs": 67.2,
+    "plant_ice_dependency": 0.269,
+    "component_count": 3,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 3,
+    "components": [
+      {
+        "category": "Vehicle Assembly",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      },
+      {
+        "category": "Interior Systems",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Schaeffler AG",
+    "plant": "Schaeffler Hanomag",
+    "city": "Spandau",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "low",
+    "plant_tfs": 61.7,
+    "plant_ice_dependency": 0.4,
+    "component_count": 3,
+    "ice_count": 1,
+    "ev_count": 1,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Powertrain Components",
+        "ice_ev_type": "ICE",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electric Powertrain Components",
+        "ice_ev_type": "EV",
+        "confidence": "medium"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "company": "Daimler AG",
+    "plant": "Berlin-Marienfelde Plant",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 1500,
+    "size_class": "Medium",
+    "employment_confidence": "medium",
+    "plant_tfs": 55,
+    "plant_ice_dependency": 0.5,
+    "component_count": 0,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 0,
+    "components": []
+  },
+  {
+    "company": "Bosch Automotive Steering Germany GmbH",
+    "plant": "Werk Schw\u00e4bisch Gm\u00fcnd (Bosch Automotive Steering)",
+    "city": "Schw\u00e4bisch Gm\u00fcnd",
+    "nuts2_code": "DE11",
+    "nuts2_name": "Stuttgart",
+    "employment": 3500,
+    "size_class": "Large",
+    "employment_confidence": "low",
+    "plant_tfs": 73.5,
+    "plant_ice_dependency": 0.225,
+    "component_count": 2,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 2,
+    "components": [
+      {
+        "category": "Chassis & Suspension",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      },
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "company": "Continental AG",
+    "plant": "Continental Berlin-Mahlsdorf",
+    "city": "Berlin",
+    "nuts2_code": "DE30",
+    "nuts2_name": "Berlin",
+    "employment": 250,
+    "size_class": "Small",
+    "employment_confidence": "low",
+    "plant_tfs": 75.0,
+    "plant_ice_dependency": 0.2,
+    "component_count": 1,
+    "ice_count": 0,
+    "ev_count": 0,
+    "shared_count": 1,
+    "components": [
+      {
+        "category": "Electronics & Control Units",
+        "ice_ev_type": "Shared",
+        "confidence": "high"
+      }
+    ]
+  }
+]

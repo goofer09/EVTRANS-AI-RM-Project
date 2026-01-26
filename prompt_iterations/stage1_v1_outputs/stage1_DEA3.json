@@ -1,0 +1,24 @@
+{
+  "nuts2_code": "DEA3",
+  "nuts2_name": "M\u00fcnster",
+  "companies": [
+    {
+      "name": "Schmitz Cargobull AG",
+      "type": "OEM",
+      "hq_in_region": true
+    },
+    {
+      "name": "Hengst SE",
+      "type": "Tier-1",
+      "hq_in_region": true
+    },
+    {
+      "name": "DR\u00c4XLMAIER Group",
+      "type": "Tier-1",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-26",
+  "model": "gpt-5-mini"
+}

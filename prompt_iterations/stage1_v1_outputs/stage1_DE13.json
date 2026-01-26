@@ -1,0 +1,24 @@
+{
+  "nuts2_code": "DE13",
+  "nuts2_name": "Freiburg",
+  "companies": [
+    {
+      "name": "Continental AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "SICK AG",
+      "type": "Tier-2",
+      "hq_in_region": true
+    },
+    {
+      "name": "ZF Friedrichshafen AG",
+      "type": "Tier-1",
+      "hq_in_region": false
+    }
+  ],
+  "version": "stage1_v1_openai",
+  "date": "2026-01-26",
+  "model": "gpt-5-mini"
+}

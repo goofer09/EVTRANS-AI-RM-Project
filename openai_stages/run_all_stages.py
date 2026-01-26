@@ -185,13 +185,16 @@ Examples:
     
     group = parser.add_mutually_exclusive_group()
     group.add_argument('--test', action='store_true',
-                      help='Test with 3 regions (Stuttgart, Oberbayern, Braunschweig)')
+                  help='Test with 3 regions (Stuttgart, Oberbayern, Braunschweig)')
     group.add_argument('--priority', action='store_true',
-                      help='Priority automotive regions (15 regions)')
+                  help='Priority automotive regions (15 regions)')
     group.add_argument('--all', action='store_true',
-                      help='All 38 German NUTS-2 regions')
+                  help='All 38 German NUTS-2 regions')
     group.add_argument('--remaining', action='store_true',
-                      help='Remaining unprocessed regions (23 regions)')
+                  help='Remaining unprocessed regions (23 regions)')
+    group.add_argument('--custom', type=str,
+                  help='Comma-separated NUTS-2 codes (e.g., DE11,DE21,DE94)')
+
 
     parser.add_argument('--from', dest='start_from', type=int, default=1,
                        help='Start from stage N (1-6). Use to resume failed runs.')
@@ -199,14 +202,16 @@ Examples:
     args = parser.parse_args()
 
     # Select regions
-    if args.all:
+    if args.custom:
+        custom_codes = [code.strip().upper() for code in args.custom.split(",") if code.strip()]
+    regions = {code: ALL_REGIONS[code] for code in custom_codes if code in ALL_REGIONS}
+    missing = sorted(set(custom_codes) - set(regions.keys()))
+    if missing:
+        print(f"WARNING: Unknown region codes ignored: {', '.join(missing)}")
+    elif args.all:
         regions = ALL_REGIONS
-    elif args.remaining:
-        regions = REMAINING_REGIONS
-    elif args.test:
-        regions = TEST_REGIONS
-    else:
-        regions = PRIORITY_REGIONS  # Default
+
+
     
     # Create output directories
     os.makedirs("prompt_iterations/stage1_v1_outputs", exist_ok=True)

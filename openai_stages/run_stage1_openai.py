@@ -76,13 +76,13 @@ def build_prompt(nuts2_code: str, nuts2_name: str) -> str:
     return f"""You are an expert in the European automotive industry.
 
 TASK:
-For the German NUTS-2 region "{nuts2_code} — {nuts2_name}", identify the most
-significant automotive companies that operate production or manufacturing facilities
+For the German NUTS-2 region "{nuts2_code} — {nuts2_name}", identify the 3 most significant automotive companies that operate production or manufacturing facilities
 in this region.
 
 Include ONLY companies with real automotive manufacturing presence.
 
 COMPANY TYPES TO INCLUDE:
+  Return EXACTLY 3 companies
 - OEMs (vehicle manufacturers)
 - Tier-1 suppliers (direct suppliers to OEMs)
 - Tier-2 suppliers ONLY if they represent significant regional employment or strategic importance

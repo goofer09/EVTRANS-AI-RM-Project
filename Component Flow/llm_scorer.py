@@ -6,6 +6,9 @@ Lean prompt with placeholders - forces LLM to think instead of echo
 import requests
 import json
 import re
+from openai import OpenAI
+
+client=OpenAI()
 
 class ComponentScorer:
     """
@@ -37,37 +40,87 @@ class ComponentScorer:
         
         for component_name in components:
             # FIXED PROMPT: Lean, no hardcoded example scores
-            prompt = f"""Score {component_name} (HS {hs_code}) for ICE→EV transition (0-100):
-- Technical compatibility
-- Manufacturing feasibility  
-- Supply chain continuity
-- Market demand
-- Value preservation
-- Regulatory alignment
+            prompt = f"""You are an expert in automotive engineering, manufacturing systems, and industrial transition analysis.
 
-Return JSON: {{"tech":?,"manufacturing":?,"supply_chain":?,"demand":?,"value":?,"regulatory":?}}
-Each score 0-100. Higher = easier transition."""
+Your task is to evaluate how vulnerable or adaptable a vehicle component is during the transition
+from internal combustion engine (ICE) vehicles to electric vehicles (EVs).
 
+Component:
+"{component_name}"
+
+Score the component on the following SIX dimensions (0–100):
+
+1. technical_compatibility:
+   Can this component technically exist in EV architectures?
+   (Low = ICE-specific, High = EV-compatible)
+
+2. manufacturing_feasibility:
+   Can existing manufacturing equipment, processes, and skills be repurposed for EV components?
+   (Low = difficult to repurpose, High = easy to repurpose)
+
+3. supply_chain_concentration:
+   How concentrated is the supplier base?
+   (Low = many interchangeable suppliers, High = few specialized suppliers)
+
+4. demand_stability:
+   Expected demand stability after the ICE-to-EV transition.
+   (Low = demand collapse, High = stable or growing demand)
+
+5. value_added:
+   Economic and skill intensity of production.
+   (Low = commoditized, High = high value-added and skill-intensive)
+
+6. regulatory_exposure:
+   Exposure to ICE phase-out regulation.
+   (Low = strongly exposed to regulation, High = largely unaffected)
+
+IMPORTANT SCORING RULES:
+- Scores must be integers between 20 and 90
+- Avoid extreme values unless strongly justified
+- Low scores indicate ICE lock-in
+- High scores indicate EV adaptability
+
+Provide ONE concise sentence of reasoning per dimension.
+Explicitly reference the ICE-to-EV transition where relevant.
+
+Return EXACTLY ONE valid JSON object.
+Do NOT include text before or after the JSON.
+Do NOT include markdown.
+
+The JSON MUST have this structure and NOTHING else:
+
+{
+  "component": "{component_name}",
+  "technical_compatibility": 0,
+  "manufacturing_feasibility": 0,
+  "supply_chain_concentration": 0,
+  "demand_stability": 0,
+  "value_added": 0,
+  "regulatory_exposure": 0,
+  "reasoning": {
+    "technical_compatibility": "one short sentence",
+    "manufacturing_feasibility": "one short sentence",
+    "supply_chain_concentration": "one short sentence",
+    "demand_stability": "one short sentence",
+    "value_added": "one short sentence",
+    "regulatory_exposure": "one short sentence"
+  }
+}
+
+"""
+
+            # Call GPT-5 Mini
+        try:
+            response = client.responses.create(
+                model="gpt-5-mini",
+                input=prompt
+            )
+            response_text = response.output_text
+            print(f"[ENRICHER] Raw response: {response_text[:100]}...")
+        except Exception as e:
+            print(f"WARNING: LLM call failed - {e}")
             response_text = ""
-            try:
-                response = requests.post(
-                    'http://localhost:11434/api/generate',
-                    json={
-                        'model': 'mistral:7b',
-                        'prompt': prompt,
-                        'stream': False,
-                        'temperature': 0.15
-                    },
-                    timeout=300
-                )
-                response_text = response.json()['response']
-            
-            except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
-                print(f"WARNING: LLM timeout for {component_name}")
-                response_text = ""
-            except Exception as e:
-                print(f"WARNING: Error scoring {component_name}")
-                response_text = ""
+
             
             # Try to parse JSON from response
             score_data = None

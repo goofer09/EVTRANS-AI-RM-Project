@@ -1,0 +1,59 @@
+{
+  "version": "stage5_v1_openai",
+  "date": "2026-01-26",
+  "summary": {
+    "regions_analyzed": 4,
+    "total_plants": 71,
+    "total_llm_employment": 194550,
+    "pass_count": 1,
+    "warning_count": 0,
+    "flag_count": 2,
+    "no_baseline_count": 1
+  },
+  "regions": [
+    {
+      "nuts2_code": "DE11",
+      "nuts2_name": "Stuttgart",
+      "plant_count": 32,
+      "llm_employment_sum": 130500,
+      "eurostat_employment": 185000,
+      "deviation": -0.295,
+      "deviation_pct": "-29.5%",
+      "validation_status": "PASS",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE30",
+      "nuts2_name": "Berlin",
+      "plant_count": 24,
+      "llm_employment_sum": 39700,
+      "eurostat_employment": 15000,
+      "deviation": 1.647,
+      "deviation_pct": "164.7%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE71",
+      "nuts2_name": "Darmstadt",
+      "plant_count": 14,
+      "llm_employment_sum": 23100,
+      "eurostat_employment": 65000,
+      "deviation": -0.645,
+      "deviation_pct": "-64.5%",
+      "validation_status": "FLAG",
+      "uncertain_plants": 0
+    },
+    {
+      "nuts2_code": "DE13",
+      "nuts2_name": "Freiburg",
+      "plant_count": 1,
+      "llm_employment_sum": 1250,
+      "eurostat_employment": null,
+      "deviation": null,
+      "deviation_pct": "N/A",
+      "validation_status": "NO_BASELINE",
+      "uncertain_plants": 0
+    }
+  ]
+}
