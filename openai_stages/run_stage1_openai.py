@@ -104,6 +104,8 @@ RELIABILITY RULES:
 - If unsure whether a company has manufacturing in this region, DO NOT include it
 - Prefer well-documented, widely known facilities
 - Do NOT guess or speculate
+- Do NOT ask to browse or look up sources
+- If unsure, still return JSON with an empty companies list
 
 OUTPUT FORMAT:
 Return ONLY valid JSON in the following structure (no markdown, no explanations):
