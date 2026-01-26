@@ -149,14 +149,19 @@ def run_stage1(nuts2_code: str, nuts2_name: str) -> dict:
     
     # Parse JSON response
     try:
-        # Try to find JSON object
-        json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+        # Try to find JSON object (strip code fences if present)
+        cleaned = response_text.strip()
+        cleaned = re.sub(r"^```(?:json)?", "", cleaned, flags=re.IGNORECASE).strip()
+        cleaned = re.sub(r"```$", "", cleaned).strip()
+
+        json_match = re.search(r'\{.*\}', cleaned, re.DOTALL)
         if json_match:
             data = json.loads(json_match.group(0))
         else:
-            data = json.loads(response_text)
+            data = json.loads(cleaned)
     except json.JSONDecodeError as e:
         print(f"WARNING: Failed to parse JSON for {nuts2_code} - {e}")
+        print(f"[STAGE1] Full response for {nuts2_code}: {response_text}")
         data = {
             "nuts2_code": nuts2_code,
             "nuts2_name": nuts2_name,
