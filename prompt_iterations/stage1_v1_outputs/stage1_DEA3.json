@@ -3,17 +3,17 @@
   "nuts2_name": "M\u00fcnster",
   "companies": [
     {
-      "name": "Schmitz Cargobull AG",
-      "type": "OEM",
-      "hq_in_region": true
-    },
-    {
       "name": "Hengst SE",
       "type": "Tier-1",
       "hq_in_region": true
     },
     {
-      "name": "DR\u00c4XLMAIER Group",
+      "name": "Benteler Automotive",
+      "type": "Tier-1",
+      "hq_in_region": false
+    },
+    {
+      "name": "GKN Automotive",
       "type": "Tier-1",
       "hq_in_region": false
     }

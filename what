@@ -1,0 +1,17 @@
+[33m256daae[m[33m ([m[1;31morigin/codex/review-llm-pipelines-in-component-flow-and-openai_stages[m[33m)[m Improve stage1 JSON parsing diagnostics
+[33m060abfb[m Fix run_all_stages CLI indentation
+[33m40951eb[m Added Factory Flow Pipeline
+[33m75322b0[m Finalized batch component runner for all HS Codes
+[33m9c40d33[m Added Folder Org documentation and Quick Start Guide
+[33m1be6f00[m resolved prompt testing folder
+[33mb7a377d[m Made changes to prompting strategy
+[33ma0bbba2[m updated prompt testing setups and initial testing for NUTS2 prompts
+[33mdca0685[m Merge branch 'main' of https://github.com/goofer09/EVTRANS-AI-RM-Project
+[33m08dea2c[m Initial commit: Complete prompt engineering system
+[33mf98641d[m Add MIT License file to the project
+[33m254abf3[m Enhance README with project structure and examples
+[33m6f6dbc2[m Revise README for Prompt Engineering System
+[33mc5005b6[m Create setup instructions in SETUP.md
+[33m9b33cdd[m Create requirements.txt with package dependencies
+[33m315b556[m Add comprehensive .gitignore file for project
+[33m8d446cb[m Add project title and description to README
