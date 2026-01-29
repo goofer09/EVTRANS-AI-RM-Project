@@ -1,0 +1,14 @@
+{
+  "version": "stage5_v1_openai",
+  "date": "2026-01-26",
+  "summary": {
+    "regions_analyzed": 0,
+    "total_plants": 0,
+    "total_llm_employment": 0,
+    "pass_count": 0,
+    "warning_count": 0,
+    "flag_count": 0,
+    "no_baseline_count": 0
+  },
+  "regions": []
+}
